@@ -1,0 +1,30 @@
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "1zk-IO-jS5"; */
+"1zk-IO-jS5.title" = "Name:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Name to assosicate with license key"; ObjectID = "JL9-wh-1Zp"; */
+"JL9-wh-1Zp.ibExternalAccessibilityDescription" = "Name to assosicate with license key";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Request License Key"; ObjectID = "Jam-O7-WoM"; */
+"Jam-O7-WoM.ibExternalAccessibilityDescription" = "Request License Key";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "KYK-L5-DFY"; */
+"KYK-L5-DFY.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "E-mail Address:"; ObjectID = "Vhu-bj-bYq"; */
+"Vhu-bj-bYq.title" = "E-mail Address:";
+
+/* Class = "NSButtonCell"; title = "Request License Key"; ObjectID = "cOF-4q-haH"; */
+"cOF-4q-haH.title" = "Request License Key";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "caz-XB-TnX"; */
+"caz-XB-TnX.ibExternalAccessibilityDescription" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Enter the name and e-mail address that you would llike associated with your license key. "; ObjectID = "fYJ-sf-Wdh"; */
+"fYJ-sf-Wdh.title" = "Enter the name and e-mail address that you would llike associated with your license key. ";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "puk-fp-XeX"; */
+"puk-fp-XeX.title" = "Window";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "E-mail address to associate with license key"; ObjectID = "rVI-TX-GRu"; */
+"rVI-TX-GRu.ibExternalAccessibilityDescription" = "E-mail address to associate with license key";

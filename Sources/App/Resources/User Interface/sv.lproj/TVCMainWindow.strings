@@ -1,0 +1,270 @@
+
+/* Class = "NSWindow"; title = "Textual 7"; ObjectID = "21"; */
+"21.title" = "Textual 7";
+
+/* Class = "NSMenuItem"; title = " Black"; ObjectID = "0Ss-XT-b86"; */
+"0Ss-XT-b86.title" = " Black";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to Textual 7"; ObjectID = "0jK-Hy-GsU"; */
+"0jK-Hy-GsU.title" = "Welcome to Textual 7";
+
+/* Class = "NSMenuItem"; title = "Text Background Color"; ObjectID = "4xF-Sg-oGj"; */
+"4xF-Sg-oGj.title" = "Text Background Color";
+
+/* Class = "NSTextFieldCell"; title = "Away status:"; ObjectID = "8hg-20-pcc"; */
+"8hg-20-pcc.title" = "Away status:";
+
+/* Class = "NSMenuItem"; title = " Orange"; ObjectID = "8vZ-G8-jv5"; */
+"8vZ-G8-jv5.title" = " Orange";
+
+/* Class = "NSMenuItem"; title = " Yellow"; ObjectID = "ABW-nJ-yww"; */
+"ABW-nJ-yww.title" = " Yellow";
+
+/* Class = "NSMenuItem"; title = " White"; ObjectID = "ARN-Ri-nbk"; */
+"ARN-Ri-nbk.title" = " White";
+
+/* Class = "NSMenuItem"; title = " Black"; ObjectID = "Aw4-EX-d4G"; */
+"Aw4-EX-d4G.title" = " Black";
+
+/* Class = "NSMenuItem"; title = " Teal (Green/Blue Cyan)"; ObjectID = "Bje-lA-3rz"; */
+"Bje-lA-3rz.title" = " Teal (Green/Blue Cyan)";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "CNy-6F-gGj"; */
+"CNy-6F-gGj.title" = "Username:";
+
+/* Class = "NSMenuItem"; title = " Pink (Light Purple) (Fuchsia)"; ObjectID = "CrD-bC-Yfu"; */
+"CrD-bC-Yfu.title" = " Pink (Light Purple) (Fuchsia)";
+
+/* Class = "NSMenuItem"; title = " Purple"; ObjectID = "EIN-fm-82Q"; */
+"EIN-fm-82Q.title" = " Purple";
+
+/* Class = "NSMenuItem"; title = "Text Color"; ObjectID = "Ebt-RF-aBw"; */
+"Ebt-RF-aBw.title" = "Text Color";
+
+/* Class = "NSMenuItem"; title = " Yellow"; ObjectID = "Gh5-I1-yLt"; */
+"Gh5-I1-yLt.title" = " Yellow";
+
+/* Class = "NSButtonCell"; title = "Not Private"; ObjectID = "HaN-Sj-wDl"; */
+"HaN-Sj-wDl.title" = "Not Private";
+
+/* Class = "NSMenuItem"; title = "Monospace"; ObjectID = "IRX-kV-qMN"; */
+"IRX-kV-qMN.title" = "Monospace";
+
+/* Class = "NSMenuItem"; title = " Red"; ObjectID = "IWI-GH-Ora"; */
+"IWI-GH-Ora.title" = " Red";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for trying Textual 7 for the past 30 days. \n\nTo continue using Textual 7, you will need to purchase it."; ObjectID = "J9b-GU-Ie0"; */
+"J9b-GU-Ie0.title" = "Thank you for trying Textual 7 for the past 30 days. \n\nTo continue using Textual 7, you will need to purchase it.";
+
+/* Class = "NSTextFieldCell"; title = "Privileges:"; ObjectID = "Jh3-ii-xIy"; */
+"Jh3-ii-xIy.title" = "Privileges:";
+
+/* Class = "NSTextFieldCell"; title = "Your trial of Textual 7 has expired!"; ObjectID = "LNi-eT-r8e"; */
+"LNi-eT-r8e.title" = "Your trial of Textual 7 has expired!";
+
+/* Class = "NSMenuItem"; title = " Light Cyan (Cyan) (Aqua)"; ObjectID = "LwL-4r-OcQ"; */
+"LwL-4r-OcQ.title" = " Light Cyan (Cyan) (Aqua)";
+
+/* Class = "NSTextFieldCell"; title = "Already own a copy of Textual 7?"; ObjectID = "MJr-dN-Icn"; */
+"MJr-dN-Icn.title" = "Already own a copy of Textual 7?";
+
+/* Class = "NSOutlineView"; ibExternalAccessibilityDescription = "Server List"; ObjectID = "MLD-Aa-PLM"; */
+"MLD-Aa-PLM.ibExternalAccessibilityDescription" = "Server List";
+
+/* Class = "NSMenuItem"; title = "Italics"; ObjectID = "MQM-6c-LVF"; */
+"MQM-6c-LVF.title" = "Italics";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Mby-SL-PEz"; */
+"Mby-SL-PEz.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "Ml7-3B-qhV"; */
+"Ml7-3B-qhV.title" = "Continue";
+
+/* Class = "NSMenuItem"; title = " Light Green (Lime)"; ObjectID = "N9c-LY-gcF"; */
+"N9c-LY-gcF.title" = " Light Green (Lime)";
+
+/* Class = "NSMenuItem"; title = " Orange"; ObjectID = "OIM-ms-A0J"; */
+"OIM-ms-A0J.title" = " Orange";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "User Information Popover"; ObjectID = "Oh2-zJ-yiT"; */
+"Oh2-zJ-yiT.ibExternalAccessibilityDescription" = "User Information Popover";
+
+/* Class = "NSButtonCell"; title = "Purchase Now"; ObjectID = "Oyn-9I-e5e"; */
+"Oyn-9I-e5e.title" = "Purchase Now";
+
+/* Class = "NSMenuItem"; title = " Light Cyan (Cyan) (Aqua)"; ObjectID = "P7u-ao-KWb"; */
+"P7u-ao-KWb.title" = " Light Cyan (Cyan) (Aqua)";
+
+/* Class = "NSMenuItem"; title = " Light Green (Lime)"; ObjectID = "PoI-vF-KTc"; */
+"PoI-vF-KTc.title" = " Light Green (Lime)";
+
+/* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "Main Window Segmented Controller"; ObjectID = "Q9x-Ny-Yn4"; */
+"Q9x-Ny-Yn4.ibExternalAccessibilityDescription" = "Main Window Segmented Controller";
+
+/* Class = "NSMenuItem"; title = " Pink (Light Purple) (Fuchsia)"; ObjectID = "QK2-3t-Rgp"; */
+"QK2-3t-Rgp.title" = " Pink (Light Purple) (Fuchsia)";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "Qak-zW-pkC"; */
+"Qak-zW-pkC.title" = "Address:";
+
+/* Class = "NSMenuItem"; title = " Grey"; ObjectID = "Qjv-cy-whN"; */
+"Qjv-cy-whN.title" = " Grey";
+
+/* Class = "NSTextFieldCell"; title = "Real name:"; ObjectID = "Rtg-7l-7PS"; */
+"Rtg-7l-7PS.title" = "Real name:";
+
+/* Class = "NSMenuItem"; title = " Green"; ObjectID = "SGm-V5-eSq"; */
+"SGm-V5-eSq.title" = " Green";
+
+/* Class = "NSTextFieldCell"; title = "Loading Configuration …"; ObjectID = "T82-TC-gp8"; */
+"T82-TC-gp8.title" = "Loading Configuration …";
+
+/* Class = "NSMenuItem"; title = " White"; ObjectID = "TDN-yE-ZR8"; */
+"TDN-yE-ZR8.title" = " White";
+
+/* Class = "NSMenuItem"; title = "Spoiler"; ObjectID = "TKk-OM-x7h"; */
+"TKk-OM-x7h.title" = "Spoiler";
+
+/* Class = "NSTextFieldCell"; title = "################################"; ObjectID = "UPo-wk-s6E"; */
+"UPo-wk-s6E.title" = "################################";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Main Text Field"; ObjectID = "Ub5-no-pBU"; */
+"Ub5-no-pBU.ibExternalAccessibilityDescription" = "Main Text Field";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VBc-Qe-fZN"; */
+"VBc-Qe-fZN.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Underline"; ObjectID = "WEO-6i-cGf"; */
+"WEO-6i-cGf.title" = "Underline";
+
+/* Class = "NSMenuItem"; title = " Brown (Maroon)"; ObjectID = "Who-wC-fSt"; */
+"Who-wC-fSt.title" = " Brown (Maroon)";
+
+/* Class = "NSTextFieldCell"; title = "################################"; ObjectID = "XTw-zV-D90"; */
+"XTw-zV-D90.title" = "################################";
+
+/* Class = "NSMenuItem"; title = " Red"; ObjectID = "YP3-Vn-UX9"; */
+"YP3-Vn-UX9.title" = " Red";
+
+/* Class = "NSMenuItem"; title = " Rainbow"; ObjectID = "YPx-ab-Cac"; */
+"YPx-ab-Cac.title" = " Rainbow";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "aWH-di-A9U"; */
+"aWH-di-A9U.title" = "Table View Cell";
+
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "ajV-SV-z21"; */
+"ajV-SV-z21.title" = "Bold";
+
+/* Class = "NSTextFieldCell"; title = "################################"; ObjectID = "av8-83-Zed"; */
+"av8-83-Zed.title" = "################################";
+
+/* Class = "NSMenuItem"; title = " Purple"; ObjectID = "b3W-X6-t1o"; */
+"b3W-X6-t1o.title" = " Purple";
+
+/* Class = "NSTextFieldCell"; title = "Textual is a powerful, yet lightweight, IRC client built exclusively for the Mac. To get started, Textual will walk you through adding your first server. Click the button below to get started."; ObjectID = "bTX-Jn-rpL"; */
+"bTX-Jn-rpL.title" = "Textual is a powerful, yet lightweight, IRC client built exclusively for the Mac. To get started, Textual will walk you through adding your first server. Click the button below to get started.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Begin Setup"; ObjectID = "ba0-0Q-9bh"; */
+"ba0-0Q-9bh.ibExternalAccessibilityDescription" = "Begin Setup";
+
+/* Class = "NSMenuItem"; title = " Blue (Navy)"; ObjectID = "czd-tP-iaS"; */
+"czd-tP-iaS.title" = " Blue (Navy)";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "dKB-ut-N9M"; */
+"dKB-ut-N9M.title" = "Other…";
+
+/* Class = "NSMenu"; title = "Background Color"; ObjectID = "dMA-xy-EJU"; */
+"dMA-xy-EJU.title" = "Background Color";
+
+/* Class = "NSMenuItem"; title = " Teal (Green/Blue Cyan)"; ObjectID = "dlX-Ta-yRu"; */
+"dlX-Ta-yRu.title" = " Teal (Green/Blue Cyan)";
+
+/* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "eHi-3i-hdN"; */
+"eHi-3i-hdN.title" = "Strikethrough";
+
+/* Class = "NSMenuItem"; title = "Background Color"; ObjectID = "ePW-6F-Q1S"; */
+"ePW-6F-Q1S.title" = "Background Color";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fBN-3b-ksS"; */
+"fBN-3b-ksS.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "################################"; ObjectID = "fBu-jr-cGU"; */
+"fBu-jr-cGU.title" = "################################";
+
+/* Class = "NSMenuItem"; title = " Light Blue (Royal)"; ObjectID = "fi2-Ew-trd"; */
+"fi2-Ew-trd.title" = " Light Blue (Royal)";
+
+/* Class = "NSTextFieldCell"; title = "################################"; ObjectID = "fuW-Vk-8im"; */
+"fuW-Vk-8im.title" = "################################";
+
+/* Class = "NSMenuItem"; title = " Light Grey (Silver)"; ObjectID = "glT-A8-2O4"; */
+"glT-A8-2O4.title" = " Light Grey (Silver)";
+
+/* Class = "NSMenuItem"; title = " Green"; ObjectID = "kS9-2O-sqS"; */
+"kS9-2O-sqS.title" = " Green";
+
+/* Class = "NSSegmentedCell"; l5w-Kh-b34.ibShadowedToolTips[0] = "Add Server or Channel"; ObjectID = "l5w-Kh-b34"; */
+"l5w-Kh-b34.ibShadowedToolTips[0]" = "Add Server or Channel";
+
+/* Class = "NSSegmentedCell"; l5w-Kh-b34.ibShadowedToolTips[1] = "Manage Selection"; ObjectID = "l5w-Kh-b34"; */
+"l5w-Kh-b34.ibShadowedToolTips[1]" = "Manage Selection";
+
+/* Class = "NSSegmentedCell"; l5w-Kh-b34.ibShadowedToolTips[2] = "Open Address Book"; ObjectID = "l5w-Kh-b34"; */
+"l5w-Kh-b34.ibShadowedToolTips[2]" = "Open Address Book";
+
+/* Class = "NSMenuItem"; title = " Blue (Navy)"; ObjectID = "l7k-2J-Xf5"; */
+"l7k-2J-Xf5.title" = " Blue (Navy)";
+
+/* Class = "NSMenuItem"; title = "Text Foreground Color"; ObjectID = "lOb-fX-IG0"; */
+"lOb-fX-IG0.title" = "Text Foreground Color";
+
+/* Class = "NSMenu"; title = "Text Color"; ObjectID = "nLk-Fl-2lR"; */
+"nLk-Fl-2lR.title" = "Text Color";
+
+/* Class = "NSTextFieldCell"; title = "################################"; ObjectID = "ohH-Rl-ixA"; */
+"ohH-Rl-ixA.title" = "################################";
+
+/* Class = "NSMenuItem"; title = " Light Blue (Royal)"; ObjectID = "qRD-RR-Ksa"; */
+"qRD-RR-Ksa.title" = " Light Blue (Royal)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "qcu-ms-jpx"; */
+"qcu-ms-jpx.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = " Grey"; ObjectID = "r0U-BE-Nuu"; */
+"r0U-BE-Nuu.title" = " Grey";
+
+/* Class = "NSMenu"; title = "IRC Formatting"; ObjectID = "tby-cl-t36"; */
+"tby-cl-t36.title" = "IRC Formatting";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Purchase Textual"; ObjectID = "u65-PZ-rca"; */
+"u65-PZ-rca.ibExternalAccessibilityDescription" = "Purchase Textual";
+
+/* Class = "NSMenuItem"; title = " Light Grey (Silver)"; ObjectID = "uI2-y4-Mub"; */
+"uI2-y4-Mub.title" = " Light Grey (Silver)";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to Textual 7"; ObjectID = "uL2-Aa-1FS"; */
+"uL2-Aa-1FS.title" = "Welcome to Textual 7";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "uyY-8y-tGv"; */
+"uyY-8y-tGv.title" = "Other…";
+
+/* Class = "NSMenuItem"; title = " Brown (Maroon)"; ObjectID = "x1s-UD-e6l"; */
+"x1s-UD-e6l.title" = " Brown (Maroon)";
+
+/* Class = "NSMenuItem"; title = "Background Color"; ObjectID = "yrv-9t-LSZ"; */
+"yrv-9t-LSZ.title" = "Background Color";
+
+/* Class = "NSMenuItem"; title = "IRC Formatting"; ObjectID = "yuS-Ad-J8i"; */
+"yuS-Ad-J8i.title" = "IRC Formatting";
+
+/* Class = "NSMenuItem"; title = " Rainbow"; ObjectID = "yvr-bb-p4H"; */
+"yvr-bb-p4H.title" = " Rainbow";
+
+/* Class = "NSTextFieldCell"; title = "Nickname:"; ObjectID = "z6F-bu-Ztu"; */
+"z6F-bu-Ztu.title" = "Nickname:";
+
+/* Class = "NSMenuItem"; title = "Text Color"; ObjectID = "zcK-F5-D5E"; */
+"zcK-F5-D5E.title" = "Text Color";
+
+/* Class = "NSButtonCell"; title = "Activate Textual"; ObjectID = "zy8-ma-OJS"; */
+"zy8-ma-OJS.title" = "Activate Textual";

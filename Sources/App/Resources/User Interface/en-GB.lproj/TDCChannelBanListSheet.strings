@@ -1,0 +1,66 @@
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Ban Exception List"; ObjectID = "3"; */
+"3.ibExternalAccessibilityDescription" = "Ban Exception List";
+
+/* Class = "NSTableColumn"; headerCell.title = "Hostmask"; ObjectID = "8"; */
+"8.headerCell.title" = "Hostmask";
+
+/* Class = "NSTableColumn"; headerCell.title = "Added By"; ObjectID = "9"; */
+"9.headerCell.title" = "Added By";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Exception Author"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "Exception Author";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "10"; */
+"10.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Exception Mask"; ObjectID = "11"; */
+"11.ibExternalAccessibilityDescription" = "Exception Mask";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+"11.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Added"; ObjectID = "12"; */
+"12.headerCell.title" = "Date Added";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Date Added"; ObjectID = "13"; */
+"13.ibExternalAccessibilityDescription" = "Date Added";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "13"; */
+"13.title" = "Text Cell";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Items"; ObjectID = "14"; */
+"14.ibExternalAccessibilityDescription" = "Remove Selected Items";
+
+/* Class = "NSButtonCell"; title = "Remove Selected Items"; ObjectID = "15"; */
+"15.title" = "Remove Selected Items";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Update List"; ObjectID = "16"; */
+"16.ibExternalAccessibilityDescription" = "Update List";
+
+/* Class = "NSButtonCell"; title = "Update List"; ObjectID = "17"; */
+"17.title" = "Update List";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "18"; */
+"18.ibExternalAccessibilityDescription" = "Close";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "19"; */
+"19.title" = "Close";
+
+/* Class = "NSTextFieldCell"; title = "Bans for %@"; ObjectID = "34"; */
+"34.title" = "Bans for %@";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "FIa-a0-68K"; */
+"FIa-a0-68K.title" = "Table View Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ entries"; ObjectID = "KPz-a9-t0f"; */
+"KPz-a9-t0f.ibShadowedDisplayPattern" = "%{value1}@ entries";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "NwW-Wt-A8j"; */
+"NwW-Wt-A8j.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "1234"; ObjectID = "VEA-PK-9MZ"; */
+"VEA-PK-9MZ.title" = "1234";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sO7-UT-E2w"; */
+"sO7-UT-E2w.title" = "Table View Cell";

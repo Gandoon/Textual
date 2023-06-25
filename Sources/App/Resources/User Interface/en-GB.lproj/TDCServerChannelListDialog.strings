@@ -1,0 +1,69 @@
+
+/* Class = "NSWindow"; title = "Channel List"; ObjectID = "5"; */
+"5.title" = "Channel List";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "74"; */
+"74.ibExternalAccessibilityDescription" = "Close";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Update List"; ObjectID = "76"; */
+"76.ibExternalAccessibilityDescription" = "Update List";
+
+/* Class = "NSSearchField"; ibExternalAccessibilityDescription = "Channel List Search"; ObjectID = "103"; */
+"103.ibExternalAccessibilityDescription" = "Channel List Search";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "111"; */
+"111.title" = "Close";
+
+/* Class = "NSButtonCell"; title = "Update List"; ObjectID = "112"; */
+"112.title" = "Update List";
+
+/* Class = "NSTextFieldCell"; title = "My IRC Network"; ObjectID = "133"; */
+"133.title" = "My IRC Network";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Join Selected Channels"; ObjectID = "139"; */
+"139.ibExternalAccessibilityDescription" = "Join Selected Channels";
+
+/* Class = "NSButtonCell"; title = "Join Selected Channels"; ObjectID = "140"; */
+"140.title" = "Join Selected Channels";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "OgI-gX-mC8"; */
+"OgI-gX-mC8.ibExternalAccessibilityDescription" = "Channel Name";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OgI-gX-mC8"; */
+"OgI-gX-mC8.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Channel Name"; ObjectID = "PaN-OT-TPX"; */
+"PaN-OT-TPX.headerCell.title" = "Channel Name";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "TaT-zx-zgK"; */
+"TaT-zx-zgK.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Topic"; ObjectID = "exA-K8-ozT"; */
+"exA-K8-ozT.headerCell.title" = "Topic";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "iAr-vI-1Jn"; */
+"iAr-vI-1Jn.title" = "Table View Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Member Count"; ObjectID = "iqK-MO-gQw"; */
+"iqK-MO-gQw.headerCell.title" = "Member Count";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Channel List"; ObjectID = "m9z-1h-faf"; */
+"m9z-1h-faf.ibExternalAccessibilityDescription" = "Channel List";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Member Count"; ObjectID = "mMW-qu-HSl"; */
+"mMW-qu-HSl.ibExternalAccessibilityDescription" = "Member Count";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mMW-qu-HSl"; */
+"mMW-qu-HSl.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "oPQ-I2-Zqm"; */
+"oPQ-I2-Zqm.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Topic"; ObjectID = "seI-iZ-zcH"; */
+"seI-iZ-zcH.ibExternalAccessibilityDescription" = "Topic";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "seI-iZ-zcH"; */
+"seI-iZ-zcH.title" = "Text Cell";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayName = "predicate"; ObjectID = "wAJ-2T-bDW"; */
+"wAJ-2T-bDW.ibShadowedDisplayName" = "predicate";

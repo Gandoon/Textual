@@ -1,0 +1,45 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "302"; */
+"302.title" = "Window";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Highlight Match Type"; ObjectID = "304"; */
+"304.ibExternalAccessibilityDescription" = "Highlight Match Type";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "306"; */
+"306.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Match"; ObjectID = "307"; */
+"307.title" = "Match";
+
+/* Class = "NSMenuItem"; title = "Exclude"; ObjectID = "308"; */
+"308.title" = "Exclude";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Highlight Match Keyword"; ObjectID = "310"; */
+"310.ibExternalAccessibilityDescription" = "Highlight Match Keyword";
+
+/* Class = "NSTextFieldCell"; title = "the keyword"; ObjectID = "313"; */
+"313.title" = "the keyword";
+
+/* Class = "NSTextFieldCell"; title = "in the channel"; ObjectID = "315"; */
+"315.title" = "in the channel";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Limit Highlight to Channel"; ObjectID = "316"; */
+"316.ibExternalAccessibilityDescription" = "Limit Highlight to Channel";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "318"; */
+"318.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "All Channels"; ObjectID = "319"; */
+"319.title" = "All Channels";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "323"; */
+"323.ibExternalAccessibilityDescription" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "324"; */
+"324.title" = "Cancel";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "325"; */
+"325.ibExternalAccessibilityDescription" = "Save";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "326"; */
+"326.title" = "Save";

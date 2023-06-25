@@ -1,0 +1,24 @@
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Recover Lost License"; ObjectID = "3wc-zV-dNO"; */
+"3wc-zV-dNO.ibExternalAccessibilityDescription" = "Recover Lost License";
+
+/* Class = "NSTextFieldCell"; title = "E-mail Address:"; ObjectID = "Cbk-SL-qTh"; */
+"Cbk-SL-qTh.title" = "E-mail Address:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "GuT-8v-aNV"; */
+"GuT-8v-aNV.ibExternalAccessibilityDescription" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "KNw-Jq-eAB"; */
+"KNw-Jq-eAB.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Recover Lost License"; ObjectID = "N4b-7q-PPZ"; */
+"N4b-7q-PPZ.title" = "Recover Lost License";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "E-mail address associated with order"; ObjectID = "RLC-SX-HOX"; */
+"RLC-SX-HOX.ibExternalAccessibilityDescription" = "E-mail address associated with order";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "gIn-WG-UO6"; */
+"gIn-WG-UO6.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "Enter the e-mail address used when purchasing Textual to recover your license key(s)."; ObjectID = "v6x-ej-Sxw"; */
+"v6x-ej-Sxw.title" = "Enter the e-mail address used when purchasing Textual to recover your license key(s).";

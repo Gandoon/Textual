@@ -1,0 +1,492 @@
+
+/* Class = "NSWindow"; title = "Server Properties"; ObjectID = "5"; */
+"5.title" = "Server Properties";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "1455"; */
+"1455.ibExternalAccessibilityDescription" = "Save";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "1456"; */
+"1456.ibExternalAccessibilityDescription" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1457"; */
+"1457.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "1458"; */
+"1458.title" = "Save";
+
+/* Class = "NSButtonCell"; title = "Perform reconnect on disconnect"; ObjectID = "1535"; */
+"1535.title" = "Perform reconnect on disconnect";
+
+/* Class = "NSButtonCell"; title = "Connect when Textual opens"; ObjectID = "1536"; */
+"1536.title" = "Connect when Textual opens";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Password to be sent using the PASS command. This is NOT your password for NickServ."; ObjectID = "1543"; */
+"1543.ibShadowedToolTip" = "Password to be sent using the PASS command. This is NOT your password for NickServ.";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Attempt to secure the connection by performing a Transport Layer Security (TLS) negotiation. TLS is the modern equivalent of SSL (Secure Sockets Layer)"; ObjectID = "1545"; */
+"1545.ibShadowedToolTip" = "Attempt to secure the connection by performing a Transport Layer Security (TLS) negotiation. TLS is the modern equivalent of SSL (Secure Sockets Layer)";
+
+/* Class = "NSComboBoxCell"; placeholderString = "irc.example.com"; ObjectID = "1549"; */
+"1549.placeholderString" = "irc.example.com";
+
+/* Class = "NSButtonCell"; title = "Connect Securely"; ObjectID = "1552"; */
+"1552.title" = "Connect Securely";
+
+/* Class = "NSTextFieldCell"; title = "Server Password:"; ObjectID = "1553"; */
+"1553.title" = "Server Password:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "1554"; */
+"1554.placeholderString" = "Optional";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "1555"; */
+"1555.title" = "Port:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "6667"; ObjectID = "1556"; */
+"1556.placeholderString" = "6667";
+
+/* Class = "NSTextFieldCell"; title = "6667"; ObjectID = "1556"; */
+"1556.title" = "6667";
+
+/* Class = "NSTextFieldCell"; title = "Server Address:"; ObjectID = "1557"; */
+"1557.title" = "Server Address:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Example IRC Network"; ObjectID = "1558"; */
+"1558.placeholderString" = "Example IRC Network";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "1559"; */
+"1559.title" = "Connection Name:";
+
+/* Class = "NSTextFieldCell"; title = "This field is space separated"; ObjectID = "1610"; */
+"1610.title" = "This field is space separated";
+
+/* Class = "NSTextFieldCell"; title = "Alternative Nicknames:"; ObjectID = "1611"; */
+"1611.title" = "Alternative Nicknames:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "1612"; */
+"1612.placeholderString" = "Optional";
+
+/* Class = "NSTextFieldCell"; placeholderString = "NickServ or SASL Password"; ObjectID = "1613"; */
+"1613.placeholderString" = "NickServ or SASL Password";
+
+/* Class = "NSTextFieldCell"; title = "Real name:"; ObjectID = "1614"; */
+"1614.title" = "Real name:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Textual User"; ObjectID = "1615"; */
+"1615.placeholderString" = "Textual User";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "1616"; */
+"1616.title" = "Username:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "textual"; ObjectID = "1617"; */
+"1617.placeholderString" = "textual";
+
+/* Class = "NSTextFieldCell"; title = "Nickname:"; ObjectID = "1618"; */
+"1618.title" = "Nickname:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Guest"; ObjectID = "1619"; */
+"1619.placeholderString" = "Guest";
+
+/* Class = "NSTextFieldCell"; title = "Personal Password:"; ObjectID = "1626"; */
+"1626.title" = "Personal Password:";
+
+/* Class = "NSTextFieldCell"; title = "Part & Quit Message:"; ObjectID = "1668"; */
+"1668.title" = "Part & Quit Message:";
+
+/* Class = "NSTextFieldCell"; title = "Computer Sleep Quit Message:"; ObjectID = "1674"; */
+"1674.title" = "Computer Sleep Quit Message:";
+
+/* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "1690"; */
+"1690.title" = "Encoding:";
+
+/* Class = "NSTextFieldCell"; title = "Fallback:"; ObjectID = "1691"; */
+"1691.title" = "Fallback:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1693"; */
+"1693.title" = "OtherViews";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1715"; */
+"1715.title" = "OtherViews";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Channel List"; ObjectID = "1793"; */
+"1793.ibExternalAccessibilityDescription" = "Channel List";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Channel"; ObjectID = "1794"; */
+"1794.ibExternalAccessibilityDescription" = "Add Channel";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Selected Channel"; ObjectID = "1795"; */
+"1795.ibExternalAccessibilityDescription" = "Edit Selected Channel";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Channel"; ObjectID = "1796"; */
+"1796.ibExternalAccessibilityDescription" = "Remove Selected Channel";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "1800"; */
+"1800.title" = "Edit";
+
+/* Class = "NSTableColumn"; headerCell.title = "Join"; ObjectID = "1806"; */
+"1806.headerCell.title" = "Join";
+
+/* Class = "NSTableColumn"; headerCell.title = "Password"; ObjectID = "1807"; */
+"1807.headerCell.title" = "Password";
+
+/* Class = "NSTableColumn"; headerCell.title = "Channel Name"; ObjectID = "1808"; */
+"1808.headerCell.title" = "Channel Name";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "1809"; */
+"1809.ibExternalAccessibilityDescription" = "Channel Name";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1809"; */
+"1809.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Password"; ObjectID = "1810"; */
+"1810.ibExternalAccessibilityDescription" = "Channel Password";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1810"; */
+"1810.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Join Channel on Connect"; ObjectID = "1811"; */
+"1811.ibExternalAccessibilityDescription" = "Join Channel on Connect";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Address Book List"; ObjectID = "1842"; */
+"1842.ibExternalAccessibilityDescription" = "Address Book List";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Address Book Entry"; ObjectID = "1843"; */
+"1843.ibExternalAccessibilityDescription" = "Add Address Book Entry";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Selected Address Book Entry"; ObjectID = "1844"; */
+"1844.ibExternalAccessibilityDescription" = "Edit Selected Address Book Entry";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Address Book Entry"; ObjectID = "1845"; */
+"1845.ibExternalAccessibilityDescription" = "Remove Selected Address Book Entry";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "1847"; */
+"1847.title" = "Edit";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entry Mask"; ObjectID = "1853"; */
+"1853.headerCell.title" = "Entry Mask";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Address Book Entry"; ObjectID = "1854"; */
+"1854.ibExternalAccessibilityDescription" = "Address Book Entry";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1854"; */
+"1854.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Perform commands on connect:"; ObjectID = "1882"; */
+"1882.title" = "Perform commands on connect:";
+
+/* Class = "NSButtonCell"; title = "Set invisible (+i) mode on connect"; ObjectID = "1886"; */
+"1886.title" = "Set invisible (+i) mode on connect";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1907"; */
+"1907.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "1909"; */
+"1909.title" = "Automatic";
+
+/* Class = "NSMenuItem"; title = "SOCKS 5 Proxy"; ObjectID = "1910"; */
+"1910.title" = "SOCKS 5 Proxy";
+
+/* Class = "NSMenuItem"; title = "SOCKS 4 Proxy"; ObjectID = "1911"; */
+"1911.title" = "SOCKS 4 Proxy";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "1912"; */
+"1912.title" = "None";
+
+/* Class = "NSTextFieldCell"; placeholderString = "admin"; ObjectID = "1913"; */
+"1913.placeholderString" = "admin";
+
+/* Class = "NSTextFieldCell"; placeholderString = "proxy.example.com"; ObjectID = "1916"; */
+"1916.placeholderString" = "proxy.example.com";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "1917"; */
+"1917.title" = "Username:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "1918"; */
+"1918.title" = "Password:";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "1919"; */
+"1919.title" = "Port:";
+
+/* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "1920"; */
+"1920.title" = "Address:";
+
+/* Class = "NSTextFieldCell"; title = "Type of Proxy:"; ObjectID = "1921"; */
+"1921.title" = "Type of Proxy:";
+
+/* Class = "NSTextFieldCell"; title = "This option requires a reconnect to apply"; ObjectID = "1979"; */
+"1979.title" = "This option requires a reconnect to apply";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entry Type"; ObjectID = "1982"; */
+"1982.headerCell.title" = "Entry Type";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Address Book Entry Type"; ObjectID = "1983"; */
+"1983.ibExternalAccessibilityDescription" = "Address Book Entry Type";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1983"; */
+"1983.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Perform reconnect when waking from sleep"; ObjectID = "2251"; */
+"2251.title" = "Perform reconnect when waking from sleep";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "2291"; */
+"2291.placeholderString" = "Optional";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "2295"; */
+"2295.placeholderString" = "Optional";
+
+/* Class = "NSButtonCell"; title = "Encoding list includes all possible combinations"; ObjectID = "2316"; */
+"2316.title" = "Encoding list includes all possible combinations";
+
+/* Class = "NSTextFieldCell"; title = "Away Nickname:"; ObjectID = "2341"; */
+"2341.title" = "Away Nickname:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Guest[away]"; ObjectID = "2342"; */
+"2342.placeholderString" = "Guest[away]";
+
+/* Class = "NSTextFieldCell"; title = "Ignore or track the following people:"; ObjectID = "2359"; */
+"2359.title" = "Ignore or track the following people:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Highlight Match"; ObjectID = "2447"; */
+"2447.ibExternalAccessibilityDescription" = "Remove Selected Highlight Match";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Selected Highlight Match"; ObjectID = "2448"; */
+"2448.ibExternalAccessibilityDescription" = "Edit Selected Highlight Match";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Highlight Match"; ObjectID = "2449"; */
+"2449.ibExternalAccessibilityDescription" = "Add Highlight Match";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Highlight Match Table"; ObjectID = "2450"; */
+"2450.ibExternalAccessibilityDescription" = "Highlight Match Table";
+
+/* Class = "NSTableColumn"; headerCell.title = "Channel"; ObjectID = "2455"; */
+"2455.headerCell.title" = "Channel";
+
+/* Class = "NSTableColumn"; headerCell.title = "Keyword"; ObjectID = "2456"; */
+"2456.headerCell.title" = "Keyword";
+
+/* Class = "NSTableColumn"; headerCell.title = "Entry Type"; ObjectID = "2457"; */
+"2457.headerCell.title" = "Entry Type";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Highlight Match Type"; ObjectID = "2458"; */
+"2458.ibExternalAccessibilityDescription" = "Highlight Match Type";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2458"; */
+"2458.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Highlight Keyword"; ObjectID = "2459"; */
+"2459.ibExternalAccessibilityDescription" = "Highlight Keyword";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2459"; */
+"2459.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Highlight Match is Restricted To"; ObjectID = "2460"; */
+"2460.ibExternalAccessibilityDescription" = "Channel Highlight Match is Restricted To";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2460"; */
+"2460.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "2462"; */
+"2462.title" = "Edit";
+
+/* Class = "NSButtonCell"; title = "Periodically PING the server to verify the connection"; ObjectID = "2532"; */
+"2532.title" = "Periodically PING the server to verify the connection";
+
+/* Class = "NSButtonCell"; title = "Force a disconnect when no PING response is received"; ObjectID = "2537"; */
+"2537.title" = "Force a disconnect when no PING response is received";
+
+/* Class = "NSButtonCell"; title = "Do not show notifications for the playback buffer"; ObjectID = "2581"; */
+"2581.title" = "Do not show notifications for the playback buffer";
+
+/* Class = "NSTextFieldCell"; title = "Do not show notification bubbles or play sounds for messages that are part of the playback buffer."; ObjectID = "2591"; */
+"2591.title" = "Do not show notification bubbles or play sounds for messages that are part of the playback buffer.";
+
+/* Class = "NSTextFieldCell"; title = "These options target version 1.2 of ZNC and later."; ObjectID = "2600"; */
+"2600.title" = "These options target version 1.2 of ZNC and later.";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "0nB-im-8PX"; */
+"0nB-im-8PX.title" = "Copy";
+
+/* Class = "NSButtonCell"; title = "Reset Certificate"; ObjectID = "39U-39-9tk"; */
+"39U-39-9tk.title" = "Reset Certificate";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Copy SHA-1 Fingerprint"; ObjectID = "758-2B-Ka3"; */
+"758-2B-Ka3.ibExternalAccessibilityDescription" = "Copy SHA-1 Fingerprint";
+
+/* Class = "NSButtonCell"; title = "Wait for identification before joining channels"; ObjectID = "8B6-j5-4cs"; */
+"8B6-j5-4cs.title" = "Wait for identification before joining channels";
+
+/* Class = "NSButtonCell"; title = "Modify Alternate Servers"; ObjectID = "8N1-4l-slN"; */
+"8N1-4l-slN.title" = "Modify Alternate Servers";
+
+/* Class = "NSButtonCell"; title = "Warn if channels can't be joined"; ObjectID = "9Uc-VR-STk"; */
+"9Uc-VR-STk.title" = "Warn if channels can't be joined";
+
+/* Class = "NSTextFieldCell"; title = "60"; ObjectID = "9bE-uW-eqe"; */
+"9bE-uW-eqe.title" = "60";
+
+/* Class = "NSTextFieldCell"; title = "Connect using:"; ObjectID = "B8q-jl-QtB"; */
+"B8q-jl-QtB.title" = "Connect using:";
+
+/* Class = "NSTextFieldCell"; title = "This option requires the “playback” module."; ObjectID = "DES-Fw-k4c"; */
+"DES-Fw-k4c.title" = "This option requires the “playback” module.";
+
+/* Class = "NSMenuItem"; title = "Version 5.2.7 list of cipher suites"; ObjectID = "DrH-DE-jbQ"; */
+"DrH-DE-jbQ.title" = "Version 5.2.7 list of cipher suites";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "ElY-gw-ZZB"; */
+"ElY-gw-ZZB.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "HTTP Proxy (Anonymous)"; ObjectID = "Fud-O2-fHR"; */
+"Fud-O2-fHR.title" = "HTTP Proxy (Anonymous)";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Gbb-jh-4mY"; */
+"Gbb-jh-4mY.title" = "Label";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Current Value: %{value1}@"; ObjectID = "Iip-VB-iS5"; */
+"Iip-VB-iS5.ibShadowedDisplayPattern" = "Current Value: %{value1}@";
+
+/* Class = "NSTextFieldCell"; title = "Y: Number of seconds:"; ObjectID = "Jay-s8-9Xn"; */
+"Jay-s8-9Xn.title" = "Y: Number of seconds:";
+
+/* Class = "NSMenuItem"; title = "Add User Tracking Entry"; ObjectID = "Ju6-ey-oG4"; */
+"Ju6-ey-oG4.title" = "Add User Tracking Entry";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Copy MD5 Fingerprint"; ObjectID = "KJ9-QR-tAv"; */
+"KJ9-QR-tAv.ibExternalAccessibilityDescription" = "Copy MD5 Fingerprint";
+
+/* Class = "NSButtonCell"; title = "View List"; ObjectID = "LuK-ZI-qT9"; */
+"LuK-ZI-qT9.title" = "View List";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "MCd-Ig-Szi"; */
+"MCd-Ig-Szi.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "The options presented above require a reconnect to apply."; ObjectID = "MJ0-IQ-dNi"; */
+"MJ0-IQ-dNi.title" = "The options presented above require a reconnect to apply.";
+
+/* Class = "NSTextFieldCell"; title = "MD5 Fingerprint:"; ObjectID = "Mmj-Ja-V8x"; */
+"Mmj-Ja-V8x.title" = "MD5 Fingerprint:";
+
+/* Class = "NSTextFieldCell"; title = "This field is line separated"; ObjectID = "Mnf-Uj-ov2"; */
+"Mnf-Uj-ov2.title" = "This field is line separated";
+
+/* Class = "NSMenuItem"; title = "Add User Ignore Entry"; ObjectID = "Mxd-76-s9L"; */
+"Mxd-76-s9L.title" = "Add User Ignore Entry";
+
+/* Class = "NSTextFieldCell"; title = "SHA-1 Fingerprint:"; ObjectID = "O13-rx-ewF"; */
+"O13-rx-ewF.title" = "SHA-1 Fingerprint:";
+
+/* Class = "NSButtonCell"; title = "IPv6"; ObjectID = "PI4-um-V5J"; */
+"PI4-um-V5J.title" = "IPv6";
+
+/* Class = "NSTextFieldCell"; title = "Cipher suites:"; ObjectID = "Qfh-rz-IdC"; */
+"Qfh-rz-IdC.title" = "Cipher suites:";
+
+/* Class = "NSTextFieldCell"; title = "When enabled, the SOCKS proxy that can be configured in the Network section of System Preferences will be used with the “Automatic” proxy type selected."; ObjectID = "R86-j6-hCz"; */
+"R86-j6-hCz.title" = "When enabled, the SOCKS proxy that can be configured in the Network section of System Preferences will be used with the “Automatic” proxy type selected.";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Sia-Zk-rSR"; */
+"Sia-Zk-rSR.title" = "Label";
+
+/* Class = "NSTextFieldCell"; title = "Textual is capable of automatically connecting to one or more alternate servers if the primary server fails to connect. Click the button presented below to modify the alternate servers for this connection."; ObjectID = "SnQ-4b-NG2"; */
+"SnQ-4b-NG2.title" = "Textual is capable of automatically connecting to one or more alternate servers if the primary server fails to connect. Click the button presented below to modify the alternate servers for this connection.";
+
+/* Class = "NSButtonCell"; title = "Do not automatically join channels on connect"; ObjectID = "TH5-0C-MeB"; */
+"TH5-0C-MeB.title" = "Do not automatically join channels on connect";
+
+/* Class = "NSMenuItem"; title = "Do not prefer specific cipher suites"; ObjectID = "TY8-cf-i4B"; */
+"TY8-cf-i4B.title" = "Do not prefer specific cipher suites";
+
+/* Class = "NSTextFieldCell"; title = "Current Value:"; ObjectID = "U5o-dB-jmW"; */
+"U5o-dB-jmW.title" = "Current Value:";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "VCb-YR-fs2"; */
+"VCb-YR-fs2.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Do not send more than X number of commands in Y seconds."; ObjectID = "XQt-eN-ufQ"; */
+"XQt-eN-ufQ.title" = "Do not send more than X number of commands in Y seconds.";
+
+/* Class = "NSMenuItem"; title = "Tor Anonymity Network"; ObjectID = "YN2-z6-RkW"; */
+"YN2-z6-RkW.title" = "Tor Anonymity Network";
+
+/* Class = "NSButtonCell"; title = "Automatically choose"; ObjectID = "YkZ-0c-BeT"; */
+"YkZ-0c-BeT.title" = "Automatically choose";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "ZNS-JS-fS4"; */
+"ZNS-JS-fS4.title" = "1";
+
+/* Class = "NSTextFieldCell"; placeholderString = "1080"; ObjectID = "bIe-e4-zYC"; */
+"bIe-e4-zYC.placeholderString" = "1080";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "bvj-Qr-Ebk"; */
+"bvj-Qr-Ebk.title" = "Label";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Navigation"; ObjectID = "dW6-eC-jo9"; */
+"dW6-eC-jo9.ibExternalAccessibilityDescription" = "Navigation";
+
+/* Class = "NSButtonCell"; title = "Validate the certificate chain when connecting"; ObjectID = "dz6-nj-V0I"; */
+"dz6-nj-V0I.title" = "Validate the certificate chain when connecting";
+
+/* Class = "NSButtonCell"; title = "Only play back messages you missed"; ObjectID = "e2u-k3-3Ur"; */
+"e2u-k3-3Ur.title" = "Only play back messages you missed";
+
+/* Class = "NSTextFieldCell"; title = "Current Value:"; ObjectID = "eMt-al-rqd"; */
+"eMt-al-rqd.title" = "Current Value:";
+
+/* Class = "NSButtonCell"; title = "Do not share with other devices using iCloud"; ObjectID = "eql-rS-Io2"; */
+"eql-rS-Io2.title" = "Do not share with other devices using iCloud";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Copy MD5 Fingerprint"; ObjectID = "f9F-WF-ubf"; */
+"f9F-WF-ubf.ibExternalAccessibilityDescription" = "Copy MD5 Fingerprint";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Current Value: %{value1}@"; ObjectID = "fUV-xU-dw1"; */
+"fUV-xU-dw1.ibShadowedDisplayPattern" = "Current Value: %{value1}@";
+
+/* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "j5N-EC-4uH"; */
+"j5N-EC-4uH.title" = "Open System Preferences";
+
+/* Class = "NSTextFieldCell"; title = "X: Number of commands:"; ObjectID = "jHb-Iz-2jU"; */
+"jHb-Iz-2jU.title" = "X: Number of commands:";
+
+/* Class = "NSTextFieldCell"; title = "SHA-2 Fingerprint:"; ObjectID = "jhF-Ix-th5"; */
+"jhF-Ix-th5.title" = "SHA-2 Fingerprint:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Select Certificate"; ObjectID = "l36-PJ-JBU"; */
+"l36-PJ-JBU.ibExternalAccessibilityDescription" = "Select Certificate";
+
+/* Class = "NSButtonCell"; title = "Force a disconnect when reachability changes"; ObjectID = "mLI-Vm-l2s"; */
+"mLI-Vm-l2s.title" = "Force a disconnect when reachability changes";
+
+/* Class = "NSMenuItem"; title = "Default list of cipher suites"; ObjectID = "mVB-Hg-Fuc"; */
+"mVB-Hg-Fuc.title" = "Default list of cipher suites";
+
+/* Class = "NSTextFieldCell"; title = "Certificate Name:"; ObjectID = "pxF-PC-Aax"; */
+"pxF-PC-Aax.title" = "Certificate Name:";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "rDo-70-T0D"; */
+"rDo-70-T0D.title" = "Copy";
+
+/* Class = "NSTextFieldCell"; title = "Select a certificate to send when you connect securely."; ObjectID = "rIl-yx-VEH"; */
+"rIl-yx-VEH.title" = "Select a certificate to send when you connect securely.";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rPg-fR-uab"; */
+"rPg-fR-uab.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Version 7.0.0 list of cipher suites"; ObjectID = "rag-NS-0Qi"; */
+"rag-NS-0Qi.title" = "Version 7.0.0 list of cipher suites";
+
+/* Class = "NSButtonCell"; title = "IPv4"; ObjectID = "rrw-wu-OBL"; */
+"rrw-wu-OBL.title" = "IPv4";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Reset Certificate"; ObjectID = "sab-tw-7nn"; */
+"sab-tw-7nn.ibExternalAccessibilityDescription" = "Reset Certificate";
+
+/* Class = "NSButtonCell"; title = "Select Certificate"; ObjectID = "uH8-BL-itx"; */
+"uH8-BL-itx.title" = "Select Certificate";
+
+/* Class = "NSTextFieldCell"; title = "Textual will attempt to connect to the Tor anonymity network using the SOCKS5 proxy on port 9150 that is available when the “Tor Browser” application is open."; ObjectID = "voS-R3-3c7"; */
+"voS-R3-3c7.title" = "Textual will attempt to connect to the Tor anonymity network using the SOCKS5 proxy on port 9150 that is available when the “Tor Browser” application is open.";
+
+/* Class = "NSTextFieldCell"; title = "60"; ObjectID = "y5u-45-pvs"; */
+"y5u-45-pvs.title" = "60";
+
+/* Class = "NSTextFieldCell"; title = "1"; ObjectID = "zP6-2E-iaW"; */
+"zP6-2E-iaW.title" = "1";

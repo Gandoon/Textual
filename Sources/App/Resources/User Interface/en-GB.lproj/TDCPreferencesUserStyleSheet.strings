@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Enter one or more rules to modify the active style."; ObjectID = "IwR-xy-eUH"; */
+"IwR-xy-eUH.title" = "Enter one or more rules to modify the active style.";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "imu-oU-gSh"; */
+"imu-oU-gSh.title" = "Save";
+
+/* Class = "NSWindow"; title = "Custom Style Sheet Rules"; ObjectID = "rKH-mU-cHB"; */
+"rKH-mU-cHB.title" = "Custom Style Sheet Rules";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "sLE-U1-Q3L"; */
+"sLE-U1-Q3L.title" = "Cancel";

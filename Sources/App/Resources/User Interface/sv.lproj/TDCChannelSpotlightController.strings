@@ -1,0 +1,27 @@
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Aby-dt-awg"; */
+"Aby-dt-awg.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "Channel Spotlight"; ObjectID = "BfF-sG-KJr"; */
+"BfF-sG-KJr.title" = "Channel Spotlight";
+
+/* Class = "NSTextFieldCell"; title = "#channel on freenode IRC network"; ObjectID = "KNo-4X-COi"; */
+"KNo-4X-COi.title" = "#channel on freenode IRC network";
+
+/* Class = "NSTextFieldCell"; title = "1 unread message, 1 highlight"; ObjectID = "P1U-vp-d2N"; */
+"P1U-vp-d2N.title" = "1 unread message, 1 highlight";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "hR8-rl-k0H"; */
+"hR8-rl-k0H.title" = "Label";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "Enter a channel name to search for, to browse to"; ObjectID = "ibD-GT-hsB"; */
+"ibD-GT-hsB.ibExternalAccessibilityDescription" = "Enter a channel name to search for, to browse to";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "List of channels"; ObjectID = "tt4-3F-bvy"; */
+"tt4-3F-bvy.ibExternalAccessibilityDescription" = "List of channels";
+
+/* Class = "NSTextFieldCell"; title = "⌘1"; ObjectID = "wPt-pE-DBY"; */
+"wPt-pE-DBY.title" = "⌘1";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Search for channel"; ObjectID = "xLW-8e-ask"; */
+"xLW-8e-ask.placeholderString" = "Search for channel";

@@ -1,0 +1,60 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "243"; */
+"243.title" = "Window";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Highlight List"; ObjectID = "246"; */
+"246.ibExternalAccessibilityDescription" = "Highlight List";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Clear List"; ObjectID = "247"; */
+"247.ibExternalAccessibilityDescription" = "Clear List";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "248"; */
+"248.ibExternalAccessibilityDescription" = "Close";
+
+/* Class = "NSTextFieldCell"; title = "List of Highlights for \"%@\""; ObjectID = "250"; */
+"250.title" = "List of Highlights for \"%@\"";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "251"; */
+"251.title" = "Close";
+
+/* Class = "NSButtonCell"; title = "Clear List"; ObjectID = "252"; */
+"252.title" = "Clear List";
+
+/* Class = "NSTableColumn"; headerCell.title = "Channel Name"; ObjectID = "257"; */
+"257.headerCell.title" = "Channel Name";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "259"; */
+"259.headerCell.title" = "Time";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "260"; */
+"260.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "262"; */
+"262.title" = "Text Cell";
+
+/* Class = "NSTableColumn"; headerCell.title = "Message"; ObjectID = "264"; */
+"264.headerCell.title" = "Message";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "265"; */
+"265.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Messages that begin with a bullet (•) represent an action."; ObjectID = "278"; */
+"278.title" = "Messages that begin with a bullet (•) represent an action.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Original Message"; ObjectID = "4NS-3M-szX"; */
+"4NS-3M-szX.ibExternalAccessibilityDescription" = "Original Message";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Time"; ObjectID = "5km-53-sUf"; */
+"5km-53-sUf.ibExternalAccessibilityDescription" = "Time";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "81x-z5-fVG"; */
+"81x-z5-fVG.title" = "Table View Cell";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "a2j-l0-XuC"; */
+"a2j-l0-XuC.ibExternalAccessibilityDescription" = "Channel Name";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fvp-ca-N2k"; */
+"fvp-ca-N2k.title" = "Table View Cell";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "tu1-iW-sWg"; */
+"tu1-iW-sWg.title" = "Table View Cell";

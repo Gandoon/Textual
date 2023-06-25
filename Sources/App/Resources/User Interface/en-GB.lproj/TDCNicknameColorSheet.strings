@@ -1,0 +1,24 @@
+
+/* Class = "NSButtonCell"; title = "Reset"; ObjectID = "B0R-Mq-sMG"; */
+"B0R-Mq-sMG.title" = "Reset";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "HVO-sY-mGM"; */
+"HVO-sY-mGM.title" = "Save";
+
+/* Class = "NSTextFieldCell"; title = "Change nickname color to:"; ObjectID = "Ril-X5-ce2"; */
+"Ril-X5-ce2.title" = "Change nickname color to:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "SNT-UD-yxI"; */
+"SNT-UD-yxI.ibExternalAccessibilityDescription" = "Cancel";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Reset Color for Nickname"; ObjectID = "Wi2-Ib-F3T"; */
+"Wi2-Ib-F3T.ibExternalAccessibilityDescription" = "Reset Color for Nickname";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "bdT-W6-ebh"; */
+"bdT-W6-ebh.ibExternalAccessibilityDescription" = "Save";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "gNj-W9-RE1"; */
+"gNj-W9-RE1.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "u11-Xe-NNB"; */
+"u11-Xe-NNB.title" = "Cancel";

@@ -1,0 +1,39 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "Window";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "64"; */
+"64.ibExternalAccessibilityDescription" = "Cancel";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "65"; */
+"65.ibExternalAccessibilityDescription" = "Save";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "215"; */
+"215.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "216"; */
+"216.title" = "Save";
+
+/* Class = "NSButtonCell"; title = "Password (+k):"; ObjectID = "217"; */
+"217.title" = "Password (+k):";
+
+/* Class = "NSButtonCell"; title = "Limit number of users (+l):"; ObjectID = "218"; */
+"218.title" = "Limit number of users (+l):";
+
+/* Class = "NSButtonCell"; title = "Secret channel (+s)"; ObjectID = "219"; */
+"219.title" = "Secret channel (+s)";
+
+/* Class = "NSButtonCell"; title = "Private channel (+p)"; ObjectID = "220"; */
+"220.title" = "Private channel (+p)";
+
+/* Class = "NSButtonCell"; title = "No external channel messages (+n)"; ObjectID = "221"; */
+"221.title" = "No external channel messages (+n)";
+
+/* Class = "NSButtonCell"; title = "Only operators can change topic (+t)"; ObjectID = "222"; */
+"222.title" = "Only operators can change topic (+t)";
+
+/* Class = "NSButtonCell"; title = "Invite-only channel (+i)"; ObjectID = "223"; */
+"223.title" = "Invite-only channel (+i)";
+
+/* Class = "NSButtonCell"; title = "Moderated channel (+m)"; ObjectID = "224"; */
+"224.title" = "Moderated channel (+m)";

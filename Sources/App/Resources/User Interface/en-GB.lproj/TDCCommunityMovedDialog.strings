@@ -1,0 +1,18 @@
+
+/* Class = "NSWindow"; title = "Important Notice"; ObjectID = "1"; */
+"1.title" = "Important Notice";
+
+/* Class = "NSTextFieldCell"; title = "The intent of this message is to inform. You will only see it once. Your access to freenode will not be hindered in any way."; ObjectID = "5kt-DS-OqJ"; */
+"5kt-DS-OqJ.title" = "The intent of this message is to inform. You will only see it once. Your access to freenode will not be hindered in any way.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Begin Setup"; ObjectID = "8Le-Ic-7po"; */
+"8Le-Ic-7po.ibExternalAccessibilityDescription" = "Begin Setup";
+
+/* Class = "NSTextFieldCell"; title = "Support channel has moved"; ObjectID = "gy5-5o-tPE"; */
+"gy5-5o-tPE.title" = "Support channel has moved";
+
+/* Class = "NSTextFieldCell"; title = "You are seeing this message because your connection to freenode joins #textual or one of its sister channels.\n\nThe official Textual community is no longer located on freenode. It has moved to Libera Chat which can be reached by connecting to irc.libera.chat.\n\nSorry for any inconvenience this may cause."; ObjectID = "m8p-7G-8Jg"; */
+"m8p-7G-8Jg.title" = "You are seeing this message because your connection to freenode joins #textual or one of its sister channels.\n\nThe official Textual community is no longer located on freenode. It has moved to Libera Chat which can be reached by connecting to irc.libera.chat.\n\nSorry for any inconvenience this may cause.";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "wjP-q7-54z"; */
+"wjP-q7-54z.title" = "Close";

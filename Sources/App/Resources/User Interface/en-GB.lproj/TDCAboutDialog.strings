@@ -1,0 +1,21 @@
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Logo Image"; ObjectID = "3"; */
+"3.ibExternalAccessibilityDescription" = "Logo Image";
+
+/* Class = "NSTextFieldCell"; title = "Textual 7"; ObjectID = "6"; */
+"6.title" = "Textual 7";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Version Information"; ObjectID = "7"; */
+"7.ibExternalAccessibilityDescription" = "Version Information";
+
+/* Class = "NSTextFieldCell"; title = "Version 1.0.0 (Build #2335)"; ObjectID = "8"; */
+"8.title" = "Version 1.0.0 (Build #2335)";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Acknowledgements"; ObjectID = "40"; */
+"40.ibExternalAccessibilityDescription" = "Acknowledgements";
+
+/* Class = "NSButtonCell"; title = "Acknowledgements"; ObjectID = "41"; */
+"41.title" = "Acknowledgements";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "MDL-oh-scd"; */
+"MDL-oh-scd.ibExternalAccessibilityDescription" = "Close";

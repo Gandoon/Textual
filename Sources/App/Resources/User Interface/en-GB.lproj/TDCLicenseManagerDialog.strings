@@ -1,0 +1,75 @@
+
+/* Class = "NSTextFieldCell"; title = "Licensed to:"; ObjectID = "6ME-D8-5PB"; */
+"6ME-D8-5PB.title" = "Licensed to:";
+
+/* Class = "NSTextFieldCell"; title = "To activate Textual, enter your license key below"; ObjectID = "6U9-rS-tAa"; */
+"6U9-rS-tAa.title" = "To activate Textual, enter your license key below";
+
+/* Class = "NSTextFieldCell"; title = "Your license key can be found in the e-mail that was sent to you after completing your purchase."; ObjectID = "9WE-Gi-yuN"; */
+"9WE-Gi-yuN.title" = "Your license key can be found in the e-mail that was sent to you after completing your purchase.";
+
+/* Class = "NSTextFieldCell"; title = "Monday"; ObjectID = "CVk-zh-eEN"; */
+"CVk-zh-eEN.title" = "Monday";
+
+/* Class = "NSButtonCell"; title = "Request License"; ObjectID = "Ciz-0p-zdv"; */
+"Ciz-0p-zdv.title" = "Request License";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Request Free License"; ObjectID = "Fil-u7-1Jf"; */
+"Fil-u7-1Jf.ibExternalAccessibilityDescription" = "Request Free License";
+
+/* Class = "NSTextFieldCell"; title = "You can request a license key if you already own Textual 5 or a newer version in the Mac App Store."; ObjectID = "QVB-9e-QPb"; */
+"QVB-9e-QPb.title" = "You can request a license key if you already own Textual 5 or a newer version in the Mac App Store.";
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "Sqv-hD-I9t"; */
+"Sqv-hD-I9t.title" = "License Key:";
+
+/* Class = "NSButtonCell"; title = "Activate Textual"; ObjectID = "THe-1N-yO3"; */
+"THe-1N-yO3.title" = "Activate Textual";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Purchase Textual"; ObjectID = "UK4-RN-UQO"; */
+"UK4-RN-UQO.ibExternalAccessibilityDescription" = "Purchase Textual";
+
+/* Class = "NSTextFieldCell"; title = "Migrate from the Mac App Store"; ObjectID = "UVC-M1-5Bi"; */
+"UVC-M1-5Bi.title" = "Migrate from the Mac App Store";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for your purchase of Textual 7!"; ObjectID = "VEa-9u-paw"; */
+"VEa-9u-paw.title" = "Thank you for your purchase of Textual 7!";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "XhH-Zr-ZZE"; */
+"XhH-Zr-ZZE.title" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Recover Lost License"; ObjectID = "YAm-hP-iFo"; */
+"YAm-hP-iFo.title" = "Recover Lost License";
+
+/* Class = "NSTextFieldCell"; title = "Purchase Date:"; ObjectID = "ZkA-LE-wVS"; */
+"ZkA-LE-wVS.title" = "Purchase Date:";
+
+/* Class = "NSTextFieldCell"; title = "Your trial of Textual expires in %@"; ObjectID = "b62-vg-HHg"; */
+"b62-vg-HHg.title" = "Your trial of Textual expires in %@";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Activate Textual"; ObjectID = "c0t-Vn-Ofk"; */
+"c0t-Vn-Ofk.ibExternalAccessibilityDescription" = "Activate Textual";
+
+/* Class = "NSButtonCell"; title = "Deactivate Textual"; ObjectID = "dsD-zn-k24"; */
+"dsD-zn-k24.title" = "Deactivate Textual";
+
+/* Class = "NSButtonCell"; title = "Purchase"; ObjectID = "gdC-Sd-aWH"; */
+"gdC-Sd-aWH.title" = "Purchase";
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "iji-CW-RF2"; */
+"iji-CW-RF2.title" = "License Key:";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Mac App Store Logo"; ObjectID = "jg7-PN-SWb"; */
+"jg7-PN-SWb.ibExternalAccessibilityDescription" = "Mac App Store Logo";
+
+/* Class = "NSWindow"; title = "Manage License"; ObjectID = "tBl-Uw-jZv"; */
+"tBl-Uw-jZv.title" = "Manage License";
+
+/* Class = "NSTextFieldCell"; title = "relieved-red-mallard-100000000000000000000000"; ObjectID = "tRu-b8-URm"; */
+"tRu-b8-URm.title" = "relieved-red-mallard-100000000000000000000000";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Textual Logo"; ObjectID = "xaT-du-Hgo"; */
+"xaT-du-Hgo.ibExternalAccessibilityDescription" = "Textual Logo";
+
+/* Class = "NSTextFieldCell"; title = "John Smith"; ObjectID = "xuy-7G-Mgt"; */
+"xuy-7G-Mgt.title" = "John Smith";

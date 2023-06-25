@@ -1,0 +1,33 @@
+
+/* Class = "NSTextFieldCell"; title = "Growl is running. Notifications will be forwarded to it."; ObjectID = "3fI-xx-VQs"; */
+"3fI-xx-VQs.title" = "Growl is running. Notifications will be forwarded to it.";
+
+/* Class = "NSButtonCell"; title = "Disable alert while away"; ObjectID = "8aV-e8-f40"; */
+"8aV-e8-f40.title" = "Disable alert while away";
+
+/* Class = "NSTextFieldCell"; title = "Play sound on alert:"; ObjectID = "EOI-iY-erP"; */
+"EOI-iY-erP.title" = "Play sound on alert:";
+
+/* Class = "NSTextFieldCell"; title = "Selected Alert:"; ObjectID = "Pw9-kC-IY0"; */
+"Pw9-kC-IY0.title" = "Selected Alert:";
+
+/* Class = "NSButtonCell"; title = "Speak using system voice"; ObjectID = "QDo-qm-GYL"; */
+"QDo-qm-GYL.title" = "Speak using system voice";
+
+/* Class = "NSButtonCell"; title = "Show notification for alert"; ObjectID = "Wh7-Vc-DoE"; */
+"Wh7-Vc-DoE.title" = "Show notification for alert";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "a2c-uV-s9f"; */
+"a2c-uV-s9f.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Bounce dock icon"; ObjectID = "a61-jS-ybM"; */
+"a61-jS-ybM.title" = "Bounce dock icon";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "eGD-V0-BYc"; */
+"eGD-V0-BYc.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Beep"; ObjectID = "m4s-0z-vew"; */
+"m4s-0z-vew.title" = "Beep";
+
+/* Class = "NSButtonCell"; title = "Repeatedly"; ObjectID = "mwa-QT-nmq"; */
+"mwa-QT-nmq.title" = "Repeatedly";

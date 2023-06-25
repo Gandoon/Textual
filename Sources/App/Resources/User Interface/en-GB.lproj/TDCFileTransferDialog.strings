@@ -1,0 +1,45 @@
+
+/* Class = "NSWindow"; title = "File Transfers"; ObjectID = "5"; */
+"5.title" = "File Transfers";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "34"; */
+"34.title" = "Menu";
+
+/* Class = "NSMenuItem"; title = "Start Transfer"; ObjectID = "35"; */
+"35.title" = "Start Transfer";
+
+/* Class = "NSMenuItem"; title = "Cancel Transfer"; ObjectID = "36"; */
+"36.title" = "Cancel Transfer";
+
+/* Class = "NSMenuItem"; title = "Remove From List"; ObjectID = "42"; */
+"42.title" = "Remove From List";
+
+/* Class = "NSMenuItem"; title = "Open File"; ObjectID = "72"; */
+"72.title" = "Open File";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "84"; */
+"84.title" = "Reveal in Finder";
+
+/* Class = "NSButtonCell"; title = "Clear All Stopped Transfers"; ObjectID = "118"; */
+"118.title" = "Clear All Stopped Transfers";
+
+/* Class = "NSTextFieldCell"; title = "dummyfile.png"; ObjectID = "5dv-pa-ldM"; */
+"5dv-pa-ldM.title" = "dummyfile.png";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7Ku-ts-PpG"; */
+"7Ku-ts-PpG.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "10 MB"; ObjectID = "PAR-0R-j9A"; */
+"PAR-0R-j9A.title" = "10 MB";
+
+/* Class = "NSTextFieldCell"; title = "10 MB of 100 MB (100 KB/sec) — 2 seconds reamining"; ObjectID = "VVN-xJ-iKJ"; */
+"VVN-xJ-iKJ.title" = "10 MB of 100 MB (100 KB/sec) — 2 seconds reamining";
+
+/* Class = "NSSegmentedCell"; nY8-F3-7sa.ibShadowedLabels[0] = "All"; ObjectID = "nY8-F3-7sa"; */
+"nY8-F3-7sa.ibShadowedLabels[0]" = "All";
+
+/* Class = "NSSegmentedCell"; nY8-F3-7sa.ibShadowedLabels[1] = "Sending"; ObjectID = "nY8-F3-7sa"; */
+"nY8-F3-7sa.ibShadowedLabels[1]" = "Sending";
+
+/* Class = "NSSegmentedCell"; nY8-F3-7sa.ibShadowedLabels[2] = "Receiving"; ObjectID = "nY8-F3-7sa"; */
+"nY8-F3-7sa.ibShadowedLabels[2]" = "Receiving";

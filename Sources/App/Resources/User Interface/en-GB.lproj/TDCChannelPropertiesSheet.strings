@@ -1,0 +1,105 @@
+
+/* Class = "NSWindow"; title = "Channel Properties"; ObjectID = "5"; */
+"5.title" = "Channel Properties";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "123"; */
+"123.ibExternalAccessibilityDescription" = "Channel Name";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Optional Channel Password"; ObjectID = "124"; */
+"124.ibExternalAccessibilityDescription" = "Optional Channel Password";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "129"; */
+"129.placeholderString" = "Optional";
+
+/* Class = "NSTextFieldCell"; placeholderString = "#example"; ObjectID = "130"; */
+"130.placeholderString" = "#example";
+
+/* Class = "NSButtonCell"; title = "Join on connect"; ObjectID = "131"; */
+"131.title" = "Join on connect";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "134"; */
+"134.title" = "Name:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "135"; */
+"135.title" = "Password:";
+
+/* Class = "NSButtonCell"; title = "Show notifications for channel"; ObjectID = "141"; */
+"141.title" = "Show notifications for channel";
+
+/* Class = "NSButtonCell"; title = "Disable highlights"; ObjectID = "142"; */
+"142.title" = "Disable highlights";
+
+/* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "Navigation Bar"; ObjectID = "185"; */
+"185.ibExternalAccessibilityDescription" = "Navigation Bar";
+
+/* Class = "NSSegmentedCell"; 186.ibShadowedLabels[0] = "General"; ObjectID = "186"; */
+"186.ibShadowedLabels[0]" = "General";
+
+/* Class = "NSSegmentedCell"; 186.ibShadowedLabels[1] = "Defaults"; ObjectID = "186"; */
+"186.ibShadowedLabels[1]" = "Defaults";
+
+/* Class = "NSSegmentedCell"; 186.ibShadowedLabels[2] = "Notifications"; ObjectID = "186"; */
+"186.ibShadowedLabels[2]" = "Notifications";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Default topic to set if channel is empty when joined."; ObjectID = "250"; */
+"250.ibExternalAccessibilityDescription" = "Default topic to set if channel is empty when joined.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Default set of modes to apply if channel is empty when joined."; ObjectID = "251"; */
+"251.ibExternalAccessibilityDescription" = "Default set of modes to apply if channel is empty when joined.";
+
+/* Class = "NSTextFieldCell"; title = "Modes:"; ObjectID = "267"; */
+"267.title" = "Modes:";
+
+/* Class = "NSTextFieldCell"; title = "Topic:"; ObjectID = "268"; */
+"268.title" = "Topic:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "269"; */
+"269.placeholderString" = "Optional";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "270"; */
+"270.placeholderString" = "Optional";
+
+/* Class = "NSButtonCell"; title = "Disable inline media"; ObjectID = "280"; */
+"280.title" = "Disable inline media";
+
+/* Class = "NSButtonCell"; title = "Disable general event messages"; ObjectID = "282"; */
+"282.title" = "Disable general event messages";
+
+/* Class = "NSButtonCell"; title = "Show unread count in channel list"; ObjectID = "357"; */
+"357.title" = "Show unread count in channel list";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "3uS-Ah-Kpg"; */
+"3uS-Ah-Kpg.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "When you give a channel a label, that label will appear in the Server List in lieu of the channel name."; ObjectID = "F9e-qw-7tY"; */
+"F9e-qw-7tY.title" = "When you give a channel a label, that label will appear in the Server List in lieu of the channel name.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "I2R-pI-UwU"; */
+"I2R-pI-UwU.ibExternalAccessibilityDescription" = "Channel Name";
+
+/* Class = "NSButtonCell"; title = "Show inline media"; ObjectID = "K3N-Px-fl5"; */
+"K3N-Px-fl5.title" = "Show inline media";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "RKI-lY-4zM"; */
+"RKI-lY-4zM.ibExternalAccessibilityDescription" = "Save";
+
+/* Class = "NSTextFieldCell"; title = "Values to apply if the channel is empty:"; ObjectID = "Yvg-62-eMH"; */
+"Yvg-62-eMH.title" = "Values to apply if the channel is empty:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "fvI-0j-4a5"; */
+"fvI-0j-4a5.placeholderString" = "Optional";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "mot-Qn-Rih"; */
+"mot-Qn-Rih.title" = "Label:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "p4S-DM-ZI2"; */
+"p4S-DM-ZI2.ibExternalAccessibilityDescription" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = ") to revert to default, app-wide value."; ObjectID = "pqH-JA-zfn"; */
+"pqH-JA-zfn.title" = ") to revert to default, app-wide value.";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "vut-UU-V9o"; */
+"vut-UU-V9o.title" = "Save";
+
+/* Class = "NSTextFieldCell"; title = "Change checkbox to mixed state ("; ObjectID = "xfF-kd-SbM"; */
+"xfF-kd-SbM.title" = "Change checkbox to mixed state (";

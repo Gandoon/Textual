@@ -1,0 +1,18 @@
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
+"5.title" = "Window";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Change Topic"; ObjectID = "9"; */
+"9.ibExternalAccessibilityDescription" = "Change Topic";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "Cancel";
+
+/* Class = "NSButtonCell"; title = "Change Topic"; ObjectID = "20"; */
+"20.title" = "Change Topic";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "21"; */
+"21.title" = "Cancel";
+
+/* Class = "NSTextFieldCell"; title = "Topic for %@:"; ObjectID = "27"; */
+"27.title" = "Topic for %@:";
