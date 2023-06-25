@@ -2740,6 +2740,62 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		036600BA2A485D3B00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Accessibility.strings; sourceTree = "<group>"; };
+		036600BB2A485D3B00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/BasicLanguage.strings; sourceTree = "<group>"; };
+		036600BC2A485D3B00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/CommonErrors.strings; sourceTree = "<group>"; };
+		036600BD2A485D3B00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/IRC.strings; sourceTree = "<group>"; };
+		036600BE2A485D3C00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Notifications.strings; sourceTree = "<group>"; };
+		036600BF2A485D3C00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/OffTheRecord.strings; sourceTree = "<group>"; };
+		036600C02A485D3C00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Prompts.strings; sourceTree = "<group>"; };
+		036600C12A485D3C00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCAboutDialog.strings; sourceTree = "<group>"; };
+		036600C22A485D3C00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCAddressBookSheet.strings; sourceTree = "<group>"; };
+		036600C32A485D3D00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCChannelBanListSheet.strings; sourceTree = "<group>"; };
+		036600C42A485D3D00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCChannelInviteSheet.strings; sourceTree = "<group>"; };
+		036600C52A485D3D00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCChannelModifyModesSheet.strings; sourceTree = "<group>"; };
+		036600C62A485D3D00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCChannelModifyTopicSheet.strings; sourceTree = "<group>"; };
+		036600C72A485D3D00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCChannelPropertiesSheet.strings; sourceTree = "<group>"; };
+		036600C82A485D3E00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCChannelSpotlightController.strings; sourceTree = "<group>"; };
+		036600C92A485D3E00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCFileTransferDialog.strings; sourceTree = "<group>"; };
+		036600CA2A485D3E00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCLicenseUpgradeEligibilitySheet.strings; sourceTree = "<group>"; };
+		036600CB2A485D3E00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCPreferencesController.strings; sourceTree = "<group>"; };
+		036600CC2A485D3E00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCPreferencesUserStyleSheet.strings; sourceTree = "<group>"; };
+		036600CD2A485D3E00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCServerChannelListDialog.strings; sourceTree = "<group>"; };
+		036600CE2A485D3F00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCServerEndpointListSheet.strings; sourceTree = "<group>"; };
+		036600CF2A485D3F00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TDCServerPropertiesSheet.strings; sourceTree = "<group>"; };
+		036600D02A485D3F00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TLOLicenseManager.strings; sourceTree = "<group>"; };
+		036600D12A485D3F00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TVCMainWindow.strings; sourceTree = "<group>"; };
+		036600D22A485D3F00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/TVCNotificationConfigurationView.strings; sourceTree = "<group>"; };
+		036600D32A485D3F00324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCAboutDialog.xib; sourceTree = "<group>"; };
+		036600D42A485D4000324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCAddressBookSheet.xib; sourceTree = "<group>"; };
+		036600D52A485D4000324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCChannelBanListSheet.xib; sourceTree = "<group>"; };
+		036600D62A485D4000324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCChannelInviteSheet.xib; sourceTree = "<group>"; };
+		036600D72A485D4000324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCChannelModifyModesSheet.xib; sourceTree = "<group>"; };
+		036600D82A485D4000324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCChannelModifyTopicSheet.xib; sourceTree = "<group>"; };
+		036600D92A485D4000324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCChannelPropertiesSheet.xib; sourceTree = "<group>"; };
+		036600DA2A485D4100324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCChannelSpotlightController.xib; sourceTree = "<group>"; };
+		036600DB2A485D4100324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCFileTransferDialog.xib; sourceTree = "<group>"; };
+		036600DC2A485D4100324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCHighlightEntrySheet.xib; sourceTree = "<group>"; };
+		036600DD2A485D4100324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCLicenseManagerDialog.xib; sourceTree = "<group>"; };
+		036600DE2A485D4100324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCLicenseManagerMigrateAppStoreSheet.xib; sourceTree = "<group>"; };
+		036600DF2A485D4100324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCLicenseManagerRecoverLostLicenseSheet.xib; sourceTree = "<group>"; };
+		036600E02A485D4200324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCLicenseUpgradeActivateSheet.xib; sourceTree = "<group>"; };
+		036600E12A485D4200324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCLicenseUpgradeDialog.xib; sourceTree = "<group>"; };
+		036600E22A485D4200324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCLicenseUpgradeEligibilitySheet.xib; sourceTree = "<group>"; };
+		036600E32A485D4200324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCNicknameColorSheet.xib; sourceTree = "<group>"; };
+		036600E42A485D4200324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCPreferences.xib; sourceTree = "<group>"; };
+		036600E52A485D4200324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCPreferencesUserStyleSheet.xib; sourceTree = "<group>"; };
+		036600E62A485D4300324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCProgressIndicatorSheet.xib; sourceTree = "<group>"; };
+		036600E72A485D4300324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCServerChangeNicknameSheet.xib; sourceTree = "<group>"; };
+		036600E82A485D4300324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCServerChannelListDialog.xib; sourceTree = "<group>"; };
+		036600E92A485D4300324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCServerEndpointListSheet.xib; sourceTree = "<group>"; };
+		036600EA2A485D4300324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCServerHighlightListSheet.xib; sourceTree = "<group>"; };
+		036600EB2A485D4300324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCServerPropertiesSheet.xib; sourceTree = "<group>"; };
+		036600EC2A485D4400324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TDCWelcomeSheet.xib; sourceTree = "<group>"; };
+		036600ED2A485D4400324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TVCAlert.xib; sourceTree = "<group>"; };
+		036600EE2A485D4400324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TVCChannelSelectionView.xib; sourceTree = "<group>"; };
+		036600EF2A485D4400324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TVCMainWindow.xib; sourceTree = "<group>"; };
+		036600F02A485D4400324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TVCNotificationConfigurationView.xib; sourceTree = "<group>"; };
+		036600F12A485D4400324784 /* sv */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = sv; path = sv.lproj/TXCMainMenu.xib; sourceTree = "<group>"; };
 		4C06E13A20EC4AC40055D09A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TDCServerPropertiesSheet.xib; sourceTree = "<group>"; };
 		4C06E13E20EC4AC40055D09A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TDCServerHighlightListSheet.xib; sourceTree = "<group>"; };
 		4C06E14020EC4AC40055D09A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TDCServerEndpointListSheet.xib; sourceTree = "<group>"; };
@@ -6234,10 +6290,10 @@
 				ORGANIZATIONNAME = "Codeux Software, LLC";
 				TargetAttributes = {
 					4C0BA4F81990798800857343 = {
-						DevelopmentTeam = 8482Q6EPL6;
+						DevelopmentTeam = A27DU4WWME;
 						DevelopmentTeamName = "Codeux Software, LLC";
 						LastSwiftMigration = 1100;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.Mac = {
 								enabled = 1;
@@ -6251,7 +6307,7 @@
 						};
 					};
 					4C1DC5511580420500A47BC9 = {
-						DevelopmentTeam = 8482Q6EPL6;
+						DevelopmentTeam = P6EW49NDMA;
 						DevelopmentTeamName = "Codeux Software, LLC";
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Manual;
@@ -6262,11 +6318,11 @@
 						};
 					};
 					4C47314220C7599800713C91 = {
-						DevelopmentTeam = 8482Q6EPL6;
+						DevelopmentTeam = P6EW49NDMA;
 						LastSwiftMigration = 1100;
 					};
 					4C5BA37216F1302F00A96CA2 = {
-						DevelopmentTeam = 8482Q6EPL6;
+						DevelopmentTeam = P6EW49NDMA;
 						DevelopmentTeamName = "Codeux Software, LLC";
 						LastSwiftMigration = 1100;
 						ProvisioningStyle = Manual;
@@ -6277,7 +6333,7 @@
 						};
 					};
 					4CCF301015804DCE006FFE21 = {
-						DevelopmentTeam = 8482Q6EPL6;
+						DevelopmentTeam = P6EW49NDMA;
 					};
 				};
 			};
@@ -6288,6 +6344,7 @@
 			knownRegions = (
 				en,
 				Base,
+				sv,
 			);
 			mainGroup = 4C1DC5471580420500A47BC9;
 			productRefGroup = 4C1DC5531580420500A47BC9 /* Products */;
@@ -7897,6 +7954,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E13A20EC4AC40055D09A /* en */,
+				036600EB2A485D4300324784 /* sv */,
 			);
 			name = TDCServerPropertiesSheet.xib;
 			sourceTree = "<group>";
@@ -7905,6 +7963,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E13E20EC4AC40055D09A /* en */,
+				036600EA2A485D4300324784 /* sv */,
 			);
 			name = TDCServerHighlightListSheet.xib;
 			sourceTree = "<group>";
@@ -7913,6 +7972,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E14020EC4AC40055D09A /* en */,
+				036600E92A485D4300324784 /* sv */,
 			);
 			name = TDCServerEndpointListSheet.xib;
 			sourceTree = "<group>";
@@ -7921,6 +7981,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E14220EC4AC40055D09A /* en */,
+				036600D72A485D4000324784 /* sv */,
 			);
 			name = TDCChannelModifyModesSheet.xib;
 			sourceTree = "<group>";
@@ -7929,6 +7990,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E14420EC4AC40055D09A /* en */,
+				036600DA2A485D4100324784 /* sv */,
 			);
 			name = TDCChannelSpotlightController.xib;
 			sourceTree = "<group>";
@@ -7937,6 +7999,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E14620EC4AC40055D09A /* en */,
+				036600DB2A485D4100324784 /* sv */,
 			);
 			name = TDCFileTransferDialog.xib;
 			sourceTree = "<group>";
@@ -7945,6 +8008,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E14820EC4AC40055D09A /* en */,
+				036600E82A485D4300324784 /* sv */,
 			);
 			name = TDCServerChannelListDialog.xib;
 			sourceTree = "<group>";
@@ -7953,6 +8017,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E14A20EC4AC40055D09A /* en */,
+				036600D52A485D4000324784 /* sv */,
 			);
 			name = TDCChannelBanListSheet.xib;
 			sourceTree = "<group>";
@@ -7961,6 +8026,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E14C20EC4AC40055D09A /* en */,
+				036600D92A485D4000324784 /* sv */,
 			);
 			name = TDCChannelPropertiesSheet.xib;
 			sourceTree = "<group>";
@@ -7969,6 +8035,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E14E20EC4AC40055D09A /* en */,
+				036600DE2A485D4100324784 /* sv */,
 			);
 			name = TDCLicenseManagerMigrateAppStoreSheet.xib;
 			sourceTree = "<group>";
@@ -7977,6 +8044,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E15220EC4AC40055D09A /* en */,
+				036600E22A485D4200324784 /* sv */,
 			);
 			name = TDCLicenseUpgradeEligibilitySheet.xib;
 			sourceTree = "<group>";
@@ -7985,6 +8053,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E15620EC4AC40055D09A /* en */,
+				036600EE2A485D4400324784 /* sv */,
 			);
 			name = TVCChannelSelectionView.xib;
 			sourceTree = "<group>";
@@ -7993,6 +8062,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E15820EC4AC40055D09A /* en */,
+				036600F12A485D4400324784 /* sv */,
 			);
 			name = TXCMainMenu.xib;
 			sourceTree = "<group>";
@@ -8001,6 +8071,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E15A20EC4AC40055D09A /* en */,
+				036600F02A485D4400324784 /* sv */,
 			);
 			name = TVCNotificationConfigurationView.xib;
 			sourceTree = "<group>";
@@ -8009,6 +8080,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E15C20EC4AC40055D09A /* en */,
+				036600E02A485D4200324784 /* sv */,
 			);
 			name = TDCLicenseUpgradeActivateSheet.xib;
 			sourceTree = "<group>";
@@ -8017,6 +8089,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E15E20EC4AC40055D09A /* en */,
+				036600E42A485D4200324784 /* sv */,
 			);
 			name = TDCPreferences.xib;
 			sourceTree = "<group>";
@@ -8025,6 +8098,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E16020EC4AC40055D09A /* en */,
+				036600D62A485D4000324784 /* sv */,
 			);
 			name = TDCChannelInviteSheet.xib;
 			sourceTree = "<group>";
@@ -8033,6 +8107,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E16220EC4AC40055D09A /* en */,
+				036600E32A485D4200324784 /* sv */,
 			);
 			name = TDCNicknameColorSheet.xib;
 			sourceTree = "<group>";
@@ -8041,6 +8116,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E16420EC4AC40055D09A /* en */,
+				036600EC2A485D4400324784 /* sv */,
 			);
 			name = TDCWelcomeSheet.xib;
 			sourceTree = "<group>";
@@ -8049,6 +8125,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E16620EC4AC40055D09A /* en */,
+				036600E62A485D4300324784 /* sv */,
 			);
 			name = TDCProgressIndicatorSheet.xib;
 			sourceTree = "<group>";
@@ -8057,6 +8134,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E16820EC4AC40055D09A /* en */,
+				036600D42A485D4000324784 /* sv */,
 			);
 			name = TDCAddressBookSheet.xib;
 			sourceTree = "<group>";
@@ -8065,6 +8143,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E16A20EC4AC40055D09A /* en */,
+				036600ED2A485D4400324784 /* sv */,
 			);
 			name = TVCAlert.xib;
 			sourceTree = "<group>";
@@ -8073,6 +8152,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E16C20EC4AC40055D09A /* en */,
+				036600E12A485D4200324784 /* sv */,
 			);
 			name = TDCLicenseUpgradeDialog.xib;
 			sourceTree = "<group>";
@@ -8081,6 +8161,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E16E20EC4AC40055D09A /* en */,
+				036600E72A485D4300324784 /* sv */,
 			);
 			name = TDCServerChangeNicknameSheet.xib;
 			sourceTree = "<group>";
@@ -8089,6 +8170,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E17020EC4AC40055D09A /* en */,
+				036600D82A485D4000324784 /* sv */,
 			);
 			name = TDCChannelModifyTopicSheet.xib;
 			sourceTree = "<group>";
@@ -8097,6 +8179,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E17220EC4AC40055D09A /* en */,
+				036600D32A485D3F00324784 /* sv */,
 			);
 			name = TDCAboutDialog.xib;
 			sourceTree = "<group>";
@@ -8105,6 +8188,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E17420EC4AC40055D09A /* en */,
+				036600DC2A485D4100324784 /* sv */,
 			);
 			name = TDCHighlightEntrySheet.xib;
 			sourceTree = "<group>";
@@ -8113,6 +8197,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E17620EC4AC40055D09A /* en */,
+				036600EF2A485D4400324784 /* sv */,
 			);
 			name = TVCMainWindow.xib;
 			sourceTree = "<group>";
@@ -8121,6 +8206,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E17820EC4AC40055D09A /* en */,
+				036600DD2A485D4100324784 /* sv */,
 			);
 			name = TDCLicenseManagerDialog.xib;
 			sourceTree = "<group>";
@@ -8129,6 +8215,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E17A20EC4AC40055D09A /* en */,
+				036600DF2A485D4100324784 /* sv */,
 			);
 			name = TDCLicenseManagerRecoverLostLicenseSheet.xib;
 			sourceTree = "<group>";
@@ -8137,6 +8224,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2A820EC4FF00055D09A /* en */,
+				036600C02A485D3C00324784 /* sv */,
 			);
 			name = Prompts.strings;
 			sourceTree = "<group>";
@@ -8145,6 +8233,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2AA20EC4FF00055D09A /* en */,
+				036600BF2A485D3C00324784 /* sv */,
 			);
 			name = OffTheRecord.strings;
 			sourceTree = "<group>";
@@ -8153,6 +8242,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2AC20EC4FF00055D09A /* en */,
+				036600BC2A485D3B00324784 /* sv */,
 			);
 			name = CommonErrors.strings;
 			sourceTree = "<group>";
@@ -8161,6 +8251,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2B020EC4FF00055D09A /* en */,
+				036600BB2A485D3B00324784 /* sv */,
 			);
 			name = BasicLanguage.strings;
 			sourceTree = "<group>";
@@ -8169,6 +8260,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2B220EC4FF00055D09A /* en */,
+				036600BA2A485D3B00324784 /* sv */,
 			);
 			name = Accessibility.strings;
 			sourceTree = "<group>";
@@ -8177,6 +8269,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2B420EC4FF00055D09A /* en */,
+				036600C72A485D3D00324784 /* sv */,
 			);
 			name = TDCChannelPropertiesSheet.strings;
 			sourceTree = "<group>";
@@ -8185,6 +8278,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2B620EC4FF00055D09A /* en */,
+				036600C32A485D3D00324784 /* sv */,
 			);
 			name = TDCChannelBanListSheet.strings;
 			sourceTree = "<group>";
@@ -8193,6 +8287,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2B820EC4FF00055D09A /* en */,
+				036600CB2A485D3E00324784 /* sv */,
 			);
 			name = TDCPreferencesController.strings;
 			sourceTree = "<group>";
@@ -8201,6 +8296,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2BA20EC4FF00055D09A /* en */,
+				036600C92A485D3E00324784 /* sv */,
 			);
 			name = TDCFileTransferDialog.strings;
 			sourceTree = "<group>";
@@ -8209,6 +8305,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2BC20EC4FF00055D09A /* en */,
+				036600C42A485D3D00324784 /* sv */,
 			);
 			name = TDCChannelInviteSheet.strings;
 			sourceTree = "<group>";
@@ -8217,6 +8314,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2BE20EC4FF00055D09A /* en */,
+				036600C12A485D3C00324784 /* sv */,
 			);
 			name = TDCAboutDialog.strings;
 			sourceTree = "<group>";
@@ -8225,6 +8323,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2C020EC4FF00055D09A /* en */,
+				036600CF2A485D3F00324784 /* sv */,
 			);
 			name = TDCServerPropertiesSheet.strings;
 			sourceTree = "<group>";
@@ -8233,6 +8332,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2C220EC4FF00055D09A /* en */,
+				036600BD2A485D3B00324784 /* sv */,
 			);
 			name = IRC.strings;
 			sourceTree = "<group>";
@@ -8241,6 +8341,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2C420EC4FF00055D09A /* en */,
+				036600D02A485D3F00324784 /* sv */,
 			);
 			name = TLOLicenseManager.strings;
 			sourceTree = "<group>";
@@ -8249,6 +8350,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2C620EC4FF00055D09A /* en */,
+				036600C52A485D3D00324784 /* sv */,
 			);
 			name = TDCChannelModifyModesSheet.strings;
 			sourceTree = "<group>";
@@ -8257,6 +8359,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2C820EC4FF00055D09A /* en */,
+				036600D12A485D3F00324784 /* sv */,
 			);
 			name = TVCMainWindow.strings;
 			sourceTree = "<group>";
@@ -8265,6 +8368,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2CA20EC4FF00055D09A /* en */,
+				036600BE2A485D3C00324784 /* sv */,
 			);
 			name = Notifications.strings;
 			sourceTree = "<group>";
@@ -8273,6 +8377,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2CE20EC4FF00055D09A /* en */,
+				036600D22A485D3F00324784 /* sv */,
 			);
 			name = TVCNotificationConfigurationView.strings;
 			sourceTree = "<group>";
@@ -8281,6 +8386,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2D020EC4FF00055D09A /* en */,
+				036600CE2A485D3F00324784 /* sv */,
 			);
 			name = TDCServerEndpointListSheet.strings;
 			sourceTree = "<group>";
@@ -8289,6 +8395,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2D220EC4FF00055D09A /* en */,
+				036600CD2A485D3E00324784 /* sv */,
 			);
 			name = TDCServerChannelListDialog.strings;
 			sourceTree = "<group>";
@@ -8297,6 +8404,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2D420EC4FF00055D09A /* en */,
+				036600C82A485D3E00324784 /* sv */,
 			);
 			name = TDCChannelSpotlightController.strings;
 			sourceTree = "<group>";
@@ -8305,6 +8413,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2D620EC4FF00055D09A /* en */,
+				036600C22A485D3C00324784 /* sv */,
 			);
 			name = TDCAddressBookSheet.strings;
 			sourceTree = "<group>";
@@ -8313,6 +8422,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2D820EC4FF00055D09A /* en */,
+				036600CA2A485D3E00324784 /* sv */,
 			);
 			name = TDCLicenseUpgradeEligibilitySheet.strings;
 			sourceTree = "<group>";
@@ -8321,6 +8431,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C06E2DA20EC4FF00055D09A /* en */,
+				036600C62A485D3D00324784 /* sv */,
 			);
 			name = TDCChannelModifyTopicSheet.strings;
 			sourceTree = "<group>";
@@ -8329,6 +8440,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4C17305322B4A94000DC5836 /* en */,
+				036600E52A485D4200324784 /* sv */,
 			);
 			name = TDCPreferencesUserStyleSheet.xib;
 			sourceTree = "<group>";
@@ -8345,6 +8457,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4CEFEDAF22B4B6E8002CEE19 /* en */,
+				036600CC2A485D3E00324784 /* sv */,
 			);
 			name = TDCPreferencesUserStyleSheet.strings;
 			sourceTree = "<group>";
@@ -8355,12 +8468,20 @@
 		4C0BA6D51990798800857343 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A27DU4WWME;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
 		4C0BA6D61990798800857343 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A27DU4WWME;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
