@@ -1,0 +1,87 @@
+/* *********************************************************************
+ *                  _____         _               _
+ *                 |_   _|____  _| |_ _   _  __ _| |
+ *                   | |/ _ \ \/ / __| | | |/ _` | |
+ *                   | |  __/>  <| |_| |_| | (_| | |
+ *                   |_|\___/_/\_\\__|\__,_|\__,_|_|
+ *
+ * Copyright (c) 2010 - 2018 Codeux Software, LLC & respective contributors.
+ *       Please see Acknowledgements.pdf for additional information.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ *  * Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *  * Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in the
+ *    documentation and/or other materials provided with the distribution.
+ *  * Neither the name of Textual, "Codeux Software, LLC", nor the
+ *    names of its contributors may be used to endorse or promote products
+ *    derived from this software without specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE AUTHOR AND CONTRIBUTORS ``AS IS'' AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+ * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+ * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+ * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
+ *
+ *********************************************************************** */
+
+"71l-y7" = "Ingen";
+"vbl-xi" = "Okänd";
+
+"1dd-0f" = "Textual IRC-klient: www.textualapp.com";
+"vfu-c0" = "Ej namngiven anslutning";
+
+"zhr-lq" = "My %@ has gone to sleep. ZZZzzz…";
+"qi7-5y" = "My Mac has gone to sleep. ZZZzzz…";
+
+"hri-l0" = "Stäng samtal";
+"1f6-bg" = "Stäng fönster";
+"w3a-je" = "Koppla från %@";
+"5td-3f" = "Lämna kanal";
+"x97-ro" = "Avsluta Textual 7";
+
+"6cw-ni" = "Kopiera logg som HTML";
+"ngd-ms" = "Tvinga återinläsning av utseendestil";
+"tfj-m9" = "Öppna webförhandsvisning";
+"o5l-4s" = "Slå upp i ordbok";
+"zxs-yy" = "Slå upp “%@”";
+"1ll-h9" = "Sök med %@";
+
+"eoq-pr-128" = "sekunder";
+"eoq-pr-64" = "minuter";
+"eoq-pr-32" = "timmar";
+"eoq-pr-16" = "dagar";
+"eoq-pr-8" = "månader";
+"eoq-pr-4" = "år";
+
+"fko-64-128" = "sekund";
+"fko-64-64" = "minut";
+"fko-64-32" = "timme";
+"fko-64-16" = "dag";
+"fko-64-8" = "månad";
+"fko-64-4" = "år";
+
+"4um-w4" = "%@ sedan";
+
+"7kc-mo" = "Inga åtgärder tillgängliga";
+
+"7lm-bq" = "Inbyggd";
+"bm2-4p" = "Anpassad";
+"aqy-6c" = "Anpassad — iCloud Drive";
+
+"fo8-1h" = "Fyll i detta fält";
+
+"iwp-cg" = "IRC-förger";
+"ham-vk" = "Färg %ld";
