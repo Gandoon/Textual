@@ -15,7 +15,7 @@
 "40.ibExternalAccessibilityDescription" = "Erkännanden";
 
 /* Class = "NSButtonCell"; title = "Acknowledgements"; ObjectID = "41"; */
-"41.title" = "Acknowledgements";
+"41.title" = "Erkännanden";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "MDL-oh-scd"; */
 "MDL-oh-scd.ibExternalAccessibilityDescription" = "Stäng";
