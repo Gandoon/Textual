@@ -33,6 +33,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
 /* Notification spoken text */
@@ -42,96 +43,96 @@
 /* Channel messages */
 /* Channel messages are broken up into multiple components so that they
  can be reassembled based on user preference. */
-"tao-i2" = "Channel Message";
-"kk4-68" = "Channel Notice";
-"qld-sa" = "Highlight";
-"ke8-17" = " in %@";
-"6nw-ec" = " in Private Message";
-"qy9-86" = " by %@";
-"a7i-pu" = " from %@";
+"tao-i2" = "Kanalmeddelande";
+"kk4-68" = "Kanalnotis";
+"qld-sa" = "Markerat";
+"ke8-17" = " i %@";
+"6nw-ec" = " i privat meddelande";
+"qy9-86" = " av %@";
+"a7i-pu" = " från %@";
 "g9t-bt" = ", "; // separator
 
 /* Other spoken text */
-"l5i-at" = "Invited to %1$@ by %2$@";
+"l5i-at" = "Inbjuden till %1$@ av %2$@";
 "5yu-bf" = "Kicked from %1$@ by %2$@";
-"rvb-9l" = "New Private Message from %1$@, %2$@";
-"2bu-ep" = "Private Message from %1$@, %2$@";
-"6jl-vh" = "Private Notice from %1$@, %2$@";
-"z4p-yr" = "Connected to %@";
-"fd0-f8" = "Disconnected from %@";
-"5e4-vg" = "File transfer to %@ completed";
-"4cd-p3" = "File transfer from %@ completed";
-"f0u-32" = "File transfer to %@ failed";
-"mak-bj" = "File transfer from %@ failed";
-"at0-vi" = "Received file transfer request from %@";
-"bwu-ps" = "%1$@ joined %2$@";
-"vhl-5u" = "%1$@ joined"; // join without channel name (unused)
-"4aq-hz" = "%1$@ parted %2$@";
-"nsn-du" = "%1$@ parted"; // part without channel name (unused)
-"sqf-4y" = "%1$@ disconnected"; // disconnect
+"rvb-9l" = "Nytt privat meddelande från %1$@, %2$@";
+"2bu-ep" = "Privat meddelande från %1$@, %2$@";
+"6jl-vh" = "Private notis från %1$@, %2$@";
+"z4p-yr" = "Ansluten till %@";
+"fd0-f8" = "Nedkopplad från %@";
+"5e4-vg" = "Filöverföring till %@ färdig";
+"4cd-p3" = "Filöverföring from %@ färdig";
+"f0u-32" = "Filöverföring till %@ misslyckades";
+"mak-bj" = "Filöverföring från %@ misslyckades";
+"at0-vi" = "Mottog filöverföringsförfrågan från %@";
+"bwu-ps" = "%1$@ gick med i %2$@";
+"vhl-5u" = "%1$@ gick med"; // join without channel name (unused)
+"4aq-hz" = "%1$@ lämnade %2$@";
+"nsn-du" = "%1$@ lämnade"; // part without channel name (unused)
+"sqf-4y" = "%1$@ kopplade från"; // disconnect
 
 /* Notification bubble titles */
-"niq-32" = "Address Book Notification";
-"ep5-de" = "Channel Message: %@";
-"chi-km" = "Channel Notice: %@";
-"mo1-vn" = "Connected: %@";
-"7xe-ig" = "Disconnected: %@";
-"qka-f3" = "Highlight: %@";
-"g4s-cq" = "Invited: %@";
-"u30-ia" = "Kicked: %@";
-"ltn-hf" = "New Private Message";
-"69i-dy" = "Private Message";
-"7hn-dg" = "Private Notice";
-"l5y-sx" = "Successful File Transfer: %@";
-"hc9-7n" = "Successful File Transfer: %@";
-"het-vh" = "File Transfer Failed: %@";
-"hm4-ze" = "File Transfer Failed: %@";
-"nqz-7v" = "File Transfer Request: %@";
-"keq-ts" = "User Joined: %@";
-"im4-p0" = "User Parted: %@";
-"20x-32" = "User Disconnected: %@";
+"niq-32" = "Adressboknotis";
+"ep5-de" = "Kanalmeddelande: %@";
+"chi-km" = "Kanalnotis: %@";
+"mo1-vn" = "Anslöt: %@";
+"7xe-ig" = "Kopplade från: %@";
+"qka-f3" = "Markerad: %@";
+"g4s-cq" = "Inbjuden: %@";
+"u30-ia" = "Utsparkad: %@";
+"ltn-hf" = "Nytt privat meddelande";
+"69i-dy" = "Privat meddelande";
+"7hn-dg" = "Privat notis";
+"l5y-sx" = "Lyckad filöverföring: %@";
+"hc9-7n" = "Lyckad filöverföring: %@";
+"het-vh" = "Misslyckad Filöverföring: %@";
+"hm4-ze" = "Misslyckad Filöverföring: %@";
+"nqz-7v" = "Filöverföringsförfrågan: %@";
+"keq-ts" = "Användare gick med: %@";
+"im4-p0" = "Användare lämnade: %@";
+"20x-32" = "Användare kopplade från: %@";
 
 /* Notification bubble descriptions.
  These are only notifications that require locali	zation. Many notifications
  just send the raw message received so they are not localized here */
-"88k-kl" = "Connection successful";
-"bif-2c" = "Disconnection successful";
-"xl5-dn" = "%1$@ invited you to join %2$@";
-"fkt-p3" = "%1$@ kicked you from %2$@ with reason: %3$@";
-"fhn-dd" = "%1$@ (%2$qi bytes)";
-"oqh-pn" = "%1$@ (%2$qi bytes)";
+"88k-kl" = "Anslutning lyckades";
+"bif-2c" = "Nedkoppling lyckades";
+"xl5-dn" = "%1$@ bjöd in dig att gå med i %2$@";
+"fkt-p3" = "%1$@ sparkade ut dig från %2$@ med anledning: %3$@";
+"fhn-dd" = "%1$@ (%2$qi byte)";
+"oqh-pn" = "%1$@ (%2$qi byte)";
 "9r4-cq" = "%@";
 "cqq-ci" = "%@";
-"wik-wq" = "%1$@ (%2$qi bytes)";
-"97r-0l" = "User with nickname “%1$@” is available";
-"rif-9r" = "User with nickname “%1$@” is no longer available";
-"xk2-1l" = "User with nickname “%1$@” is now available";
-"yas-us" = "%1$@ joined %2$@";
-"bu2-9m" = "%1$@ parted %2$@";
-"3ur-i8" = "%1$@ parted %2$@ with reason: %3$@";
-"7ao-n8" = "%1$@ disconnected";
-"ssw-m6" = "%1$@ disconnected with reason: %2$@";
+"wik-wq" = "%1$@ (%2$qi byte)";
+"97r-0l" = "Användaren med smeknamn “%1$@” är tillgänglig";
+"rif-9r" = "Användaren med smeknamn “%1$@” är inte längre tillgänglig";
+"xk2-1l" = "Användaren med smeknamn “%1$@” är nu tillgänglig";
+"yas-us" = "%1$@ gick med i %2$@";
+"bu2-9m" = "%1$@ lämnade %2$@";
+"3ur-i8" = "%1$@ lämnade %2$@ med anledning: %3$@";
+"7ao-n8" = "%1$@ kopplade ned";
+"ssw-m6" = "%1$@ kopplade ned med anledning: %2$@";
 
 /* Notification bubble reply button placeholders */
-"do4-2e" = "Enter message to reply to this private message";
+"do4-2e" = "Ange meddelande för att svara på detta privata meddelande";
 
 /* Notification type titles */
-"kx3-xk" = "Address Book Notification";
-"qnz-k4" = "Channel Message";
-"vuq-jp" = "Channel Notice";
-"4lr-ej" = "Connected";
-"wjv-yb" = "Disconnected";
+"kx3-xk" = "Adressboknotis";
+"qnz-k4" = "Kanalmeddelande";
+"vuq-jp" = "Kanalnotis";
+"4lr-ej" = "Ansluten";
+"wjv-yb" = "Frånkopplad";
 "cs4-x9" = "Highlight (Mention)";
 "eiu-8q" = "Channel Invitation";
 "2nk-lg" = "Kicked from Channel";
 "5yi-gu" = "Private Message (new)";
 "00b-nx" = "Private Message";
 "nhz-io" = "Private Notice";
-"0x2-3h" = "Successful File Transfer (Sending)";
-"qle-7v" = "Successful File Transfer (Receiving)";
-"sc0-1n" = "Failed File Transfer (Sending)";
-"we9-1b" = "Failed File Transfer (Receiving)";
-"st5-0n" = "File Transfer Request";
-"25q-af" = "User Joined Channel";
-"k3s-by" = "User Parted Channel";
-"0fo-bt" = "User Disconnected";
+"0x2-3h" = "Filöverföring lyckades (skickade)";
+"qle-7v" = "Filöverföring lyckades (mottog)";
+"sc0-1n" = "Filöverföring misslyckades (skickade)";
+"we9-1b" = "Filöverföring misslyckades (mottog)";
+"st5-0n" = "Filöverföringsförfrågan";
+"25q-af" = "Användare gick med i kanal";
+"k3s-by" = "Användare lämnade kanal";
+"0fo-bt" = "Användare kopplade från";

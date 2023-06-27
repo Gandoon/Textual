@@ -33,7 +33,8 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"27l-qx" = "You have exceeded the maximum topic length defined by %1$@ which is %2$ld characters";
-"zm4-cr" = "If you continue typing, the end of your topic may be cut off.";
+"27l-qx" = "Du har överskridit maxlängden %2$ld tecken för ämnet som definieras av %1$@";
+"zm4-cr" = "Om du fortsätter skriva kan slutet på ditt ämne trunkeras.";

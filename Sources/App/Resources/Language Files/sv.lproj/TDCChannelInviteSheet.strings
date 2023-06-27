@@ -33,8 +33,9 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"c8p-sb" = "%ld users";
-"0lg-er" = "Invite %@ to:";
-"7i1-ds" = "%1$@ and %2$@";
+"c8p-sb" = "%ld användare";
+"0lg-er" = "Bjud in %@ till:";
+"7i1-ds" = "%1$@ och %2$@";

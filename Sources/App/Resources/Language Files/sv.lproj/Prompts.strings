@@ -33,143 +33,144 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"mvh-ms" = "Yes";
-"99q-gg" = "No";
-"zjw-bd" = "Continue";
-"qso-2g" = "Cancel";
+"mvh-ms" = "Ja";
+"99q-gg" = "Nej";
+"zjw-bd" = "Fortsätt";
+"qso-2g" = "Avbryt";
 "c7s-dq" = "OK";
-"xne-79" = "Select";
-"ce6-o1" = "Choose";
-"aqw-q1" = "Close";
-"qpv-go" = "Accept";
-"0sy-uc" = "Deny";
-"u09-hg" = "Trust";
-"tlp-8e" = "Delete";
-"71s-kb" = "Open";
+"xne-79" = "Välj";
+"ce6-o1" = "Välj";
+"aqw-q1" = "Stäng";
+"qpv-go" = "Acceptera";
+"0sy-uc" = "Avvisa";
+"u09-hg" = "Lita på";
+"tlp-8e" = "Radera";
+"71s-kb" = "Öppna";
 
-"68u-z9" = "Do not show this message again";
+"68u-z9" = "Visa inte detta meddelande igen";
 
-"6vj-2p" = "Are you sure you want to quit Textual?";
-"77u-vp" = "Quitting will disconnect you from any server that you are connected to until you restart Textual.";
-"1bf-k0" = "Quit";
+"6vj-2p" = "Är du säker på att du vill avsluta Textual?";
+"77u-vp" = "Avslut kommer koppla ner dig från de servrar du är ansluten till tills nästa start av Textual.";
+"1bf-k0" = "Avsluta";
 
-"7gr-e4" = "Set User vHost";
-"2mx-jf" = "Please enter desired vHost (e.g. “apple.vhost”)";
+"7gr-e4" = "Sätt användarens vHost";
+"2mx-jf" = "Ange önskad vHost (t.ex. “apple.vhost”)";
 
-"akr-eh" = "Enter some text to search for";
-"d2w-4o" = "The keyboard shortcut ⌘G can be used to continue to the next search result. ⌘⇧G can be used to return to the previous search result.";
-"q5h-xx" = "Search";
+"akr-eh" = "Ange text att söka efter";
+"d2w-4o" = "Tangentbordsgenvägen ⌘G kan användas för att gå till nästa sökresultat. ⌘⇧G kan användas för att gå tillbaka till föregående sökresultat.";
+"q5h-xx" = "Sök";
 
-"i8o-7z" = "Do you want to delete the selection?";
-"516-ms" = "There is no undo and all data related to this channel, except for logs, will be erased.";
+"i8o-7z" = "Vill du radera markerat?";
+"516-ms" = "Det går inte att ångra och all data relaterad till denna kanal förutom loggar kommer raderas.";
 
-"0kz-wd" = "Do you want to delete the selection?";
-"etl-ss" = "There is no undo and all data related to this server, except for logs, will be erased.";
-"5zs-h0" = "Only delete server on this device";
+"0kz-wd" = "Vill du radera markerat?";
+"etl-ss" = "Det går inte att ångra och all data relaterad till denna server förutom loggar kommer raderas.";
+"5zs-h0" = "Radera server endast på denna enhet";
 
-"3l6-3z" = "You have clicked a link that will connect you to “%1$@“ and join the channel %2$@";
-"mx1-qz" = "The connection named “%1$@“ is already configured to connect to this server address.\n\nDo you want to add this channel to that connection or would you rather create a new connection?";
-"sl5-rf" = "Use Existing Connection";
-"xca-5h" = "Create New Connection";
+"3l6-3z" = "Du har klickat på en länk som kommer ansluta dig till “%1$@“ och gå med i kanalen %2$@";
+"mx1-qz" = "Anslutningen “%1$@“ är redan konfigurerad att ansluta till denna serveradress.\n\nVill du lägga till denna kanal i den befintliga anslutningen eller vill du hellre skapa en ny anslutning?";
+"sl5-rf" = "Använd befintlig anslutning";
+"xca-5h" = "Skapa ny anslutning";
 
-"pnc-ew" = "You have clicked a link that will connect you to “%1$@“ and join the channels: %2$@";
-"a9z-9f" = "The connection named “%1$@“ is already configured to connect to this server address.\n\nDo you want to add these channels to that connection or would you rather create a new connection?";
-"0hh-sl" = "Use Existing Connection";
-"sv9-8s" = "Create New Connection";
+"pnc-ew" = "Du har klickat på en länk som kommer ansluta dig till “%1$@“ och gå med i kanalerna: %2$@";
+"a9z-9f" = "Anslutningen “%1$@“ är redan konfigurerad att ansluta till denna serveradress.\n\nVill du lägga till dessa kanaler i den befintliga anslutningen eller vill du hellre skapa en ny anslutning?";
+"0hh-sl" = "Använd befintlig anslutning";
+"sv9-8s" = "Skapa ny anslutning";
 
-"82q-zi" = "WARNING: The inline media feature may leak your IP address if you do not have a system-wide proxy setup";
-"vcq-sz" = "Click “Configure Proxy” to open System Preferences.";
-"x3e-ur" = "Configure Proxy";
+"82q-zi" = "VARNING: Funktionen för inbäddad media kan läcka din IP-adress om du inte har en systemomfattande proxyinställning";
+"vcq-sz" = "Klicka på “Konfigurera proxy” för att öppna Systeminställningar.";
+"x3e-ur" = "Konfigurera proxy";
 
-"9mb-o5" = "An update is available for these addons: %@";
-"x4w-is" = "Would you like to open the “Textual Extras” installer to perform an update?";
-"ece-dd" = "Remind Me Later";
-"ioq-nf" = "Open Installer";
+"9mb-o5" = "Det finns en uppdatering för dessa tillägg: %@";
+"x4w-is" = "Vill du starta “Textual Extras”-installeraren för att uppdatera?";
+"ece-dd" = "Påminn mig senare";
+"ioq-nf" = "Starta installeraren";
 
-"o9p-4n" = "The “Textual Extras” package must be installed to perform the command “%@”";
-"bpb-vv" = "Would you like to open the installer?";
-"6lr-02" = "Open Installer";
+"o9p-4n" = "“Textual Extras”-paketet måste installeras för att utföra kommandot “%@”";
+"bpb-vv" = "Vill du starta installeraren?";
+"6lr-02" = "Starta installeraren";
 
-"2ul-cl" = "You have clicked on a link that will open the application “%@”";
-"5oq-vv" = "Are you sure you want to open “%@” with this application?";
+"2ul-cl" = "Du har klickat på en länk som vill öppna applikationen “%@”";
+"5oq-vv" = "Är du säker på att du vill öppna “%@” med denna applikation?";
 
-"hcb-3i" = "Preferences may become corrupted if you have more than one copy of Textual open";
-"kx4-q8" = "Are you sure you want to continue?";
+"hcb-3i" = "Inställningar kan korrumperas om du har mer än en instans av Textual igång";
+"kx4-q8" = "Är du säker på att du vill fortsätta?";
 
-"py0-cr" = "The style named “%@” is not designed to work with this version of Textual";
-"76t-pn" = "Some features will not work correctly with this style selected.";
-"2a3-5s" = "Choose Different Style";
+"py0-cr" = "Stilen “%@” är inte designad för att fungera med denna Textual-version";
+"76t-pn" = "Somliga funktioner kommer inte fungera korrekt med denna stil vald.";
+"2a3-5s" = "Välj en annan stil";
 
-"ezn-rm" = "The style named “%@” wants to enable dark mode but styles are no longer allowed to change that preference";
-"193-6o" = "Do you want to keep Textual's light appearance or switch to dark mode?";
-"hf0-w3" = "Keep It Light";
-"hv0-79" = "Paint It Black";
+"ezn-rm" = "Stilen “%@” vill växla till mörkt läge, men stilar tillåts inte längre att ändra den inställningen";
+"193-6o" = "Vill du behålla Textuals ljusa utseende eller byta till mörkt läge?";
+"hf0-w3" = "Behåll den ljus";
+"hv0-79" = "Måla den svart";
 
-"fjw-hj" = "The style named “%@” has been modified in such a way that it can no longer be used";
-"3wd-gj" = "This usually occurs when one or more critical files have been moved or deleted.";
-"c4z-2b" = "Choose Different Style";
+"fjw-hj" = "Stilen “%@” har modifierats på ett sådant sätt att det inte längre kan användas";
+"3wd-gj" = "Detta händer vanligen när en eller flera kritiska filer har flyttats eller tagits bort.";
+"c4z-2b" = "Välj en annan stil";
 
-"1fm-up" = "This action will save a copy of your configuration to a location of your choice";
-"syp-al" = "Please note that the following items cannot be exported: custom addons, file transfer download location, log location, and passwords.";
-"vun-f0" = "Save File";
+"1fm-up" = "Denna åtgärd kommer spara en kopia av din konfiguration till valfri plats";
+"syp-al" = "Notera att följande inte kan exporteras: anpassade tillägg, nedladdningsmapp för filöverföringar, mapp för loggar, samt lösenord.";
+"vun-f0" = "Spara fil";
 
-"itb-3x" = "This action will overwrite your configuration with the contents of a file you choose";
-"jsh-1a" = "Please note that the following items cannot be imported: custom addons, file transfer download location, log location, and passwords.";
-"502-6h" = "Choose File";
+"itb-3x" = "Denna åtgärd kommer skriva över din konfiguration med innehållet i en vald fil";
+"jsh-1a" = "Notera att följande inte kan importeras: anpassade tillägg, nedladdningsmapp för filöverföringar, mapp för loggar, samt lösenord.";
+"502-6h" = "Välj fil";
 
-"6hx-ni" = "Save";
-"0bj-ic" = "To install this script, save it inside the folder:\n[home folder] \U279C Library \U279C Application Scripts \U279C %@\n\nCreate this folder if it does not exist.";
+"6hx-ni" = "Spara";
+"0bj-ic" = "För att installera detta skript, spara det i mappen:\n[home folder] \U279C Library \U279C Application Scripts \U279C %@\n\nSkapa denna mapp om den inte existerar.";
 
-"m2r-gv" = "A script cannot be saved here";
+"m2r-gv" = "Ett skript kan inte sparas här";
 "ztu-nv" = "";
 
-"4ua-v5" = "The script named “%@” has been successfully installed";
-"3ze-xh" = "Type “/%@” into the main input text field to perform this script.";
+"4ua-v5" = "Skriptet “%@” installerades framgångsrikt.";
+"3ze-xh" = "Skriv “/%@” i huvudinmatningsfältet för att köra detta skript.";
 
-"xek-0t" = "The extension named “%@” has been successfully installed";
-"k69-q0" = "Restart Textual to load this extension.";
+"xek-0t" = "Tillägget “%@” installerades framgångsrikt.";
+"k69-q0" = "Starta om Textual för att läsa in detta tillägg.";
 
-"xfl-8e" = "Are you sure you want to open the file named “%@” with Textual?";
+"xfl-8e" = "Är du säker på att du vill öppna filen “%@” med Textual?";
 "6tj-yp" = "";
 
-"k55-19" = "No logs were found";
+"k55-19" = "Inga loggar kunde hittas";
 "f05-hu" = "";
 
-"b7o-v4" = "Textual is unable to access the folder that's configured for your log location because the resource is 'stale'";
-"atn-1c" = "Navigate to Preferences \U279C Advanced \U279C Log Location to repair this preference";
+"b7o-v4" = "Textual kan inte komma åt mappen som är konfigurerad för loggar eftersom resursen är 'stale'";
+"atn-1c" = "Gå till Inställningar \U279C Avancerat \U279C Plats för loggar för att reparera denna inställning";
 
-"h99-3q" = "The process responsible for managing scrollback is not working correctly. Please report this problem to support@codeux.com";
-"nlz-um" = "Last known error message: %@";
+"h99-3q" = "Processen som är ansvarig för att hantera scrollback fungerar inte som den skall. Vänligen rapportera detta problem till support@codeux.com";
+"nlz-um" = "Senaste kända felmeddelande: %@";
 
-"xz5-6j" = "Your preferences could not be migrated. They have NOT been lost. Textual does not have access to them.";
-"oh6-ke" = "Please report this problem to support@codeux.com";
+"xz5-6j" = "Dina inställningar kunde inte migreras. De har INTE förlorats. Dock har Textual inte tillgång till dem.";
+"oh6-ke" = "Vänligen rapportera detta problem till support@codeux.com";
 
-"d22-76" = "A query named “%@“ already exists. Do you want to delete this query?";
-"61s-jc" = "There is no undo and all data related to this query, except for logs, will be erased.";
+"d22-76" = "Ett privat samtal vid namn “%@“ existerar redan. Vill du radera detta samtal?";
+"61s-jc" = "Det går inte att ångra och alla data relaterade till detta privata samtal förutom loggar kommer raderas.";
 
-"bi7-ah" = "Logging has been disabled because there is not enough space on your Mac";
-"v9e-jy" = "Logging will resume when there is free space available.";
+"bi7-ah" = "Loggning har stängts av eftersom det inte finns nog med utrymme på din Mac";
+"v9e-jy" = "Loggning kommer återupptas när det finns utrymme att tillgå.";
 
-"m8b-58" = "Textual can’t verify the identity of the server “%@”";
-"85z-qw" = "The certificate for this server is invalid. You might be connecting to a server that is pretending to be “%@”, which could put your confidential information at risk. Would you like to connect to the server anyway?";
+"m8b-58" = "Textual kan inte verifiera identiteten för servern “%@”";
+"85z-qw" = "Certifikatet för denna server är ogiltig. Det är möjligt att servern du ansluter till som utger sig för att vara “%@”. Detta kan komprometera din konfidentiella information. Vill du ändå ansluta till servern?";
 
-"sfx-xx" = "Textual is using an encrypted connection to “%@“";
-"ihy-mz" = "Encryption with a digital certificate keeps information private as it’s sent to or from the server “%1$@“";
-"iun-45" = "Encryption with a digital certificate keeps information private as it’s sent to or from the server “%1$@“\n\nInformation encrypted using: %2$@";
+"sfx-xx" = "Textual använder en krypterad anslutning till “%@“";
+"ihy-mz" = "Kryptering med ett digitalt certifikat håller information som skickas till och från servern “%1$@“ privat";
+"iun-45" = "EKryptering med ett digitalt certifikat håller information som skickas till och från servern “%1$@“ privat\n\nInformationen krypterad med: %2$@";
 
-"2jq-t5" = "%1$@ with the cipher suite: %2$@";
-"8ou-pu" = "%1$@ with the cipher suite: %2$@ (deprecated)";
+"2jq-t5" = "%1$@ med chifferpaketet: %2$@";
+"8ou-pu" = "%1$@ med chifferpaketet: %2$@ (föråldrat)";
 
-"rn7-08" = "Unable to access iCloud";
-"wjn-f1" = "Make sure you're logged in and that “iCloud Drive” or “Documents & Data” is enabled.";
+"rn7-08" = "Kan inte nå iCloud";
+"wjn-f1" = "Säkerställ att du är inloggad och att “iCloud Drive” eller “Documents & Data” är påslagen.";
 
-"ujw-64" = "The “Inspect Element” feature of WebKit2 cannot be accessed on this version of macOS.";
-"kig-m1" = "Disable WebKit2 or upgrade to a newer version of macOS.";
+"ujw-64" = "“Inspect Element”-funktionen i WebKit2 kan inte användas på denna version av macOS.";
+"kig-m1" = "Stäng av WebKit2 eller uppgradera till en nyare version av macOS.";
 
-"h49-h5" = "Textual quit unexpectedly last time it was open. Would you like to send an anonymous crash report?";
-"oe3-i3" = "The crash report will be sent to “App Center”, a 3rd-party service hosted by Microsoft Corporation, to be reviewed by Codeux Software.\n\nThe privacy policy for this service can be found at https://privacy.microsoft.com/en-us/PrivacyStatement";
-"arr-yb" = "Send";
-"98a-kj" = "Don't Send";
-"6j7-hw" = "Always Send";
+"h49-h5" = "Textual avslutades oväntat förra gången det kördes. Vill du skicka en anonym krashrapport?";
+"oe3-i3" = "Krashrapporten kommer skickas till “App Center” som är en tredjepartstjänst hostad hos Microsoft Corporation. Den kommer analyseras av Codeux Software.\n\nPrivacy policyn för denna tjänst kan du hitta här: https://privacy.microsoft.com/en-us/PrivacyStatement";
+"arr-yb" = "Skicka";
+"98a-kj" = "Skicka inte";
+"6j7-hw" = "Skicka alltid";

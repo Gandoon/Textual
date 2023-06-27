@@ -33,60 +33,61 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
 /* Server properties Address Book entry types */
-"f7o-x4" = "User Ignore";
-"b0g-0x" = "User Tracking";
+"f7o-x4" = "Ignorera användare";
+"b0g-0x" = "Användarspårning";
 
 /* Server properties iCloud options */
-"x08-ko" = "Do you want to remove this server from devices it has been shared with?";
+"x08-ko" = "Vill du ta bort denna server från enheter den har delats med?";
 "sqc-nw" = "";
 
 /* Server specific highlight entry things */
-"61f-6b" = "All Channels";
-"qcc-b4" = "Exclude";
-"tet-dk" = "Match";
+"61f-6b" = "Alla kanaler";
+"qcc-b4" = "Uteslut";
+"tet-dk" = "Matcha";
 
 /* Server properties navigation menu */
-"lww-pc" = "Server Properties";
-"v27-8w" = "Vendor Specific";
-"8uw-tz" = "Advanced";
-"8zc-6y" = "Address Book";
-"5oz-07" = "Channel List";
-"hip-13" = "Connect Commands";
-"8ug-ka" = "Encoding";
-"ehx-4d" = "General";
-"8ik-qo" = "Identity";
-"jtx-hn" = "Highlights";
-"j34-yr" = "Messages";
-"fsj-7f" = "ZNC Bouncer";
-"ce7-kc" = "Client Certificate";
-"fcr-w8" = "Flood Control";
-"ffy-xt" = "Network Socket";
-"t52-7a" = "Proxy Server";
-"36n-u9" = "Redundancy";
+"lww-pc" = "Serverinställningar";
+"v27-8w" = "Tillverkarspecifikt";
+"8uw-tz" = "Avancerat";
+"8zc-6y" = "Adressbok";
+"5oz-07" = "Kanallista";
+"hip-13" = "Anslutningskommandon";
+"8ug-ka" = "Teckenkodning";
+"ehx-4d" = "Allmänt";
+"8ik-qo" = "Identitet";
+"jtx-hn" = "Markeringar";
+"j34-yr" = "Meddelanden";
+"fsj-7f" = "ZNC-studsare";
+"ce7-kc" = "Klientcertifikat";
+"fcr-w8" = "Flood-kontroll";
+"ffy-xt" = "Nätverkssocket";
+"t52-7a" = "Proxyserver";
+"36n-u9" = "Redundans";
 
 /* Error localizations */
-"8iw-q8" = "Please enter a properly formatted username.";
-"agy-bp" = "Please enter a properly formatted real name.";
-"tlo-b6" = "Please enter a properly formatted proxy address.";
-"wlz-tb" = "Please enter a list of properly formatted nicknames.\n\nFailed on nickname: “%@“\n\nList of nicknames should be space separated.\nFor example: “Guest1 Guest2 Guest3“";
+"8iw-q8" = "Ange ett korrekt formaterat användarnamn.";
+"agy-bp" = "Ange ett korrekt formaterat verkligt namn.";
+"tlo-b6" = "Ange en korrekt formaterad proxyadress.";
+"wlz-tb" = "Ange en lista med korrekt formaterade smeknamn.\n\nFel vid smeknamn: “%@“\n\nListan med smeknamn skall vara blankstegsseparerad.\nTill exempel: “Guest1 Guest2 Guest3“";
 
 /* Custom client-side certificate selection */
-"6xz-ec" = "No Certificate Selected";
+"6xz-ec" = "Inget certifikat valt";
 
-"6wq-i4" = "Choose An Identity";
-"mi4-fd" = "Select a certificate to send when you connect securely.";
+"6wq-i4" = "Välj en identitet";
+"mi4-fd" = "Välj ett certifikat att skicka när du ansluter säkert.";
 
 /* Cipher suites */
-"yko-5g" = "The “%@” includes the following cipher suites:";
-"k50-8n" = "%@\n\nThese cipher suites are ordered by preference with the most preferred at the top.";
+"yko-5g" = "“%@” inkluderar följande chifferpaket:";
+"k50-8n" = "%@\n\nDessa chifferpaket är sorterade i efterfrågansordning med högst prioriterade chiffer överst.";
 
 /* Enabling wait for NickServ without a password */
-"94r-eq" = "The preference you have enabled will not work correctly because you do not have a password set";
-"26u-j8" = "Enter your NickServ password into the field labeled “Personal Password”";
+"94r-eq" = "Inställningen du har slagit på kommer inte fungera korrekt då du inte har satt något lösenord.";
+"26u-j8" = "Ange ditt NickServ-lösenord i fältet “Personligt lösenord”";
 
 /* Cloud changes */
-"bzh-il" = "This connection's configuration has changed. Do you want to reload the Server Properties dialog?";
-"oz4-kb" = "You will loose unsaved changes if you click “Yes”";
+"bzh-il" = "Denna anslutnings konfiguration har ändrats. Vill du läsa om serverns inställningsdialog?";
+"oz4-kb" = "Du kommer förlora osparade ändringar om du klickar på “Ja”";

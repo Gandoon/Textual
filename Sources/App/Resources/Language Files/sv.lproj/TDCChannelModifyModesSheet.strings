@@ -33,7 +33,8 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"7m9-39" = "You have exceeded the secret key length defined by %1$@ which is %2$ld characters";
-"lir-ra" = "If you continue typing, the end of your secret key may be cut off.";
+"7m9-39" = "Du har överskridit maxlängden %2$ld tecken för den hemliga nyckel som definieras av %1$@";
+"lir-ra" = "Om du fortsätter skriva kan slutet på din hemliga nyckel trunkeras.";

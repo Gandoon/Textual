@@ -33,6 +33,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
 "l49-9y" = "Off-the-Record Messaging: Private conversation started with an UNRECOGNIZED user. <a href='#' onclick='appPrivate.encryptionAuthenticateUser(); return false;'>Perform authentication</a>.";
@@ -74,9 +75,9 @@
 "67n-6j" = "Off-the-Record Messaging: The fingerprint for %1$@ is “%2$@” — <a href='#' onclick='appPrivate.encryptionAuthenticateUser(); return false;'>Perform authentication</a>";
 
 "mnw-qt" = "Are you sure you want to transfer the file named “%@“?";
-"nuo-8s" = "This file will be sent without encryption.";
-"ng0-5q" = "Transfer File";
+"nuo-8s" = "Denna fil kommer överföras okrypterat.";
+"ng0-5q" = "Överför fil";
 
 "gcg-tv" = "Are you sure you want to transfer the file named “%1$@“ to %2$@?";
-"7he-76" = "This file will be sent without encryption.";
-"0v0-ix" = "Transfer File";
+"7he-76" = "Denna fil kommer överföras okrypterat.";
+"0v0-ix" = "Överför fil";

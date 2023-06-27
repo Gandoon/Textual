@@ -33,9 +33,10 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"rhc-ke" = "Bans in %@";
-"gbi-wn" = "Ban Exceptions in %@";
-"ylc-6e" = "Invite Exceptions in %@";
-"g4r-t6" = "Quiets in %@";
+"rhc-ke" = "Bannlysningar i %@";
+"gbi-wn" = "Bann-undantag i %@";
+"ylc-6e" = "Inbjudansundantag i %@";
+"g4r-t6" = "Tystningar i %@";

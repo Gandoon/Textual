@@ -33,14 +33,15 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"wmk-xg" = "A problem was encountered when checking the upgrade eligibility for the license key “%@”";
-"8hb-y3" = "%@\n\nTry again in a few minutes then contact support if the problem persists.";
-"dn3-4r" = "Contact Support";
+"wmk-xg" = "Ett problem inträffade när berättigandet för licensnyckeln “%@” kontrollerades.";
+"8hb-y3" = "%@\n\nFörsök igen om några minuter och kontakta därefter supporten om problemet kvarstår.";
+"dn3-4r" = "Kontakta support";
 
-"awy-4i" = "Service returned a non-zero response code: %ld";
-"z70-6s" = "Service returned an empty status context.";
-"gc5-ko" = "Service returned an malformed status context.";
-"5s6-sb" = "Service returned an unusual eligibility: %lu";
-"9uu-go" = "Request cannot be completed at this time.";
+"awy-4i" = "Tjänsten returnerade en responskod annan än noll: %ld";
+"z70-6s" = "Tjänsten returnerade en tom statuskontext.";
+"gc5-ko" = "Tjänsten returnerade en felformatterad statuskontext.";
+"5s6-sb" = "Tjänsten returnerade ett ovanligt berättigande: %lu";
+"9uu-go" = "Förfrågan kan inte fullföljas för tillfället.";

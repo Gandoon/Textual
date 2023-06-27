@@ -33,12 +33,13 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"zf2-r7" = "You have exceeded the secret key length defined by %1$@ which is %2$ld characters";
-"op4-gg" = "If you continue typing, the end of your secret key may be cut off.";
+"zf2-r7" = "Du har överskridit maxlängden %2$ld tecken för den hemliga nyckel som definieras av %1$@";
+"op4-gg" = "Om du fortsätter skriva kan slutet på din hemliga nyckel trunkeras.";
 
 "1nd-7x" = "Please enter a properly formatted channel name.";
 
-"mvl-r5" = "This channel's configuration has changed. Do you want to reload the Channel Properties dialog?";
-"qby-hi" = "You will loose unsaved changes if you click “Yes”";
+"mvl-r5" = "Denna kanals konfiguration har ändrats. Vill du läsa om kanalens inställningsdialog?";
+"qby-hi" = "Du kommer förlora osparade ändringar om du klickar på “Ja”";

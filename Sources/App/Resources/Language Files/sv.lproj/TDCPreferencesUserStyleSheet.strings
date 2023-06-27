@@ -33,6 +33,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"q4s-3m" = "/*\n\n!!! WARNING: THIS IS DESIGNED FOR ADVANCED USERS. !!!\n\nStyles are written in HTML which means custom rules should be\nwritten in CSS: https://developer.mozilla.org/en-US/docs/Web/CSS\n\n- Example: \n\n#topicBar {\n	display: none;\n}\n\nTextual does not perform sanitation in any form on your rules\nwhich means you could possibly abuse this feature by escaping\nfrom the style element and inserting JavaScript or other code.\n\n*/";
+"q4s-3m" = "/*\n\n!!! VARNING: DETTA ÄR AVSETT FÖR AVANCERADE ANVÄNDARE. !!!\n\nStilar skrives i HTML vilket betyder att anpassade regler skall\nskrivas i CSS: https://developer.mozilla.org/en-US/docs/Web/CSS\n\n- Exempel: \n\n#topicBar {\n	display: none;\n}\n\nTextual utför ingen som helst sundhetskontroll på dina regler.\nDetta betyder att du möjlighen skulle kunna missbruka denna funktion genom att escapea\nfrån stilelementet och insfoga JavaScript eller annan kod.\n\n*/";

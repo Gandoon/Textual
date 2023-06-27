@@ -33,10 +33,11 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"iis-gr" = "The value you entered is not a properly formatted server address";
+"iis-gr" = "Värdet du angav är inte en korrekt formatterad serveradress";
 "k0c-3u" = "";
 
-"qeb-ip" = "The value you entered is not a properly formatted server port";
-"ox2-od" = "Enter a whole number between 1 and 65,535.";
+"qeb-ip" = "Värdet du angav är inte en korrekt formatterad serverport";
+"ox2-od" = "Ange ett heltal mellan 1 och 65535.";

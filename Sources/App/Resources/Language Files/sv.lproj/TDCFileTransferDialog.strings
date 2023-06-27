@@ -33,41 +33,42 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"nvm-nd" = "%1$@ of %2$@ (%3$@/s) sent to %4$@";
-"u17-ql" = "%1$@ of %2$@ (%3$@/s) sent to %4$@ — %5$@ remaining";
+"nvm-nd" = "%1$@ av %2$@ (%3$@/s) skickat till %4$@";
+"u17-ql" = "%1$@ av %2$@ (%3$@/s) skickat till %4$@ — %5$@ återstår";
 
-"w3h-p8" = "Transfer to %@ is stopped. Control click to start.";
-"j1z-88" = "Transfer to %@: Attempting to map listening port";
-"onl-av" = "Transfer to %@: Determining local IP address";
-"pcv-kg" = "Transfer to %@ is initializing";
-"ca5-2v" = "Transfer to %@ is ready. Waiting for them to accept.";
-"rx7-xy" = "Transfer to %@ is complete";
-"cku-24" = "Transfer to %@ is ready. Waiting for them to accept.";
+"w3h-p8" = "Överföring till %@ är stoppad. Kontrollklicka för att starta.";
+"j1z-88" = "Överföring till %@: Försöker mappa port att lyssna på";
+"onl-av" = "Överföring till %@: Fastställer lokal IP-adress";
+"pcv-kg" = "Överföring till %@ initialiseras";
+"ca5-2v" = "Överföring till %@ är redo. Väntar på att motparten accepterar överföringen.";
+"rx7-xy" = "Överföring till %@ är färdig";
+"cku-24" = "Överföring till %@ är redo. Väntar på att motparten accepterar överföringen.";
 
-"7dk-lp" = "%1$@ of %2$@ (%3$@/s) received from %4$@";
-"9xn-7j" = "%1$@ of %2$@ (%3$@/s) received from %4$@ — %5$@ remaining";
+"7dk-lp" = "%1$@ av %2$@ (%3$@/s) mottaget från %4$@";
+"9xn-7j" = "%1$@ av %2$@ (%3$@/s) mottaget från %4$@ — %5$@ återstår";
 
-"jvh-u7" = "Transfer from %@ is stopped. Control click to start.";
-"495-90" = "Transfer from %@: Attempting to map listening port";
-"6t1-mb" = "Transfer from %@: Determining local IP address";
-"gxq-zu" = "Transfer from %@: Waiting for response to resume transfer";
-"42z-mg" = "Transfer from %@ is initializing";
-"pip-z6" = "Transfer from %@ is ready. Control click to start.";
-"6gu-za" = "Transfer from %@ is complete. Control click to open in Finder.";
+"jvh-u7" = "Överföring från %@ är stoppad. Kontrollklicka för att starta.";
+"495-90" = "Överföring från %@: Försöker mappa port att lyssna på";
+"6t1-mb" = "Överföring från %@: Fastställer lokal IP-adress";
+"gxq-zu" = "Överföring från %@: Väntrar på svar för att återupta överföringen";
+"42z-mg" = "Överföring från %@ initialiseras";
+"pip-z6" = "Överföring från %@ är redo. Kontrollklicka för att starta.";
+"6gu-za" = "Överföring från %@ är färdig. Kontrollklicka för att öppna i Finder.";
 
-"7nf-fr" = "Connecting to %@";
+"7nf-fr" = "Ansluter till %@";
 
-"fn8-sx" = "Transfer with %@ failed. Could not establish connection";
-"vxc-sd" = "Transfer with %@ failed. There is no open port";
-"nab-dx" = "Transfer with %@ failed. Could not read source file";
-"47s-1s" = "Transfer with %@ failed. Unknown source IP address";
-"coa-ii" = "Transfer with %@ failed. Connection was disconnected";
-"0ov-tr" = "Transfer with %@ failed. Proposed resume position is bad";
-"12p-0v" = "Transfer with %@ failed. You are not connected to IRC";
-"79f-s0" = "Transfer with %@ failed. No space left on device";
-"05g-c8" = "Transfer with %@ failed. File handler threw an exception";
-"s79-3a" = "Transfer with %@ failed: %@";
+"fn8-sx" = "Överföring med %@ misslyckades. Kunde inte etablera en anslutning";
+"vxc-sd" = "Överföring med %@ misslyckades. Det finns ingen öppen port";
+"nab-dx" = "Överföring med %@ misslyckades. Kunde inte läsa källfil";
+"47s-1s" = "Överföring med %@ misslyckades. Okänd IP-adress för källa";
+"coa-ii" = "Överföring med %@ misslyckades. Anslutningen kopplades ifrån";
+"0ov-tr" = "Överföring med %@ misslyckades. Föreslagen position för återupptagande är dålig";
+"12p-0v" = "Överföring med %@ misslyckades. Du är inte ansluten till IRC";
+"79f-s0" = "Överföring med %@ misslyckades. Inget utrymme kvar på enheten";
+"05g-c8" = "Överföring med %@ misslyckades. Filhanteraren kastade ett undantag";
+"s79-3a" = "Överföring med %@ misslyckades: %@";
 
-"dcm-w7" = "Select the folder in which this file will be saved";
+"dcm-w7" = "Välj mapp att spara denna fil i";
