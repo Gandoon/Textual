@@ -3,7 +3,7 @@
 "302.title" = "Fönster";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Highlight Match Type"; ObjectID = "304"; */
-"304.ibExternalAccessibilityDescription" = "Highlight Match Type";
+"304.ibExternalAccessibilityDescription" = "Matchningstyp för markering";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "306"; */
 "306.title" = "OtherViews";
@@ -15,7 +15,7 @@
 "308.title" = "Uteslut";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Highlight Match Keyword"; ObjectID = "310"; */
-"310.ibExternalAccessibilityDescription" = "Omnämnanden matchar nyckelordet";
+"310.ibExternalAccessibilityDescription" = "Markering matchar nyckelordet";
 
 /* Class = "NSTextFieldCell"; title = "the keyword"; ObjectID = "313"; */
 "313.title" = "nyckelordet";
@@ -24,7 +24,7 @@
 "315.title" = "i kanalen";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Limit Highlight to Channel"; ObjectID = "316"; */
-"316.ibExternalAccessibilityDescription" = "Begränsa omnämnande till Kanal";
+"316.ibExternalAccessibilityDescription" = "Begränsa markering till Kanal";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "318"; */
 "318.title" = "OtherViews";

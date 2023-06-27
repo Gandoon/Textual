@@ -12,7 +12,7 @@
 "KYK-L5-DFY.title" = "Avbryt";
 
 /* Class = "NSTextFieldCell"; title = "E-mail Address:"; ObjectID = "Vhu-bj-bYq"; */
-"Vhu-bj-bYq.title" = "E-poostadress:";
+"Vhu-bj-bYq.title" = "E-postadress:";
 
 /* Class = "NSButtonCell"; title = "Request License Key"; ObjectID = "cOF-4q-haH"; */
 "cOF-4q-haH.title" = "Efterfråga licensnyckel";

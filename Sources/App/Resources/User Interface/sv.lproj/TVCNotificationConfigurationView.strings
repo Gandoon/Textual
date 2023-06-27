@@ -6,7 +6,7 @@
 "8aV-e8-f40.title" = "Avaktivera notiser medan jag är borta";
 
 /* Class = "NSTextFieldCell"; title = "Play sound on alert:"; ObjectID = "EOI-iY-erP"; */
-"EOI-iY-erP.title" = "Play sound on alert:";
+"EOI-iY-erP.title" = "Spela ljud vid notis:";
 
 /* Class = "NSTextFieldCell"; title = "Selected Alert:"; ObjectID = "Pw9-kC-IY0"; */
 "Pw9-kC-IY0.title" = "Vald notis:";

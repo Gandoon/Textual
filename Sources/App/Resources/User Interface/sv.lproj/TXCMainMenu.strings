@@ -1,18 +1,18 @@
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
-"5.title" = "Bring All to Front";
+"5.title" = "Lägg alla överst";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
-"19.title" = "Window";
+"19.title" = "Fönster";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
-"23.title" = "Minimize";
+"23.title" = "Minimera";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
-"24.title" = "Window";
+"24.title" = "Fönster";
 
 /* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
-"29.title" = "MainMenu";
+"29.title" = "Huvudmeny";
 
 /* Class = "NSMenuItem"; title = "Textual 7"; ObjectID = "56"; */
 "56.title" = "Textual 7";
@@ -21,64 +21,64 @@
 "57.title" = "Textual 7";
 
 /* Class = "NSMenuItem"; title = "About Textual 7"; ObjectID = "58"; */
-"58.title" = "About Textual 7";
+"58.title" = "Om Textual 7";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
-"129.title" = "Preferences…";
+"129.title" = "Inställningar…";
 
 /* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
-"130.title" = "Services";
+"130.title" = "Tjänster";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
-"131.title" = "Services";
+"131.title" = "Tjänster";
 
 /* Class = "NSMenuItem"; title = "Hide Textual 7"; ObjectID = "134"; */
-"134.title" = "Hide Textual 7";
+"134.title" = "Göm Textual 7";
 
 /* Class = "NSMenuItem"; title = "Quit Textual 7"; ObjectID = "136"; */
-"136.title" = "Quit Textual 7";
+"136.title" = "Avsluta Textual 7";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
-"145.title" = "Hide Others";
+"145.title" = "Göm övriga";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
-"150.title" = "Show All";
+"150.title" = "Visa alla";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
-"157.title" = "Copy";
+"157.title" = "Kopiera";
 
 /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; */
-"158.title" = "Undo";
+"158.title" = "Ångra";
 
 /* Class = "NSMenu"; title = "Find"; ObjectID = "159"; */
-"159.title" = "Find";
+"159.title" = "Sök";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; */
-"160.title" = "Cut";
+"160.title" = "Klipp ut";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
-"163.title" = "Edit";
+"163.title" = "Redigera";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; */
-"164.title" = "Delete";
+"164.title" = "Radera";
 
 /* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
-"168.title" = "Find";
+"168.title" = "Sök";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
-"169.title" = "Edit";
+"169.title" = "Redigera";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; */
-"172.title" = "Select All";
+"172.title" = "Markera allt";
 
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
-"173.title" = "Redo";
+"173.title" = "Gör om";
 
 /* Class = "NSMenuItem"; title = "Channel"; ObjectID = "276"; */
-"276.title" = "Channel";
+"276.title" = "Kanal";
 
 /* Class = "NSMenu"; title = "Channel"; ObjectID = "277"; */
-"277.title" = "Channel";
+"277.title" = "Kanal";
 
 /* Class = "NSMenuItem"; title = "Server"; ObjectID = "286"; */
 "286.title" = "Server";
@@ -87,616 +87,616 @@
 "287.title" = "Server";
 
 /* Class = "NSMenuItem"; title = "Connect"; ObjectID = "288"; */
-"288.title" = "Connect";
+"288.title" = "Anslut";
 
 /* Class = "NSMenuItem"; title = "Disconnect"; ObjectID = "289"; */
-"289.title" = "Disconnect";
+"289.title" = "Koppla ner";
 
 /* Class = "NSMenuItem"; title = "Change Nickname…"; ObjectID = "297"; */
-"297.title" = "Change Nickname…";
+"297.title" = "Ändra smeknamn…";
 
 /* Class = "NSMenuItem"; title = "Add Server…"; ObjectID = "300"; */
-"300.title" = "Add Server…";
+"300.title" = "Lägg till server…";
 
 /* Class = "NSMenuItem"; title = "Delete Server…"; ObjectID = "301"; */
-"301.title" = "Delete Server…";
+"301.title" = "Ta bort server…";
 
 /* Class = "NSMenuItem"; title = "Server Properties…"; ObjectID = "302"; */
-"302.title" = "Server Properties…";
+"302.title" = "Serverinställningar…";
 
 /* Class = "NSMenuItem"; title = "Duplicate Server"; ObjectID = "304"; */
-"304.title" = "Duplicate Server";
+"304.title" = "Duplicera server";
 
 /* Class = "NSMenuItem"; title = "Add Channel…"; ObjectID = "320"; */
-"320.title" = "Add Channel…";
+"320.title" = "Lägg till kanal…";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "327"; */
-"327.title" = "Menu";
+"327.title" = "Meny";
 
 /* Class = "NSMenuItem"; title = "Get Info (Whois)"; ObjectID = "328"; */
-"328.title" = "Get Info (Whois)";
+"328.title" = "Hämta information (Whois)";
 
 /* Class = "NSMenuItem"; title = "Private Message (Query)"; ObjectID = "329"; */
-"329.title" = "Private Message (Query)";
+"329.title" = "Privat meddelande (Query)";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "367"; */
-"367.title" = "Menu";
+"367.title" = "Meny";
 
 /* Class = "NSMenuItem"; title = "Add Server…"; ObjectID = "369"; */
-"369.title" = "Add Server…";
+"369.title" = "Lägg till server…";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "374"; */
-"374.title" = "Menu";
+"374.title" = "Meny";
 
 /* Class = "NSMenuItem"; title = "Change Nickname..."; ObjectID = "377"; */
-"377.title" = "Change Nickname...";
+"377.title" = "Ändra smeknamn…";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "379"; */
-"379.title" = "Copy";
+"379.title" = "Kopiera";
 
 /* Class = "NSMenuItem"; title = "Search With Google"; ObjectID = "397"; */
-"397.title" = "Search With Google";
+"397.title" = "Sök med Google";
 
 /* Class = "NSMenuItem"; title = "Cancel Reconnect"; ObjectID = "406"; */
-"406.title" = "Cancel Reconnect";
+"406.title" = "Avbryt återanslutning";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "426"; */
-"426.title" = "Menu";
+"426.title" = "Meny";
 
 /* Class = "NSMenuItem"; title = "Copy URL"; ObjectID = "427"; */
-"427.title" = "Copy URL";
+"427.title" = "Kopiera URL";
 
 /* Class = "NSMenuItem"; title = "Client-to-Client"; ObjectID = "437"; */
-"437.title" = "Client-to-Client";
+"437.title" = "Klient-till-Klient";
 
 /* Class = "NSMenu"; title = "Client-to-Client"; ObjectID = "438"; */
-"438.title" = "Client-to-Client";
+"438.title" = "Klient-till-Klient";
 
 /* Class = "NSMenuItem"; title = "Lag (PING)"; ObjectID = "439"; */
-"439.title" = "Lag (PING)";
+"439.title" = "Fördröjning (PING)";
 
 /* Class = "NSMenuItem"; title = "Local Time (TIME)"; ObjectID = "440"; */
-"440.title" = "Local Time (TIME)";
+"440.title" = "Lokal tid (TIME)";
 
 /* Class = "NSMenuItem"; title = "Client Version (VERSION)"; ObjectID = "441"; */
-"441.title" = "Client Version (VERSION)";
+"441.title" = "Klientversion (VERSION)";
 
 /* Class = "NSMenuItem"; title = "User Information (USERINFO)"; ObjectID = "442"; */
-"442.title" = "User Information (USERINFO)";
+"442.title" = "Användarinformation (USERINFO)";
 
 /* Class = "NSMenuItem"; title = "Client Information (CLIENTINFO)"; ObjectID = "443"; */
-"443.title" = "Client Information (CLIENTINFO)";
+"443.title" = "Klientinformation (CLIENTINFO)";
 
 /* Class = "NSMenuItem"; title = "Channel List…"; ObjectID = "492"; */
-"492.title" = "Channel List…";
+"492.title" = "Kanallista…";
 
 /* Class = "NSMenuItem"; title = "Join Channel"; ObjectID = "964"; */
-"964.title" = "Join Channel";
+"964.title" = "Gå med i kanal";
 
 /* Class = "NSMenuItem"; title = "Invite to..."; ObjectID = "1003"; */
-"1003.title" = "Invite to...";
+"1003.title" = "Bjud in till…";
 
 /* Class = "NSMenuItem"; title = "Sort Channel List"; ObjectID = "1306"; */
-"1306.title" = "Sort Channel List";
+"1306.title" = "Sortera kanallista";
 
 /* Class = "NSMenuItem"; title = "Main Window"; ObjectID = "1309"; */
-"1309.title" = "Main Window";
+"1309.title" = "Huvudfönster";
 
 /* Class = "NSMenuItem"; title = "Address Book"; ObjectID = "1310"; */
-"1310.title" = "Address Book";
+"1310.title" = "Adressbok";
 
 /* Class = "NSMenuItem"; title = "Give Op (+o)"; ObjectID = "1319"; */
-"1319.title" = "Give Op (+o)";
+"1319.title" = "Ge op (+o)";
 
 /* Class = "NSMenuItem"; title = "Take Op (-o)"; ObjectID = "1320"; */
-"1320.title" = "Take Op (-o)";
+"1320.title" = "Ta op (-o)";
 
 /* Class = "NSMenuItem"; title = "Give Halfop (+h)"; ObjectID = "1321"; */
-"1321.title" = "Give Halfop (+h)";
+"1321.title" = "Ge halvop (+h)";
 
 /* Class = "NSMenuItem"; title = "Take Halfop (-h)"; ObjectID = "1322"; */
-"1322.title" = "Take Halfop (-h)";
+"1322.title" = "Ta halvop (-h)";
 
 /* Class = "NSMenuItem"; title = "Give Voice (+v)"; ObjectID = "1323"; */
-"1323.title" = "Give Voice (+v)";
+"1323.title" = "Ge voice (+v)";
 
 /* Class = "NSMenuItem"; title = "Take Voice (-v)"; ObjectID = "1324"; */
-"1324.title" = "Take Voice (-v)";
+"1324.title" = "Ta voice (-v)";
 
 /* Class = "NSMenuItem"; title = "Ban"; ObjectID = "1329"; */
-"1329.title" = "Ban";
+"1329.title" = "Bannlys";
 
 /* Class = "NSMenuItem"; title = "Ban and Kick"; ObjectID = "1330"; */
-"1330.title" = "Ban and Kick";
+"1330.title" = "Bannlys och sparka ut";
 
 /* Class = "NSMenuItem"; title = "IRC Operator"; ObjectID = "1331"; */
-"1331.title" = "IRC Operator";
+"1331.title" = "IRC-operatör";
 
 /* Class = "NSMenu"; title = "IRC Operator"; ObjectID = "1332"; */
-"1332.title" = "IRC Operator";
+"1332.title" = "IRC-operatör";
 
 /* Class = "NSMenuItem"; title = "Kill from Server"; ObjectID = "1333"; */
-"1333.title" = "Kill from Server";
+"1333.title" = "Kill från server";
 
 /* Class = "NSMenuItem"; title = "Shun on Server"; ObjectID = "1334"; */
-"1334.title" = "Shun on Server";
+"1334.title" = "Förskjut (shun) på server";
 
 /* Class = "NSMenuItem"; title = "Ban from Server (G:Line)"; ObjectID = "1335"; */
-"1335.title" = "Ban from Server (G:Line)";
+"1335.title" = "Bannlys från server (G:Line)";
 
 /* Class = "NSMenuItem"; title = "Kick"; ObjectID = "1350"; */
-"1350.title" = "Kick";
+"1350.title" = "Sparka ut";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "1364"; */
-"1364.title" = "Zoom";
+"1364.title" = "Zooma";
 
 /* Class = "NSMenuItem"; title = "View Logs"; ObjectID = "1378"; */
-"1378.title" = "View Logs";
+"1378.title" = "Visa loggar";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "1384"; */
-"1384.title" = "Help";
+"1384.title" = "Hjälp";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "1385"; */
-"1385.title" = "Help";
+"1385.title" = "Hjälp";
 
 /* Class = "NSMenuItem"; title = "Connect to Help Channel"; ObjectID = "1392"; */
-"1392.title" = "Connect to Help Channel";
+"1392.title" = "Anslut till hjälpkanal";
 
 /* Class = "NSMenuItem"; title = "Set Virtual Host (vHost)"; ObjectID = "1411"; */
-"1411.title" = "Set Virtual Host (vHost)";
+"1411.title" = "Sätt virtuell värd (vHost)";
 
 /* Class = "NSMenuItem"; title = "Ignore List"; ObjectID = "1451"; */
-"1451.title" = "Ignore List";
+"1451.title" = "Ignorera-lista";
 
 /* Class = "NSMenuItem"; title = "Find…"; ObjectID = "1453"; */
-"1453.title" = "Find…";
+"1453.title" = "Sök…";
 
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "1454"; */
-"1454.title" = "Find Next";
+"1454.title" = "Sök nästa";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "1455"; */
-"1455.title" = "Find Previous";
+"1455.title" = "Sök föregående";
 
 /* Class = "NSMenuItem"; title = "Query Logs"; ObjectID = "1492"; */
-"1492.title" = "Query Logs";
+"1492.title" = "Privata samtalsloggar";
 
 /* Class = "NSMenuItem"; title = "Center Window"; ObjectID = "1524"; */
-"1524.title" = "Center Window";
+"1524.title" = "Mittfönster";
 
 /* Class = "NSMenuItem"; title = "Navigation"; ObjectID = "1542"; */
-"1542.title" = "Navigation";
+"1542.title" = "Navigera";
 
 /* Class = "NSMenu"; title = "Navigation"; ObjectID = "1543"; */
-"1543.title" = "Navigation";
+"1543.title" = "Navigera";
 
 /* Class = "NSMenuItem"; title = "Servers"; ObjectID = "1545"; */
-"1545.title" = "Servers";
+"1545.title" = "Servrar";
 
 /* Class = "NSMenu"; title = "Servers"; ObjectID = "1546"; */
-"1546.title" = "Servers";
+"1546.title" = "Servrar";
 
 /* Class = "NSMenuItem"; title = "Next Server"; ObjectID = "1547"; */
-"1547.title" = "Next Server";
+"1547.title" = "Nästa server";
 
 /* Class = "NSMenuItem"; title = "Channels"; ObjectID = "1548"; */
-"1548.title" = "Channels";
+"1548.title" = "Kanaler";
 
 /* Class = "NSMenu"; title = "Channels"; ObjectID = "1549"; */
-"1549.title" = "Channels";
+"1549.title" = "Kanaler";
 
 /* Class = "NSMenuItem"; title = "Next Active Channel"; ObjectID = "1550"; */
-"1550.title" = "Next Active Channel";
+"1550.title" = "Nästa aktiva kanal";
 
 /* Class = "NSMenuItem"; title = "Previous Active Channel"; ObjectID = "1551"; */
-"1551.title" = "Previous Active Channel";
+"1551.title" = "Föregående aktiva kanal";
 
 /* Class = "NSMenuItem"; title = "Next Channel"; ObjectID = "1552"; */
-"1552.title" = "Next Channel";
+"1552.title" = "Nästa kanal";
 
 /* Class = "NSMenuItem"; title = "Previous Channel"; ObjectID = "1553"; */
-"1553.title" = "Previous Channel";
+"1553.title" = "Föregående kanal";
 
 /* Class = "NSMenuItem"; title = "Next Unread Channel"; ObjectID = "1554"; */
-"1554.title" = "Next Unread Channel";
+"1554.title" = "Nästa olästa kanal";
 
 /* Class = "NSMenuItem"; title = "Previous Unread Channel"; ObjectID = "1555"; */
-"1555.title" = "Previous Unread Channel";
+"1555.title" = "Föregående olästa kanal";
 
 /* Class = "NSMenuItem"; title = "Previous Server"; ObjectID = "1566"; */
-"1566.title" = "Previous Server";
+"1566.title" = "Föregående server";
 
 /* Class = "NSMenuItem"; title = "Next Active Server"; ObjectID = "1567"; */
-"1567.title" = "Next Active Server";
+"1567.title" = "Nästa aktiva server";
 
 /* Class = "NSMenuItem"; title = "Previous Active Server"; ObjectID = "1568"; */
-"1568.title" = "Previous Active Server";
+"1568.title" = "Föregående aktiva server";
 
 /* Class = "NSMenuItem"; title = "Move Forward"; ObjectID = "1577"; */
-"1577.title" = "Move Forward";
+"1577.title" = "Flytta frammåt";
 
 /* Class = "NSMenuItem"; title = "Previous Selection"; ObjectID = "1591"; */
-"1591.title" = "Previous Selection";
+"1591.title" = "Föregående markering";
 
 /* Class = "NSMenuItem"; title = "Command Reference"; ObjectID = "1667"; */
-"1667.title" = "Command Reference";
+"1667.title" = "Kommandoreferens";
 
 /* Class = "NSMenuItem"; title = "Knowledge Base"; ObjectID = "1686"; */
-"1686.title" = "Knowledge Base";
+"1686.title" = "Kunskapsbas";
 
 /* Class = "NSMenu"; title = "Knowledge Base"; ObjectID = "1687"; */
-"1687.title" = "Knowledge Base";
+"1687.title" = "Kunskapsbas";
 
 /* Class = "NSMenuItem"; title = "Feature Requests"; ObjectID = "1689"; */
-"1689.title" = "Feature Requests";
+"1689.title" = "Efterfrågade funktioner";
 
 /* Class = "NSMenuItem"; title = "Memory Management"; ObjectID = "1691"; */
-"1691.title" = "Memory Management";
+"1691.title" = "Minneshantering";
 
 /* Class = "NSMenuItem"; title = "Text Formatting"; ObjectID = "1693"; */
-"1693.title" = "Text Formatting";
+"1693.title" = "Textformattering";
 
 /* Class = "NSMenuItem"; title = "Styling Information"; ObjectID = "1695"; */
-"1695.title" = "Styling Information";
+"1695.title" = "Stilinformation";
 
 /* Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "1710"; */
 "1710.title" = "Privacy Policy";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "1746"; */
-"1746.title" = "File";
+"1746.title" = "Fil";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "1747"; */
-"1747.title" = "File";
+"1747.title" = "Fil";
 
 /* Class = "NSMenuItem"; title = "Close Window"; ObjectID = "1770"; */
-"1770.title" = "Close Window";
+"1770.title" = "Stäng fönster";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1778"; */
-"1778.title" = "Paste";
+"1778.title" = "Klistra in";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1780"; */
-"1780.title" = "Paste";
+"1780.title" = "Klistra in";
 
 /* Class = "NSMenuItem"; title = "View"; ObjectID = "1782"; */
-"1782.title" = "View";
+"1782.title" = "Visa";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "1783"; */
-"1783.title" = "View";
+"1783.title" = "Visa";
 
 /* Class = "NSMenuItem"; title = "Mark Scrollback"; ObjectID = "1786"; */
-"1786.title" = "Mark Scrollback";
+"1786.title" = "Markera scrollback";
 
 /* Class = "NSMenuItem"; title = "Toggle Fullscreen"; ObjectID = "1790"; */
-"1790.title" = "Toggle Fullscreen";
+"1790.title" = "Växla till helskärmsläge";
 
 /* Class = "NSMenuItem"; title = "Acknowledgements"; ObjectID = "1796"; */
-"1796.title" = "Acknowledgements";
+"1796.title" = "Erkännanden";
 
 /* Class = "NSMenuItem"; title = "Increase Font Size"; ObjectID = "1919"; */
-"1919.title" = "Increase Font Size";
+"1919.title" = "Öka textstorlek";
 
 /* Class = "NSMenuItem"; title = "Decrease Font Size"; ObjectID = "1921"; */
-"1921.title" = "Decrease Font Size";
+"1921.title" = "Minska textstorlek";
 
 /* Class = "NSMenuItem"; title = "Mark All As Read"; ObjectID = "1924"; */
-"1924.title" = "Mark All As Read";
+"1924.title" = "Markera alla som lästa";
 
 /* Class = "NSMenuItem"; title = "Highlight List"; ObjectID = "2268"; */
-"2268.title" = "Highlight List";
+"2268.title" = "Markeringslista";
 
 /* Class = "NSMenuItem"; title = "Next Highlight"; ObjectID = "2276"; */
-"2276.title" = "Next Highlight";
+"2276.title" = "Nästa markering";
 
 /* Class = "NSMenuItem"; title = "Previous Highlight"; ObjectID = "2277"; */
-"2277.title" = "Previous Highlight";
+"2277.title" = "Föregående markering";
 
 /* Class = "NSMenuItem"; title = "Enable Developer Mode"; ObjectID = "2280"; */
-"2280.title" = "Enable Developer Mode";
+"2280.title" = "Slå på utvecklarläget";
 
 /* Class = "NSMenuItem"; title = "Clear Scrollback"; ObjectID = "2299"; */
-"2299.title" = "Clear Scrollback";
+"2299.title" = "Rensa scrollback";
 
 /* Class = "NSMenuItem"; title = "Scrollback Marker"; ObjectID = "2305"; */
-"2305.title" = "Scrollback Marker";
+"2305.title" = "Scrollbackmarkör";
 
 /* Class = "NSMenuItem"; title = "All Modes Taken"; ObjectID = "2552"; */
-"2552.title" = "All Modes Taken";
+"2552.title" = "Alla lägen tagna";
 
 /* Class = "NSMenuItem"; title = "All Modes Given"; ObjectID = "2553"; */
-"2553.title" = "All Modes Given";
+"2553.title" = "Alla lägen givna";
 
 /* Class = "NSMenuItem"; title = "Connect to Testing Channel"; ObjectID = "2706"; */
-"2706.title" = "Connect to Testing Channel";
+"2706.title" = "Anslut till testkanal";
 
 /* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "2718"; */
-"2718.title" = "Advanced";
+"2718.title" = "Avancerat";
 
 /* Class = "NSMenu"; title = "Advanced"; ObjectID = "2719"; */
-"2719.title" = "Advanced";
+"2719.title" = "Avancerat";
 
 /* Class = "NSMenuItem"; title = "Hidden Preferences…"; ObjectID = "2725"; */
-"2725.title" = "Hidden Preferences…";
+"2725.title" = "Gömda inställningar…";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "2953"; */
-"2953.title" = "Menu";
+"2953.title" = "Meny";
 
 /* Class = "NSMenuItem"; title = "Add Server…"; ObjectID = "2954"; */
-"2954.title" = "Add Server…";
+"2954.title" = "Lägg till server…";
 
 /* Class = "NSMenuItem"; title = "Add Channel…"; ObjectID = "2958"; */
-"2958.title" = "Add Channel…";
+"2958.title" = "Lägg till kanal…";
 
 /* Class = "NSMenuItem"; title = "DCC File Transfer Information"; ObjectID = "3064"; */
-"3064.title" = "DCC File Transfer Information";
+"3064.title" = "DCC filöverföringsnformation";
 
 /* Class = "NSMenuItem"; title = "Keyboard Shortcuts"; ObjectID = "3080"; */
-"3080.title" = "Keyboard Shortcuts";
+"3080.title" = "Tangentbordsgenvägar";
 
 /* Class = "NSMenuItem"; title = "Import Preferences"; ObjectID = "3086"; */
-"3086.title" = "Import Preferences";
+"3086.title" = "Importera inställningar";
 
 /* Class = "NSMenuItem"; title = "Export Preferences"; ObjectID = "3088"; */
-"3088.title" = "Export Preferences";
+"3088.title" = "Exportera inställningar";
 
 /* Class = "NSMenuItem"; title = "Disable All Notification Sounds"; ObjectID = "3092"; */
-"3092.title" = "Disable All Notification Sounds";
+"3092.title" = "Tysta alla notisljud";
 
 /* Class = "NSMenuItem"; title = "Reset Window to Default Size"; ObjectID = "3096"; */
-"3096.title" = "Reset Window to Default Size";
+"3096.title" = "Återställ fönster till standardstorlek";
 
 /* Class = "NSMenuItem"; title = "User Information (FINGER)"; ObjectID = "3098"; */
-"3098.title" = "User Information (FINGER)";
+"3098.title" = "Användarinformation (FINGER)";
 
 /* Class = "NSMenuItem"; title = "Knowledge Base Home"; ObjectID = "01c-Ny-YrB"; */
-"01c-Ny-YrB.title" = "Knowledge Base Home";
+"01c-Ny-YrB.title" = "Kunskapsbas hem";
 
 /* Class = "NSMenuItem"; title = "List of Quiets"; ObjectID = "0Ea-Ek-qd7"; */
-"0Ea-Ek-qd7.title" = "List of Quiets";
+"0Ea-Ek-qd7.title" = "Lista över tystade";
 
 /* Class = "NSMenuItem"; title = "View Logs"; ObjectID = "1VV-Oq-Rk6"; */
-"1VV-Oq-Rk6.title" = "View Logs";
+"1VV-Oq-Rk6.title" = "Visa loggar";
 
 /* Class = "NSMenu"; title = "Channel"; ObjectID = "1s1-yL-ZHT"; */
-"1s1-yL-ZHT.title" = "Channel";
+"1s1-yL-ZHT.title" = "Kanal";
 
 /* Class = "NSMenuItem"; title = "Manage All Modes"; ObjectID = "2Em-53-ZkH"; */
-"2Em-53-ZkH.title" = "Manage All Modes";
+"2Em-53-ZkH.title" = "Hantera alla lägen";
 
 /* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "2oJ-IA-p2L"; */
-"2oJ-IA-p2L.title" = "Show Spelling and Grammar";
+"2oJ-IA-p2L.title" = "Visa stavning och grammatik";
 
 /* Class = "NSMenuItem"; title = "List of Bans"; ObjectID = "3Th-KI-FDa"; */
-"3Th-KI-FDa.title" = "List of Bans";
+"3Th-KI-FDa.title" = "Lista över bannlysningar";
 
 /* Class = "NSMenuItem"; title = "Print"; ObjectID = "3oe-sP-dbd"; */
-"3oe-sP-dbd.title" = "Print";
+"3oe-sP-dbd.title" = "Skriv ut";
 
 /* Class = "NSMenuItem"; title = "Move Backward"; ObjectID = "4BH-0G-zyN"; */
-"4BH-0G-zyN.title" = "Move Backward";
+"4BH-0G-zyN.title" = "Flytta bakåt";
 
 /* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "4ds-au-DCA"; */
-"4ds-au-DCA.title" = "Smart Dashes";
+"4ds-au-DCA.title" = "Smarta Dashes";
 
 /* Class = "NSMenuItem"; title = "Disable All Notification Sounds"; ObjectID = "5jG-1t-WG4"; */
-"5jG-1t-WG4.title" = "Disable All Notification Sounds";
+"5jG-1t-WG4.title" = "Tysta alla notisljud";
 
 /* Class = "NSMenuItem"; title = "Leave Channel"; ObjectID = "6Pu-S2-OdH"; */
-"6Pu-S2-OdH.title" = "Leave Channel";
+"6Pu-S2-OdH.title" = "Lämna kanal";
 
 /* Class = "NSMenuItem"; title = "Toggle Visibility of Server List"; ObjectID = "6od-OR-qNS"; */
-"6od-OR-qNS.title" = "Toggle Visibility of Server List";
+"6od-OR-qNS.title" = "Växla synlighet för serverlistan";
 
 /* Class = "NSMenu"; title = "Query"; ObjectID = "6uP-Kf-gUN"; */
-"6uP-Kf-gUN.title" = "Query";
+"6uP-Kf-gUN.title" = "Privat meddelande";
 
 /* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "71z-t0-k2U"; */
-"71z-t0-k2U.title" = "Spelling and Grammar";
+"71z-t0-k2U.title" = "Stavning och grammatik";
 
 /* Class = "NSMenu"; title = "Channel List…"; ObjectID = "89a-J1-2zg"; */
-"89a-J1-2zg.title" = "Channel List…";
+"89a-J1-2zg.title" = "Kanallista…";
 
 /* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "8Uq-G1-gb8"; */
-"8Uq-G1-gb8.title" = "Substitutions";
+"8Uq-G1-gb8.title" = "Ersättningar";
 
 /* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9Nm-LZ-prJ"; */
-"9Nm-LZ-prJ.title" = "Smart Copy/Paste";
+"9Nm-LZ-prJ.title" = "Smart kopiera/klistra in";
 
 /* Class = "NSMenuItem"; title = "Authenticate Chat Partner"; ObjectID = "9eO-kw-9HG"; */
-"9eO-kw-9HG.title" = "Authenticate Chat Partner";
+"9eO-kw-9HG.title" = "Autentisera chatpartner";
 
 /* Class = "NSMenuItem"; title = "License Agreement"; ObjectID = "BrC-PS-U3X"; */
-"BrC-PS-U3X.title" = "License Agreement";
+"BrC-PS-U3X.title" = "Licensvillkor";
 
 /* Class = "NSMenuItem"; title = "File Transfers"; ObjectID = "CDY-3R-NUL"; */
-"CDY-3R-NUL.title" = "File Transfers";
+"CDY-3R-NUL.title" = "Filöverföringar";
 
 /* Class = "NSMenuItem"; title = "Send file…"; ObjectID = "Ckj-P4-1K5"; */
-"Ckj-P4-1K5.title" = "Send file…";
+"Ckj-P4-1K5.title" = "Skicka fil…";
 
 /* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "Di1-pQ-7gt"; */
-"Di1-pQ-7gt.title" = "Make Upper Case";
+"Di1-pQ-7gt.title" = "Till versaler";
 
 /* Class = "NSMenuItem"; title = "Copy Unique Identifier"; ObjectID = "DuZ-FR-y17"; */
-"DuZ-FR-y17.title" = "Copy Unique Identifier";
+"DuZ-FR-y17.title" = "Kopiera unik identifierare";
 
 /* Class = "NSMenu"; title = "Transformations"; ObjectID = "Ezw-r3-Ssh"; */
-"Ezw-r3-Ssh.title" = "Transformations";
+"Ezw-r3-Ssh.title" = "Transformationer";
 
 /* Class = "NSMenuItem"; title = "Toggle Window Appearance"; ObjectID = "FMz-pu-hpN"; */
-"FMz-pu-hpN.title" = "Toggle Window Appearance";
+"FMz-pu-hpN.title" = "Växla fönsterutseende";
 
 /* Class = "NSMenu"; title = "Spelling"; ObjectID = "FNd-N6-hy7"; */
-"FNd-N6-hy7.title" = "Spelling";
+"FNd-N6-hy7.title" = "Stavning";
 
 /* Class = "NSMenuItem"; title = "Channel List…"; ObjectID = "FbN-9g-vFD"; */
-"FbN-9g-vFD.title" = "Channel List…";
+"FbN-9g-vFD.title" = "Kanallista…";
 
 /* Class = "NSMenuItem"; title = "Modes"; ObjectID = "HAP-Md-4qh"; */
-"HAP-Md-4qh.title" = "Modes";
+"HAP-Md-4qh.title" = "Lägen";
 
 /* Class = "NSMenuItem"; title = "Query Logs"; ObjectID = "HNx-8u-amC"; */
-"HNx-8u-amC.title" = "Query Logs";
+"HNx-8u-amC.title" = "Privata samtalsloggar";
 
 /* Class = "NSMenuItem"; title = "Search channels…"; ObjectID = "J3M-kj-Pa7"; */
-"J3M-kj-Pa7.title" = "Search channels…";
+"J3M-kj-Pa7.title" = "Sök kanaler…";
 
 /* Class = "NSMenuItem"; title = "List of Ban Exceptions"; ObjectID = "JDw-Hy-xwD"; */
-"JDw-Hy-xwD.title" = "List of Ban Exceptions";
+"JDw-Hy-xwD.title" = "Lista över bann-undantag";
 
 /* Class = "NSMenu"; title = "Substitutions"; ObjectID = "JfQ-5K-b3k"; */
-"JfQ-5K-b3k.title" = "Substitutions";
+"JfQ-5K-b3k.title" = "Substitutioner";
 
 /* Class = "NSMenuItem"; title = "Invite Only (+i)"; ObjectID = "L1b-7x-bd4"; */
-"L1b-7x-bd4.title" = "Invite Only (+i)";
+"L1b-7x-bd4.title" = "Endast inbjudan (+i)";
 
 /* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "PjN-ea-ukt"; */
-"PjN-ea-ukt.title" = "Stop Speaking";
+"PjN-ea-ukt.title" = "Sluta tala";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "Q9Y-E0-gAT"; */
-"Q9Y-E0-gAT.title" = "File";
+"Q9Y-E0-gAT.title" = "Fil";
 
 /* Class = "NSMenuItem"; title = "Disable All Notifications"; ObjectID = "QNy-Fk-SRO"; */
-"QNy-Fk-SRO.title" = "Disable All Notifications";
+"QNy-Fk-SRO.title" = "Stäng av alla notiser";
 
 /* Class = "NSMenuItem"; title = "Modify Topic"; ObjectID = "RId-Ia-xg5"; */
-"RId-Ia-xg5.title" = "Modify Topic";
+"RId-Ia-xg5.title" = "Byt ämne";
 
 /* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "Rwq-Vj-x2E"; */
-"Rwq-Vj-x2E.title" = "Check Document Now";
+"Rwq-Vj-x2E.title" = "Kontrollera dokument nu";
 
 /* Class = "NSMenuItem"; title = "Jump to Present"; ObjectID = "S3s-dt-aIR"; */
-"S3s-dt-aIR.title" = "Jump to Present";
+"S3s-dt-aIR.title" = "Hoppa till nu";
 
 /* Class = "NSMenuItem"; title = "Refresh Private Conversation"; ObjectID = "SJp-pz-WvU"; */
-"SJp-pz-WvU.title" = "Refresh Private Conversation";
+"SJp-pz-WvU.title" = "Uppfräscha privat samtal";
 
 /* Class = "NSMenuItem"; title = "Check for updates…"; ObjectID = "SKm-yR-9hI"; */
-"SKm-yR-9hI.title" = "Check for updates…";
+"SKm-yR-9hI.title" = "Sök efter uppdatering…";
 
 /* Class = "NSMenuItem"; title = "Item"; ObjectID = "TxA-XA-q8p"; */
 "TxA-XA-q8p.title" = "Item";
 
 /* Class = "NSMenuItem"; title = "Reset \"Don't Ask Me\" Warnings"; ObjectID = "UfC-Uf-EFM"; */
-"UfC-Uf-EFM.title" = "Reset \"Don't Ask Me\" Warnings";
+"UfC-Uf-EFM.title" = "Återställ \"Fråga mig inte igen\"-varningar";
 
 /* Class = "NSMenuItem"; title = "Join Channel"; ObjectID = "VDf-LC-AQe"; */
-"VDf-LC-AQe.title" = "Join Channel";
+"VDf-LC-AQe.title" = "Gå med i kanal";
 
 /* Class = "NSMenuItem"; title = "Connecting to a ZNC Bouncer"; ObjectID = "VQN-Rg-JZ0"; */
-"VQN-Rg-JZ0.title" = "Connecting to a ZNC Bouncer";
+"VQN-Rg-JZ0.title" = "Ansluter till en ZNC-studsare";
 
 /* Class = "NSMenuItem"; title = "Close Query"; ObjectID = "VZM-IN-6jc"; */
-"VZM-IN-6jc.title" = "Close Query";
+"VZM-IN-6jc.title" = "Stäng privat samtal";
 
 /* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "VtS-Ww-rJ4"; */
-"VtS-Ww-rJ4.title" = "Make Lower Case";
+"VtS-Ww-rJ4.title" = "Till gemener";
 
 /* Class = "NSMenuItem"; title = "Connect Without Proxy"; ObjectID = "WUj-Jg-uiz"; */
-"WUj-Jg-uiz.title" = "Connect Without Proxy";
+"WUj-Jg-uiz.title" = "Anslut utan proxy";
 
 /* Class = "NSMenuItem"; title = "Look Up in Dictionary"; ObjectID = "Yts-x2-7aO"; */
-"Yts-x2-7aO.title" = "Look Up in Dictionary";
+"Yts-x2-7aO.title" = "Slå upp i ordbok";
 
 /* Class = "NSMenuItem"; title = "Delete Channel"; ObjectID = "Z4A-oQ-yoK"; */
-"Z4A-oQ-yoK.title" = "Delete Channel";
+"Z4A-oQ-yoK.title" = "Ta bort kanal";
 
 /* Class = "NSMenuItem"; title = "Jump to Current Session"; ObjectID = "Z6x-pq-6mw"; */
-"Z6x-pq-6mw.title" = "Jump to Current Session";
+"Z6x-pq-6mw.title" = "Hoppa till nuvarande session";
 
 /* Class = "NSMenuItem"; title = "Using iCloud with Textual"; ObjectID = "aO8-3y-WHh"; */
-"aO8-3y-WHh.title" = "Using iCloud with Textual";
+"aO8-3y-WHh.title" = "Använda iCloud med Textual";
 
 /* Class = "NSMenuItem"; title = "View List of Fingerprints"; ObjectID = "aii-WP-szA"; */
-"aii-WP-szA.title" = "View List of Fingerprints";
+"aii-WP-szA.title" = "Visa fingeravtryckslista";
 
 /* Class = "NSMenuItem"; title = "End Private Conversation"; ObjectID = "bJT-Nc-UwZ"; */
-"bJT-Nc-UwZ.title" = "End Private Conversation";
+"bJT-Nc-UwZ.title" = "Avsluta privat samtal";
 
 /* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "c1N-Eq-Tcp"; */
-"c1N-Eq-Tcp.title" = "Data Detectors";
+"c1N-Eq-Tcp.title" = "Datadetektorer";
 
 /* Class = "NSMenuItem"; title = "Anyone Can Join (-i)"; ObjectID = "cO1-TC-8Ks"; */
-"cO1-TC-8Ks.title" = "Anyone Can Join (-i)";
+"cO1-TC-8Ks.title" = "Vem som helst kan gå med (-i)";
 
 /* Class = "NSMenuItem"; title = "Modify Ignore"; ObjectID = "cg4-kn-WKm"; */
-"cg4-kn-WKm.title" = "Modify Ignore";
+"cg4-kn-WKm.title" = "Modifiera ignorering";
 
 /* Class = "NSMenuItem"; title = "Query"; ObjectID = "d6g-it-Teq"; */
-"d6g-it-Teq.title" = "Query";
+"d6g-it-Teq.title" = "Privat samtal";
 
 /* Class = "NSMenuItem"; title = "Disable All Notifications"; ObjectID = "dnc-ku-aQ3"; */
-"dnc-ku-aQ3.title" = "Disable All Notifications";
+"dnc-ku-aQ3.title" = "Stäng av alla notiser";
 
 /* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "e78-jX-wDa"; */
-"e78-jX-wDa.title" = "Correct Spelling Automatically";
+"e78-jX-wDa.title" = "Rätta stavning medan jag skriver";
 
 /* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "f5z-Eu-enx"; */
 "f5z-Eu-enx.title" = "Smart Quotes";
 
 /* Class = "NSMenuItem"; title = "What is this?"; ObjectID = "fdJ-Px-D0q"; */
-"fdJ-Px-D0q.title" = "What is this?";
+"fdJ-Px-D0q.title" = "Vad är detta?";
 
 /* Class = "NSMenuItem"; title = "List of Invite Exceptions"; ObjectID = "fgw-tx-l9L"; */
-"fgw-tx-l9L.title" = "List of Invite Exceptions";
+"fgw-tx-l9L.title" = "Lista över inbjudansundantag";
 
 /* Class = "NSMenuItem"; title = "Add Ignore"; ObjectID = "fw1-yc-Vm1"; */
-"fw1-yc-Vm1.title" = "Add Ignore";
+"fw1-yc-Vm1.title" = "Lägg till en ignorering";
 
 /* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "gal-LY-imE"; */
-"gal-LY-imE.title" = "Text Replacement";
+"gal-LY-imE.title" = "Textersättning";
 
 /* Class = "NSMenuItem"; title = "Frequently Asked Questions"; ObjectID = "gkX-Of-Y5Q"; */
-"gkX-Of-Y5Q.title" = "Frequently Asked Questions";
+"gkX-Of-Y5Q.title" = "Vanligt ställda frågor";
 
 /* Class = "NSMenu"; title = "Query"; ObjectID = "hfh-O1-XP3"; */
-"hfh-O1-XP3.title" = "Query";
+"hfh-O1-XP3.title" = "Privat samtal";
 
 /* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "hmE-s1-jsc"; */
-"hmE-s1-jsc.title" = "Start Speaking";
+"hmE-s1-jsc.title" = "Börja tala";
 
 /* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "i8F-xa-ETA"; */
-"i8F-xa-ETA.title" = "Capitalize";
+"i8F-xa-ETA.title" = "Inledande stor bokstav";
 
 /* Class = "NSMenu"; title = "Modes"; ObjectID = "iSZ-k7-gbv"; */
-"iSZ-k7-gbv.title" = "Modes";
+"iSZ-k7-gbv.title" = "lägen";
 
 /* Class = "NSMenuItem"; title = "Add Channel…"; ObjectID = "iaX-9x-rWn"; */
-"iaX-9x-rWn.title" = "Add Channel…";
+"iaX-9x-rWn.title" = "Lägg till kanal…";
 
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "jlf-mn-Icz"; */
-"jlf-mn-Icz.title" = "Speech";
+"jlf-mn-Icz.title" = "Tal";
 
 /* Class = "NSMenuItem"; title = "Moderated (+m)"; ObjectID = "lWy-z7-Hem"; */
-"lWy-z7-Hem.title" = "Moderated (+m)";
+"lWy-z7-Hem.title" = "Modererad (+m)";
 
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "mRD-Me-cP7"; */
-"mRD-Me-cP7.title" = "Show Substitutions";
+"mRD-Me-cP7.title" = "Visa substitutioner";
 
 /* Class = "NSMenuItem"; title = "Connecting with a Certificate"; ObjectID = "o9J-hu-dKA"; */
-"o9J-hu-dKA.title" = "Connecting with a Certificate";
+"o9J-hu-dKA.title" = "Anslut med ett certifikat";
 
 /* Class = "NSMenu"; title = "Channel"; ObjectID = "ooT-mM-5UK"; */
-"ooT-mM-5UK.title" = "Channel";
+"ooT-mM-5UK.title" = "Kanal";
 
 /* Class = "NSMenuItem"; title = "Toggle Visibility of Member List"; ObjectID = "qom-q3-cE2"; */
-"qom-q3-cE2.title" = "Toggle Visibility of Member List";
+"qom-q3-cE2.title" = "Växla synlighet för medlemslistan";
 
 /* Class = "NSMenuItem"; title = "Speech"; ObjectID = "rKL-ND-sIh"; */
-"rKL-ND-sIh.title" = "Speech";
+"rKL-ND-sIh.title" = "Tal";
 
 /* Class = "NSMenuItem"; title = "Channel Properties…"; ObjectID = "rP5-rz-Tdf"; */
-"rP5-rz-Tdf.title" = "Channel Properties…";
+"rP5-rz-Tdf.title" = "Kanalinställningar…";
 
 /* Class = "NSMenuItem"; title = "Unmoderated (-m)"; ObjectID = "rro-UW-UWz"; */
-"rro-UW-UWz.title" = "Unmoderated (-m)";
+"rro-UW-UWz.title" = "Omodererad (-m)";
 
 /* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "sv8-hw-0D2"; */
-"sv8-hw-0D2.title" = "Transformations";
+"sv8-hw-0D2.title" = "Transformationer";
 
 /* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "tWm-3u-DtG"; */
-"tWm-3u-DtG.title" = "Check Grammar With Spelling";
+"tWm-3u-DtG.title" = "Kontrollera grammatik tillsammans med stavning";
 
 /* Class = "NSMenuItem"; title = "Remove Ignore"; ObjectID = "twe-vV-VYO"; */
-"twe-vV-VYO.title" = "Remove Ignore";
+"twe-vV-VYO.title" = "Ta bort ignorering";
 
 /* Class = "NSMenuItem"; title = "Channel"; ObjectID = "vBf-dC-Bvb"; */
 "vBf-dC-Bvb.title" = "Kanal";
