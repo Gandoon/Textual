@@ -699,19 +699,19 @@
 "twe-vV-VYO.title" = "Remove Ignore";
 
 /* Class = "NSMenuItem"; title = "Channel"; ObjectID = "vBf-dC-Bvb"; */
-"vBf-dC-Bvb.title" = "Channel";
+"vBf-dC-Bvb.title" = "Kanal";
 
 /* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "vsE-DG-NhW"; */
-"vsE-DG-NhW.title" = "Smart Links";
+"vsE-DG-NhW.title" = "Smarta länkar";
 
 /* Class = "NSMenuItem"; title = "Chat Encryption"; ObjectID = "w1H-u0-OYW"; */
-"w1H-u0-OYW.title" = "Chat Encryption";
+"w1H-u0-OYW.title" = "Chatkryptering";
 
 /* Class = "NSMenuItem"; title = "Start Private Conversation"; ObjectID = "wTZ-NT-MgD"; */
-"wTZ-NT-MgD.title" = "Start Private Conversation";
+"wTZ-NT-MgD.title" = "Påbörja privat samtal";
 
 /* Class = "NSMenuItem"; title = "Manage license…"; ObjectID = "yeF-9Q-Tlt"; */
-"yeF-9Q-Tlt.title" = "Manage license…";
+"yeF-9Q-Tlt.title" = "Hantera licens…";
 
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "yqa-aO-xja"; */
-"yqa-aO-xja.title" = "Check Spelling While Typing";
+"yqa-aO-xja.title" = "Kontrollera stavning medan jag skriver";
