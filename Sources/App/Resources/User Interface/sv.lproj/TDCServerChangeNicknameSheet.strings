@@ -1,24 +1,24 @@
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
-"5.title" = "Window";
+"5.title" = "Fönster";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Change Nickname"; ObjectID = "15"; */
-"15.ibExternalAccessibilityDescription" = "Change Nickname";
+"15.ibExternalAccessibilityDescription" = "Ändra smeknamn";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "16"; */
-"16.ibExternalAccessibilityDescription" = "Cancel";
+"16.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSTextFieldCell"; title = "Current nickname:"; ObjectID = "21"; */
-"21.title" = "Current nickname:";
+"21.title" = "Nuvarande smeknamn:";
 
 /* Class = "NSTextFieldCell"; title = "Nickname"; ObjectID = "22"; */
-"22.title" = "Nickname";
+"22.title" = "Smeknamn";
 
 /* Class = "NSTextFieldCell"; title = "New nickname:"; ObjectID = "24"; */
-"24.title" = "New nickname:";
+"24.title" = "Nytt smeknamn:";
 
 /* Class = "NSButtonCell"; title = "Change Nickname"; ObjectID = "25"; */
-"25.title" = "Change Nickname";
+"25.title" = "Ändra smeknamn";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "26"; */
-"26.title" = "Cancel";
+"26.title" = "Avbryt";

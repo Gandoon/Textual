@@ -1,39 +1,39 @@
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
-"5.title" = "Window";
+"5.title" = "Fönster";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "64"; */
-"64.ibExternalAccessibilityDescription" = "Cancel";
+"64.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "65"; */
-"65.ibExternalAccessibilityDescription" = "Save";
+"65.ibExternalAccessibilityDescription" = "Spara";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "215"; */
-"215.title" = "Cancel";
+"215.title" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "216"; */
-"216.title" = "Save";
+"216.title" = "Spara";
 
 /* Class = "NSButtonCell"; title = "Password (+k):"; ObjectID = "217"; */
-"217.title" = "Password (+k):";
+"217.title" = "Lösenord (+k):";
 
 /* Class = "NSButtonCell"; title = "Limit number of users (+l):"; ObjectID = "218"; */
-"218.title" = "Limit number of users (+l):";
+"218.title" = "Begränsa antal användare (+l):";
 
 /* Class = "NSButtonCell"; title = "Secret channel (+s)"; ObjectID = "219"; */
-"219.title" = "Secret channel (+s)";
+"219.title" = "Hemlig kanal (+s)";
 
 /* Class = "NSButtonCell"; title = "Private channel (+p)"; ObjectID = "220"; */
-"220.title" = "Private channel (+p)";
+"220.title" = "Privat kanal (+p)";
 
 /* Class = "NSButtonCell"; title = "No external channel messages (+n)"; ObjectID = "221"; */
-"221.title" = "No external channel messages (+n)";
+"221.title" = "Inga externa kanalmeddelanden (+n)";
 
 /* Class = "NSButtonCell"; title = "Only operators can change topic (+t)"; ObjectID = "222"; */
-"222.title" = "Only operators can change topic (+t)";
+"222.title" = "Endast operatörer kan ändra ämne (+t)";
 
 /* Class = "NSButtonCell"; title = "Invite-only channel (+i)"; ObjectID = "223"; */
-"223.title" = "Invite-only channel (+i)";
+"223.title" = "Kanal endast för inbjudna (+i)";
 
 /* Class = "NSButtonCell"; title = "Moderated channel (+m)"; ObjectID = "224"; */
-"224.title" = "Moderated channel (+m)";
+"224.title" = "Modererad kanal (+m)";

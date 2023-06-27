@@ -254,7 +254,6 @@
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
 					8D57630D048677EA00EA77CD = {
-						DevelopmentTeam = 8482Q6EPL6;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -353,6 +352,7 @@
 		1DEB911C08733D790010E9CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-ChatFilterExtension";
 				PRODUCT_NAME = ChatFilterExtension;
@@ -376,6 +376,7 @@
 		4CCD21ED1FA41E250056F5FE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-ChatFilterExtension";
 				PRODUCT_NAME = ChatFilterExtension;
@@ -392,6 +393,7 @@
 		4CCD21EF1FA41E390056F5FE /* Release (App Store) */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-ChatFilterExtension";
 				PRODUCT_NAME = ChatFilterExtension;

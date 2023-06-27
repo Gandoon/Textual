@@ -649,6 +649,7 @@
 		4CA1FE5F1FA606890095901F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/ICPCoreMediaPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.InlineContentLoader-CoreMedia";
@@ -660,6 +661,7 @@
 		4CA1FE601FA606890095901F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/ICPCoreMediaPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.InlineContentLoader-CoreMedia";

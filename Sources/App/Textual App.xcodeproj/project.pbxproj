@@ -2885,6 +2885,8 @@
 		033D292C2A4889D600C63C8D /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/TLOLicenseManager.strings"; sourceTree = "<group>"; };
 		033D292D2A4889D600C63C8D /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/TVCMainWindow.strings"; sourceTree = "<group>"; };
 		033D292E2A4889D700C63C8D /* en-GB */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "en-GB"; path = "en-GB.lproj/TVCNotificationConfigurationView.strings"; sourceTree = "<group>"; };
+		033D295B2A48A42400C63C8D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/TDCAddressBookSheet.strings; sourceTree = "<group>"; };
+		033D295E2A49F23F00C63C8D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/TDCLicenseManagerMigrateAppStoreSheet.strings; sourceTree = "<group>"; };
 		4C06E17C20EC4AC40055D09A /* TVCMemberListAppearance.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TVCMemberListAppearance.plist; sourceTree = "<group>"; };
 		4C06E17D20EC4AC40055D09A /* TVCServerListAppearanceTemplate.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TVCServerListAppearanceTemplate.plist; sourceTree = "<group>"; };
 		4C06E17E20EC4AC40055D09A /* TDCChannelSpotlightAppearanceTemplate.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TDCChannelSpotlightAppearanceTemplate.plist; sourceTree = "<group>"; };
@@ -8099,6 +8101,7 @@
 				033D28492A48870400C63C8D /* Base */,
 				033D28CA2A4888D400C63C8D /* sv */,
 				033D29032A4889C800C63C8D /* en-GB */,
+				033D295E2A49F23F00C63C8D /* en */,
 			);
 			name = TDCLicenseManagerMigrateAppStoreSheet.xib;
 			sourceTree = "<group>";
@@ -8209,6 +8212,7 @@
 				033D283E2A48870200C63C8D /* Base */,
 				033D28BF2A4888D400C63C8D /* sv */,
 				033D28F82A4889C700C63C8D /* en-GB */,
+				033D295B2A48A42400C63C8D /* en */,
 			);
 			name = TDCAddressBookSheet.xib;
 			sourceTree = "<group>";
@@ -8599,6 +8603,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4C3154D620EB685700448776 /* Textual App.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
+				TEXTUAL_BUILT_WITH_LICENSE_MANAGER = 0;
 			};
 			name = "Release (Sandboxed)";
 		};
@@ -8641,6 +8647,7 @@
 		4C13442820C75C4900343AB7 /* Release (Sandboxed) */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = "Release (Sandboxed)";
@@ -8649,6 +8656,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4C3154DF20EB685700448776 /* Textual App.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
+				TEXTUAL_BUILT_WITH_LICENSE_MANAGER = 0;
 			};
 			name = Debug;
 		};
@@ -8656,6 +8665,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4C3154B720EB685700448776 /* Textual App.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
+				TEXTUAL_BUILT_WITH_LICENSE_MANAGER = 0;
+				TEXTUAL_BUILT_WITH_SPARKLE_ENABLED = 1;
 			};
 			name = Release;
 		};
@@ -8676,6 +8688,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				TEXTUAL_BUILT_WITH_SPARKLE_ENABLED = 1;
 			};
 			name = Release;
 		};
@@ -8722,6 +8735,7 @@
 		4CCF301215804DCE006FFE21 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -8729,6 +8743,7 @@
 		4CCF301315804DCE006FFE21 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

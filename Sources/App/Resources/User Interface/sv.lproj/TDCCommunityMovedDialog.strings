@@ -1,18 +1,18 @@
 
 /* Class = "NSWindow"; title = "Important Notice"; ObjectID = "1"; */
-"1.title" = "Important Notice";
+"1.title" = "Viktigt meddelande";
 
 /* Class = "NSTextFieldCell"; title = "The intent of this message is to inform. You will only see it once. Your access to freenode will not be hindered in any way."; ObjectID = "5kt-DS-OqJ"; */
-"5kt-DS-OqJ.title" = "The intent of this message is to inform. You will only see it once. Your access to freenode will not be hindered in any way.";
+"5kt-DS-OqJ.title" = "Syftet med detta meddelande är att informera. Du kommer bara att se detta en gång. Din tillgång till freenode kommer inte störas på något sätt.";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Begin Setup"; ObjectID = "8Le-Ic-7po"; */
-"8Le-Ic-7po.ibExternalAccessibilityDescription" = "Begin Setup";
+"8Le-Ic-7po.ibExternalAccessibilityDescription" = "Påbörja inställning";
 
 /* Class = "NSTextFieldCell"; title = "Support channel has moved"; ObjectID = "gy5-5o-tPE"; */
-"gy5-5o-tPE.title" = "Support channel has moved";
+"gy5-5o-tPE.title" = "Supportkanalen har flyttat";
 
 /* Class = "NSTextFieldCell"; title = "You are seeing this message because your connection to freenode joins #textual or one of its sister channels.\n\nThe official Textual community is no longer located on freenode. It has moved to Libera Chat which can be reached by connecting to irc.libera.chat.\n\nSorry for any inconvenience this may cause."; ObjectID = "m8p-7G-8Jg"; */
-"m8p-7G-8Jg.title" = "You are seeing this message because your connection to freenode joins #textual or one of its sister channels.\n\nThe official Textual community is no longer located on freenode. It has moved to Libera Chat which can be reached by connecting to irc.libera.chat.\n\nSorry for any inconvenience this may cause.";
+"m8p-7G-8Jg.title" = "Du ser detta meddelande då din anslutning till freenode ansluter till #textual eller någon av dess systerkanaler.\n\nDen officiella Textual-communityn finns inte längre på freenode. Den har flyttat till Libera Chat som kan nås på irc.libera.chat.\n\nVi ber om ursäkt om detta medför någon olägenhet.";
 
 /* Class = "NSButtonCell"; title = "Close"; ObjectID = "wjP-q7-54z"; */
-"wjP-q7-54z.title" = "Close";
+"wjP-q7-54z.title" = "Stäng";

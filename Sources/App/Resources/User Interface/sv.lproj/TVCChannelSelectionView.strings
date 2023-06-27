@@ -1,15 +1,15 @@
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Limit filter to item"; ObjectID = "KU9-QJ-egQ"; */
-"KU9-QJ-egQ.ibExternalAccessibilityDescription" = "Limit filter to item";
+"KU9-QJ-egQ.ibExternalAccessibilityDescription" = "Begränsa filter till post";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Limit filter to item"; ObjectID = "O7s-3h-Zh7"; */
-"O7s-3h-Zh7.ibExternalAccessibilityDescription" = "Limit filter to item";
+"O7s-3h-Zh7.ibExternalAccessibilityDescription" = "Begränsa filter till post";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "hGN-67-Q2Q"; */
-"hGN-67-Q2Q.title" = "Table View Cell";
+"hGN-67-Q2Q.title" = "Tabellvyfält";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "q58-de-shn"; */
-"q58-de-shn.title" = "Text Cell";
+"q58-de-shn.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "qI6-v7-m2V"; */
-"qI6-v7-m2V.title" = "Table View Cell";
+"qI6-v7-m2V.title" = "Tabellvyfält";

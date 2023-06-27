@@ -590,7 +590,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_ENTITLEMENTS = "${PROJECT_DIR}/Configurations/Sandbox/Release.entitlements";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/RCMProcessPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-IRCConnectionHost";
@@ -603,7 +603,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_ENTITLEMENTS = "${PROJECT_DIR}/Configurations/Sandbox/Release.entitlements";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/RCMProcessPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-IRCConnectionHost";
@@ -624,7 +624,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_ENTITLEMENTS = "${PROJECT_DIR}/Configurations/Sandbox/App Store.entitlements";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/RCMProcessPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-IRCConnectionHost";

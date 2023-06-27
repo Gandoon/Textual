@@ -1,27 +1,27 @@
 
 /* Class = "NSButtonCell"; title = "Learn More"; ObjectID = "8Pq-ts-x6c"; */
-"8Pq-ts-x6c.title" = "Learn More";
+"8Pq-ts-x6c.title" = "Ta reda på mer";
 
 /* Class = "NSButtonCell"; title = "Remind Me Later"; ObjectID = "EQn-K5-OPg"; */
-"EQn-K5-OPg.title" = "Remind Me Later";
+"EQn-K5-OPg.title" = "Påminn mig senare";
 
 /* Class = "NSWindow"; title = "Welcome to Textual 7"; ObjectID = "M9l-C7-U7y"; */
-"M9l-C7-U7y.title" = "Welcome to Textual 7";
+"M9l-C7-U7y.title" = "Välkommen till Textual 7";
 
 /* Class = "NSButtonCell"; title = "Continue Trial"; ObjectID = "PfC-oF-FOO"; */
-"PfC-oF-FOO.title" = "Continue Trial";
+"PfC-oF-FOO.title" = "Fortsätt prova";
 
 /* Class = "NSButtonCell"; title = "Check Eligibility"; ObjectID = "aew-ZV-7Gj"; */
-"aew-ZV-7Gj.title" = "Check Eligibility";
+"aew-ZV-7Gj.title" = "Kontrollera berättigande";
 
 /* Class = "NSTextFieldCell"; title = "Textual 7, the next generation of the app, is now available as a paid upgrade.\n\nTo make this upgrade as smooth as possible, you may be eligible for a free or discounted upgrade; depending on when you purchased the app. \n\nClick “Check Eligibility\" to find out which you are eligible for."; ObjectID = "eQe-9k-nZa"; */
-"eQe-9k-nZa.title" = "Textual 7, the next generation of the app, is now available as a paid upgrade.\n\nTo make this upgrade as smooth as possible, you may be eligible for a free or discounted upgrade; depending on when you purchased the app. \n\nClick “Check Eligibility\" to find out which you are eligible for.";
+"eQe-9k-nZa.title" = "Textual 7, nästa generation av programmet, finns nu tillgängligt som en avgiftsbelagd uppgradering.\n\nFör att göra denna uppgradering så smidig som möjligt kan du vara berättigad till en rabatterad eller gratis uppgradering; beroende på när du köpte programvaran. \n\nKlicka på “Kontrollera berättigande\" för att ta reda på vad du är berättigad till.";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to Textual 7"; ObjectID = "lbE-e4-Mr5"; */
-"lbE-e4-Mr5.title" = "Welcome to Textual 7";
+"lbE-e4-Mr5.title" = "Välkommen till Textual 7";
 
 /* Class = "NSTextFieldCell"; title = "Textual 7 is a paid upgrade."; ObjectID = "plM-2e-3wr"; */
-"plM-2e-3wr.title" = "Textual 7 is a paid upgrade.";
+"plM-2e-3wr.title" = "Textual 7 är en avgiftsbelagd uppgradering.";
 
 /* Class = "NSTextFieldCell"; title = "Your trial of Textual will expire in 30 days"; ObjectID = "u8E-ij-xBX"; */
-"u8E-ij-xBX.title" = "Your trial of Textual will expire in 30 days";
+"u8E-ij-xBX.title" = "Din prövoperiod av Textual slutar om 30 dagar";

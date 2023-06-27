@@ -1,24 +1,24 @@
 
 /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "B0R-Mq-sMG"; */
-"B0R-Mq-sMG.title" = "Reset";
+"B0R-Mq-sMG.title" = "Återställ";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "HVO-sY-mGM"; */
-"HVO-sY-mGM.title" = "Save";
+"HVO-sY-mGM.title" = "Spara";
 
 /* Class = "NSTextFieldCell"; title = "Change nickname color to:"; ObjectID = "Ril-X5-ce2"; */
-"Ril-X5-ce2.title" = "Change nickname color to:";
+"Ril-X5-ce2.title" = "Ändra smeknamnsfärg till:";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "SNT-UD-yxI"; */
-"SNT-UD-yxI.ibExternalAccessibilityDescription" = "Cancel";
+"SNT-UD-yxI.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Reset Color for Nickname"; ObjectID = "Wi2-Ib-F3T"; */
-"Wi2-Ib-F3T.ibExternalAccessibilityDescription" = "Reset Color for Nickname";
+"Wi2-Ib-F3T.ibExternalAccessibilityDescription" = "Återställ smeknamnets färg";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "bdT-W6-ebh"; */
-"bdT-W6-ebh.ibExternalAccessibilityDescription" = "Save";
+"bdT-W6-ebh.ibExternalAccessibilityDescription" = "Spara";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "gNj-W9-RE1"; */
-"gNj-W9-RE1.title" = "Window";
+"gNj-W9-RE1.title" = "Fönster";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "u11-Xe-NNB"; */
-"u11-Xe-NNB.title" = "Cancel";
+"u11-Xe-NNB.title" = "Avbryt";

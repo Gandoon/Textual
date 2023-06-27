@@ -1,66 +1,66 @@
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Ban Exception List"; ObjectID = "3"; */
-"3.ibExternalAccessibilityDescription" = "Ban Exception List";
+"3.ibExternalAccessibilityDescription" = "Lista över bannlysta";
 
 /* Class = "NSTableColumn"; headerCell.title = "Hostmask"; ObjectID = "8"; */
-"8.headerCell.title" = "Hostmask";
+"8.headerCell.title" = "Värdmask";
 
 /* Class = "NSTableColumn"; headerCell.title = "Added By"; ObjectID = "9"; */
-"9.headerCell.title" = "Added By";
+"9.headerCell.title" = "Tillagd av";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Exception Author"; ObjectID = "10"; */
-"10.ibExternalAccessibilityDescription" = "Exception Author";
+"10.ibExternalAccessibilityDescription" = "Tillagt av";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "10"; */
-"10.title" = "Text Cell";
+"10.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Exception Mask"; ObjectID = "11"; */
-"11.ibExternalAccessibilityDescription" = "Exception Mask";
+"11.ibExternalAccessibilityDescription" = "Undantagsmask";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
-"11.title" = "Text Cell";
+"11.title" = "Textfält";
 
 /* Class = "NSTableColumn"; headerCell.title = "Date Added"; ObjectID = "12"; */
-"12.headerCell.title" = "Date Added";
+"12.headerCell.title" = "Tillagt den";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Date Added"; ObjectID = "13"; */
-"13.ibExternalAccessibilityDescription" = "Date Added";
+"13.ibExternalAccessibilityDescription" = "Tillagt den";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "13"; */
-"13.title" = "Text Cell";
+"13.title" = "Textfält";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Items"; ObjectID = "14"; */
-"14.ibExternalAccessibilityDescription" = "Remove Selected Items";
+"14.ibExternalAccessibilityDescription" = "Ta bort valda";
 
 /* Class = "NSButtonCell"; title = "Remove Selected Items"; ObjectID = "15"; */
-"15.title" = "Remove Selected Items";
+"15.title" = "Ta bort valda";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Update List"; ObjectID = "16"; */
-"16.ibExternalAccessibilityDescription" = "Update List";
+"16.ibExternalAccessibilityDescription" = "Uppdatera listan";
 
 /* Class = "NSButtonCell"; title = "Update List"; ObjectID = "17"; */
-"17.title" = "Update List";
+"17.title" = "Uppdatera listan";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "18"; */
-"18.ibExternalAccessibilityDescription" = "Close";
+"18.ibExternalAccessibilityDescription" = "Stäng";
 
 /* Class = "NSButtonCell"; title = "Close"; ObjectID = "19"; */
-"19.title" = "Close";
+"19.title" = "Stäng";
 
 /* Class = "NSTextFieldCell"; title = "Bans for %@"; ObjectID = "34"; */
-"34.title" = "Bans for %@";
+"34.title" = "Bannlysningar för %@";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "FIa-a0-68K"; */
-"FIa-a0-68K.title" = "Table View Cell";
+"FIa-a0-68K.title" = "Tabellvyfält";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ entries"; ObjectID = "KPz-a9-t0f"; */
-"KPz-a9-t0f.ibShadowedDisplayPattern" = "%{value1}@ entries";
+"KPz-a9-t0f.ibShadowedDisplayPattern" = "%{value1}@ poster";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "NwW-Wt-A8j"; */
-"NwW-Wt-A8j.title" = "Table View Cell";
+"NwW-Wt-A8j.title" = "Tabellvyfält";
 
 /* Class = "NSTextFieldCell"; title = "1234"; ObjectID = "VEA-PK-9MZ"; */
 "VEA-PK-9MZ.title" = "1234";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "sO7-UT-E2w"; */
-"sO7-UT-E2w.title" = "Table View Cell";
+"sO7-UT-E2w.title" = "Tabellvyfält";

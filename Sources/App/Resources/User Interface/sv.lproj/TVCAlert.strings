@@ -9,16 +9,16 @@
 "8.title" = "#InfoMessage";
 
 /* Class = "NSButtonCell"; title = "Button"; ObjectID = "7W2-c2-bfN"; */
-"7W2-c2-bfN.title" = "Button";
+"7W2-c2-bfN.title" = "Knapp";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ZZc-F9-DOe"; */
-"ZZc-F9-DOe.title" = "Cancel";
+"ZZc-F9-DOe.title" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "ey2-K6-XER"; */
 "ey2-K6-XER.title" = "OK";
 
 /* Class = "NSButtonCell"; title = "Do not show this messasge again"; ObjectID = "lEw-jf-Cbx"; */
-"lEw-jf-Cbx.title" = "Do not show this messasge again";
+"lEw-jf-Cbx.title" = "Visa inte detta meddelande igen";
 
 /* Class = "NSWindow"; title = "Alert"; ObjectID = "pMN-4u-gqK"; */
 "pMN-4u-gqK.title" = "Alert";

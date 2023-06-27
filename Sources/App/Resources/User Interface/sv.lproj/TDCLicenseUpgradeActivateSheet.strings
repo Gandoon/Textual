@@ -1,45 +1,45 @@
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "5MA-QY-tCu"; */
-"5MA-QY-tCu.title" = "Window";
+"5MA-QY-tCu.title" = "Fönster";
 
 /* Class = "NSTextFieldCell"; title = "Click “Purchase Upgrade“ button to purchase the upgrade.\n\nClick “Activate Textual“ button to activate this license."; ObjectID = "64r-7V-Omc"; */
-"64r-7V-Omc.title" = "Click “Purchase Upgrade“ button to purchase the upgrade.\n\nClick “Activate Textual“ button to activate this license.";
+"64r-7V-Omc.title" = "Klicka på “Köp uppgradering“ för att köpa uppgraderingen.\n\nKlicka på “Aktivera Textual“ för att aktivera denna licens.";
 
 /* Class = "NSButtonCell"; title = "Do not show this message again"; ObjectID = "6UQ-dP-l0Z"; */
-"6UQ-dP-l0Z.title" = "Do not show this message again";
+"6UQ-dP-l0Z.title" = "Visa inte detta meddelande igen";
 
 /* Class = "NSButtonCell"; title = "Purchase Upgrade"; ObjectID = "OHW-Bn-Wo5"; */
-"OHW-Bn-Wo5.title" = "Purchase Upgrade";
+"OHW-Bn-Wo5.title" = "Köp uppgradering";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "W7a-9a-xd5"; */
-"W7a-9a-xd5.title" = "Window";
+"W7a-9a-xd5.title" = "Fönster";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Textual Logo"; ObjectID = "aXS-Qj-RLk"; */
 "aXS-Qj-RLk.ibExternalAccessibilityDescription" = "Textual Logo";
 
 /* Class = "NSButtonCell"; title = "Close Message"; ObjectID = "afW-I7-Zd6"; */
-"afW-I7-Zd6.title" = "Close Message";
+"afW-I7-Zd6.title" = "Stäng meddelande";
 
 /* Class = "NSTextFieldCell"; title = "You recently checked the upgrade eligibility for the license key “%@“ and it was determined that you are eligible for a free upgrade."; ObjectID = "agn-ju-nqr"; */
-"agn-ju-nqr.title" = "You recently checked the upgrade eligibility for the license key “%@“ and it was determined that you are eligible for a free upgrade.";
+"agn-ju-nqr.title" = "Du kontrollerade nyligen om din licensnyckel “%@“ kvalificerar för en uppgradering och det fastslogs att du är berättigad till en gratis uppgradering.";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Textual Logo"; ObjectID = "cK1-OF-8hQ"; */
 "cK1-OF-8hQ.ibExternalAccessibilityDescription" = "Textual Logo";
 
 /* Class = "NSTextFieldCell"; title = "You recently checked the upgrade eligibility for the license key “%@“ and it was determined that you are eligible for a discounted upgrade."; ObjectID = "cKq-oq-zBz"; */
-"cKq-oq-zBz.title" = "You recently checked the upgrade eligibility for the license key “%@“ and it was determined that you are eligible for a discounted upgrade.";
+"cKq-oq-zBz.title" = "Du kontrollerade nyligen om din licensnyckel “%@“ kvalificerar för en uppgradering och det fastslogs att du är berättigad till en rabatterad uppgradering.";
 
 /* Class = "NSButtonCell"; title = "Do not show this message again"; ObjectID = "kZv-2K-5bI"; */
-"kZv-2K-5bI.title" = "Do not show this message again";
+"kZv-2K-5bI.title" = "Visa inte detta meddelande igen";
 
 /* Class = "NSButtonCell"; title = "Activate Textual"; ObjectID = "lW4-c3-Bi6"; */
-"lW4-c3-Bi6.title" = "Activate Textual";
+"lW4-c3-Bi6.title" = "Aktivera Textual";
 
 /* Class = "NSButtonCell"; title = "Close Message"; ObjectID = "oAZ-QL-JtH"; */
-"oAZ-QL-JtH.title" = "Close Message";
+"oAZ-QL-JtH.title" = "Stäng meddelande";
 
 /* Class = "NSButtonCell"; title = "Activate Textual"; ObjectID = "qrA-X1-UYV"; */
-"qrA-X1-UYV.title" = "Activate Textual";
+"qrA-X1-UYV.title" = "Aktivera Textual";
 
 /* Class = "NSTextFieldCell"; title = "Click “Activate Textual“ button to activate this license."; ObjectID = "rv5-Cc-yyP"; */
-"rv5-Cc-yyP.title" = "Click “Activate Textual“ button to activate this license.";
+"rv5-Cc-yyP.title" = "Klicka på “Aktivera Textual“ för att aktivera denna licens.";

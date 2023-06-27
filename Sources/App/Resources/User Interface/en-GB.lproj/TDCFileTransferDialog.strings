@@ -33,7 +33,7 @@
 "PAR-0R-j9A.title" = "10 MB";
 
 /* Class = "NSTextFieldCell"; title = "10 MB of 100 MB (100 KB/sec) — 2 seconds reamining"; ObjectID = "VVN-xJ-iKJ"; */
-"VVN-xJ-iKJ.title" = "10 MB of 100 MB (100 KB/sec) — 2 seconds reamining";
+"VVN-xJ-iKJ.title" = "10 MB of 100 MB (100 KB/sec) — 2 seconds remaining";
 
 /* Class = "NSSegmentedCell"; nY8-F3-7sa.ibShadowedLabels[0] = "All"; ObjectID = "nY8-F3-7sa"; */
 "nY8-F3-7sa.ibShadowedLabels[0]" = "All";

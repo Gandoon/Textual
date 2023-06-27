@@ -1,57 +1,57 @@
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "143"; */
-"143.title" = "Window";
+"143.title" = "Fönster";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Finish Setup"; ObjectID = "152"; */
-"152.ibExternalAccessibilityDescription" = "Finish Setup";
+"152.ibExternalAccessibilityDescription" = "Slutför inställning";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "153"; */
-"153.ibExternalAccessibilityDescription" = "Cancel";
+"153.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Channel"; ObjectID = "154"; */
-"154.ibExternalAccessibilityDescription" = "Add Channel";
+"154.ibExternalAccessibilityDescription" = "Lägg till kanal";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Channel(s)"; ObjectID = "155"; */
-"155.ibExternalAccessibilityDescription" = "Remove Selected Channel(s)";
+"155.ibExternalAccessibilityDescription" = "Ta bort valda kanaler";
 
 /* Class = "NSTextFieldCell"; title = "Additional options including NickServ password, username, real name, etc. can be edited later by control clicking the connection and opening “Server Properties”."; ObjectID = "161"; */
-"161.title" = "Additional options including NickServ password, username, real name, etc. can be edited later by control clicking the connection and opening “Server Properties”.";
+"161.title" = "Övriga inställningar såsom NickServ-lösenord, användarnamn, riktigt namn, med mera kan ändras senare genom att höger- eller kontroll-klicka på anslutningen och välja "Serverinställningar".";
 
 /* Class = "NSTextFieldCell"; title = "Welcome to Textual 7!"; ObjectID = "163"; */
-"163.title" = "Welcome to Textual 7!";
+"163.title" = "Välkommen till Textual 7!";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "167"; */
-"167.title" = "Cancel";
+"167.title" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "Start Chatting"; ObjectID = "168"; */
-"168.title" = "Start Chatting";
+"168.title" = "Börja chatta";
 
 /* Class = "NSButtonCell"; title = "Connect on launch"; ObjectID = "169"; */
-"169.title" = "Connect on launch";
+"169.title" = "Anslut vid start";
 
 /* Class = "NSTextFieldCell"; title = "Channels:"; ObjectID = "170"; */
-"170.title" = "Channels:";
+"170.title" = "Kanaler:";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "175"; */
-"175.ibExternalAccessibilityDescription" = "Channel Name";
+"175.ibExternalAccessibilityDescription" = "Kanalnamn";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "175"; */
-"175.title" = "Text Cell";
+"175.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; title = "Destination:"; ObjectID = "176"; */
 "176.title" = "Destination:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Guest"; ObjectID = "178"; */
-"178.placeholderString" = "Guest";
+"178.placeholderString" = "Gäst";
 
 /* Class = "NSTextFieldCell"; title = "Nickname:"; ObjectID = "179"; */
-"179.title" = "Nickname:";
+"179.title" = "Smeknamn:";
 
 /* Class = "NSComboBoxCell"; placeholderString = "irc.example.com"; ObjectID = "217"; */
 "217.placeholderString" = "irc.example.com";
 
 /* Class = "NSTextFieldCell"; title = "To get started, select a network to connect to using the the control labeled “Destination”, or manually enter the desired server address."; ObjectID = "UqM-De-aP8"; */
-"UqM-De-aP8.title" = "To get started, select a network to connect to using the the control labeled “Destination”, or manually enter the desired server address.";
+"UqM-De-aP8.title" = "För att komma igång, välj ett nätverk att ansluta till genom att välja “Destination”, eller genom att manuellt ange önskad serveradress.";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Textual Logo"; ObjectID = "zqh-Vb-fjj"; */
 "zqh-Vb-fjj.ibExternalAccessibilityDescription" = "Textual Logo";

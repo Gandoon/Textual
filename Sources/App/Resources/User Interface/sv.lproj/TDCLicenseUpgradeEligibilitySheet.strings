@@ -1,51 +1,51 @@
 
 /* Class = "NSTextFieldCell"; title = "Congratulations, you are eligible for a discount!\n\nClick the “Purchase Upgrade” button to view the price of the upgrade and to purchase it.\n\nWhen your order is finished being processed, click the “Activate Textual“ button to continue."; ObjectID = "1V5-vh-2id"; */
-"1V5-vh-2id.title" = "Congratulations, you are eligible for a discount!\n\nClick the “Purchase Upgrade” button to view the price of the upgrade and to purchase it.\n\nWhen your order is finished being processed, click the “Activate Textual“ button to continue.";
+"1V5-vh-2id.title" = "Grattis, du är berättigad till en rabatt!\n\nKlicka på “Köp uppgradering” för att se priset för uppgraderingen köpa den.\n\nNär din order har behandlats, klicka på “Aktivera Textual“ för att fortsätta.";
 
 /* Class = "NSTextFieldCell"; title = "Your upgrade is discounted!"; ObjectID = "4LA-tc-vdW"; */
-"4LA-tc-vdW.title" = "Your upgrade is discounted!";
+"4LA-tc-vdW.title" = "Din uppgradering är rabatterad!";
 
 /* Class = "NSButtonCell"; title = "Purchase in Mac App Store"; ObjectID = "4On-qj-WpA"; */
-"4On-qj-WpA.title" = "Purchase in Mac App Store";
+"4On-qj-WpA.title" = "Köp i Mac App Store";
 
 /* Class = "NSButtonCell"; title = "Close"; ObjectID = "IhF-mk-CHo"; */
-"IhF-mk-CHo.title" = "Close";
+"IhF-mk-CHo.title" = "Stäng";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "NMV-Qs-7lz"; */
-"NMV-Qs-7lz.title" = "Window";
+"NMV-Qs-7lz.title" = "Fönster";
 
 /* Class = "NSButtonCell"; title = "Activate Textual"; ObjectID = "OZr-al-Gi8"; */
-"OZr-al-Gi8.title" = "Activate Textual";
+"OZr-al-Gi8.title" = "Aktivera Textual";
 
 /* Class = "NSButtonCell"; title = "Purchase Upgrade"; ObjectID = "Psq-Ta-ai7"; */
-"Psq-Ta-ai7.title" = "Purchase Upgrade";
+"Psq-Ta-ai7.title" = "Köp uppgradering";
 
 /* Class = "NSTextFieldCell"; title = "Congratulations, you are eligible for a free upgrade!\n\nClick the “Activate Textual“ button to continue."; ObjectID = "T1q-Ug-ZcD"; */
-"T1q-Ug-ZcD.title" = "Congratulations, you are eligible for a free upgrade!\n\nClick the “Activate Textual“ button to continue.";
+"T1q-Ug-ZcD.title" = "Grattis, du är berättigad till en gratis uppgradering!\n\nKlicka på “Aktivera Textual“ för att fortsätta.";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "Vqb-So-6Ho"; */
-"Vqb-So-6Ho.title" = "Window";
+"Vqb-So-6Ho.title" = "Fönster";
 
 /* Class = "NSButtonCell"; title = "Close"; ObjectID = "YZx-ou-Quq"; */
-"YZx-ou-Quq.title" = "Close";
+"YZx-ou-Quq.title" = "Stäng";
 
 /* Class = "NSTextFieldCell"; title = "Unfortunately, you are not eligible for a free or discounted upgrade."; ObjectID = "axq-6T-VR5"; */
-"axq-6T-VR5.title" = "Unfortunately, you are not eligible for a free or discounted upgrade.";
+"axq-6T-VR5.title" = "Tyvärr är du inte berättigad till en rabatterad eller gratis uppgradering.";
 
 /* Class = "NSButtonCell"; title = "Purchase in Codeux Software Store"; ObjectID = "cbV-gz-k63"; */
-"cbV-gz-k63.title" = "Purchase in Codeux Software Store";
+"cbV-gz-k63.title" = "Köp i Codeux Softwares butik";
 
 /* Class = "NSButtonCell"; title = "Activate Textual"; ObjectID = "oDA-Wn-QrS"; */
-"oDA-Wn-QrS.title" = "Activate Textual";
+"oDA-Wn-QrS.title" = "Aktivera Textual";
 
 /* Class = "NSTextFieldCell"; title = "You are not eligible."; ObjectID = "oiB-Uh-16m"; */
-"oiB-Uh-16m.title" = "You are not eligible.";
+"oiB-Uh-16m.title" = "Du är inte berättigad.";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "s7V-Ks-YGu"; */
-"s7V-Ks-YGu.title" = "Window";
+"s7V-Ks-YGu.title" = "Fönster";
 
 /* Class = "NSTextFieldCell"; title = "Your upgrade is free!"; ObjectID = "swW-rG-FFU"; */
-"swW-rG-FFU.title" = "Your upgrade is free!";
+"swW-rG-FFU.title" = "Din uppgradering är gratis!";
 
 /* Class = "NSButtonCell"; title = "Close"; ObjectID = "zYo-FM-XDl"; */
-"zYo-FM-XDl.title" = "Close";
+"zYo-FM-XDl.title" = "Stäng";

@@ -9,7 +9,7 @@
 "0jK-Hy-GsU.title" = "Welcome to Textual 7";
 
 /* Class = "NSMenuItem"; title = "Text Background Color"; ObjectID = "4xF-Sg-oGj"; */
-"4xF-Sg-oGj.title" = "Text Background Color";
+"4xF-Sg-oGj.title" = "Text Background Colour";
 
 /* Class = "NSTextFieldCell"; title = "Away status:"; ObjectID = "8hg-20-pcc"; */
 "8hg-20-pcc.title" = "Away status:";
@@ -39,7 +39,7 @@
 "EIN-fm-82Q.title" = " Purple";
 
 /* Class = "NSMenuItem"; title = "Text Color"; ObjectID = "Ebt-RF-aBw"; */
-"Ebt-RF-aBw.title" = "Text Color";
+"Ebt-RF-aBw.title" = "Text Colour";
 
 /* Class = "NSMenuItem"; title = " Yellow"; ObjectID = "Gh5-I1-yLt"; */
 "Gh5-I1-yLt.title" = " Yellow";
@@ -174,7 +174,7 @@
 "dKB-ut-N9M.title" = "Other…";
 
 /* Class = "NSMenu"; title = "Background Color"; ObjectID = "dMA-xy-EJU"; */
-"dMA-xy-EJU.title" = "Background Color";
+"dMA-xy-EJU.title" = "Background Colour";
 
 /* Class = "NSMenuItem"; title = " Teal (Green/Blue Cyan)"; ObjectID = "dlX-Ta-yRu"; */
 "dlX-Ta-yRu.title" = " Teal (Green/Blue Cyan)";
@@ -183,7 +183,7 @@
 "eHi-3i-hdN.title" = "Strikethrough";
 
 /* Class = "NSMenuItem"; title = "Background Color"; ObjectID = "ePW-6F-Q1S"; */
-"ePW-6F-Q1S.title" = "Background Color";
+"ePW-6F-Q1S.title" = "Background Colour";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "fBN-3b-ksS"; */
 "fBN-3b-ksS.title" = "Table View Cell";
@@ -216,10 +216,10 @@
 "l7k-2J-Xf5.title" = " Blue (Navy)";
 
 /* Class = "NSMenuItem"; title = "Text Foreground Color"; ObjectID = "lOb-fX-IG0"; */
-"lOb-fX-IG0.title" = "Text Foreground Color";
+"lOb-fX-IG0.title" = "Text Foreground Colour";
 
 /* Class = "NSMenu"; title = "Text Color"; ObjectID = "nLk-Fl-2lR"; */
-"nLk-Fl-2lR.title" = "Text Color";
+"nLk-Fl-2lR.title" = "Text Colour";
 
 /* Class = "NSTextFieldCell"; title = "################################"; ObjectID = "ohH-Rl-ixA"; */
 "ohH-Rl-ixA.title" = "################################";
@@ -252,7 +252,7 @@
 "x1s-UD-e6l.title" = " Brown (Maroon)";
 
 /* Class = "NSMenuItem"; title = "Background Color"; ObjectID = "yrv-9t-LSZ"; */
-"yrv-9t-LSZ.title" = "Background Color";
+"yrv-9t-LSZ.title" = "Background Colour";
 
 /* Class = "NSMenuItem"; title = "IRC Formatting"; ObjectID = "yuS-Ad-J8i"; */
 "yuS-Ad-J8i.title" = "IRC Formatting";
@@ -264,7 +264,7 @@
 "z6F-bu-Ztu.title" = "Nickname:";
 
 /* Class = "NSMenuItem"; title = "Text Color"; ObjectID = "zcK-F5-D5E"; */
-"zcK-F5-D5E.title" = "Text Color";
+"zcK-F5-D5E.title" = "Text Colour";
 
 /* Class = "NSButtonCell"; title = "Activate Textual"; ObjectID = "zy8-ma-OJS"; */
 "zy8-ma-OJS.title" = "Activate Textual";

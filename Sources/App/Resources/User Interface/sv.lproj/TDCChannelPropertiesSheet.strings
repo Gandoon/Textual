@@ -1,105 +1,105 @@
 
 /* Class = "NSWindow"; title = "Channel Properties"; ObjectID = "5"; */
-"5.title" = "Channel Properties";
+"5.title" = "Kanalegenskaper";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "123"; */
-"123.ibExternalAccessibilityDescription" = "Channel Name";
+"123.ibExternalAccessibilityDescription" = "Kanalnamn";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Optional Channel Password"; ObjectID = "124"; */
-"124.ibExternalAccessibilityDescription" = "Optional Channel Password";
+"124.ibExternalAccessibilityDescription" = "Valfritt kanallösenord";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "129"; */
-"129.placeholderString" = "Optional";
+"129.placeholderString" = "Valfritt";
 
 /* Class = "NSTextFieldCell"; placeholderString = "#example"; ObjectID = "130"; */
-"130.placeholderString" = "#example";
+"130.placeholderString" = "#exempel";
 
 /* Class = "NSButtonCell"; title = "Join on connect"; ObjectID = "131"; */
-"131.title" = "Join on connect";
+"131.title" = "Gå med vid anslutning";
 
 /* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "134"; */
-"134.title" = "Name:";
+"134.title" = "Namn:";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "135"; */
-"135.title" = "Password:";
+"135.title" = "Lösenord:";
 
 /* Class = "NSButtonCell"; title = "Show notifications for channel"; ObjectID = "141"; */
-"141.title" = "Show notifications for channel";
+"141.title" = "Visa notiser för kanal";
 
 /* Class = "NSButtonCell"; title = "Disable highlights"; ObjectID = "142"; */
-"142.title" = "Disable highlights";
+"142.title" = "Avaktivera omnämnanden";
 
 /* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "Navigation Bar"; ObjectID = "185"; */
-"185.ibExternalAccessibilityDescription" = "Navigation Bar";
+"185.ibExternalAccessibilityDescription" = "Navigeringsfält";
 
 /* Class = "NSSegmentedCell"; 186.ibShadowedLabels[0] = "General"; ObjectID = "186"; */
-"186.ibShadowedLabels[0]" = "General";
+"186.ibShadowedLabels[0]" = "Allmänt";
 
 /* Class = "NSSegmentedCell"; 186.ibShadowedLabels[1] = "Defaults"; ObjectID = "186"; */
-"186.ibShadowedLabels[1]" = "Defaults";
+"186.ibShadowedLabels[1]" = "Förval";
 
 /* Class = "NSSegmentedCell"; 186.ibShadowedLabels[2] = "Notifications"; ObjectID = "186"; */
-"186.ibShadowedLabels[2]" = "Notifications";
+"186.ibShadowedLabels[2]" = "Notiser";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Default topic to set if channel is empty when joined."; ObjectID = "250"; */
-"250.ibExternalAccessibilityDescription" = "Default topic to set if channel is empty when joined.";
+"250.ibExternalAccessibilityDescription" = "Förvalt ämne för kanalen om den är tom.";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Default set of modes to apply if channel is empty when joined."; ObjectID = "251"; */
-"251.ibExternalAccessibilityDescription" = "Default set of modes to apply if channel is empty when joined.";
+"251.ibExternalAccessibilityDescription" = "Förvalda lägen för kanalen om den är tom.";
 
 /* Class = "NSTextFieldCell"; title = "Modes:"; ObjectID = "267"; */
-"267.title" = "Modes:";
+"267.title" = "Lägen:";
 
 /* Class = "NSTextFieldCell"; title = "Topic:"; ObjectID = "268"; */
-"268.title" = "Topic:";
+"268.title" = "Ämne:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "269"; */
-"269.placeholderString" = "Optional";
+"269.placeholderString" = "Valfritt";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "270"; */
-"270.placeholderString" = "Optional";
+"270.placeholderString" = "Valfritt";
 
 /* Class = "NSButtonCell"; title = "Disable inline media"; ObjectID = "280"; */
-"280.title" = "Disable inline media";
+"280.title" = "Avaktivera inline-media";
 
 /* Class = "NSButtonCell"; title = "Disable general event messages"; ObjectID = "282"; */
-"282.title" = "Disable general event messages";
+"282.title" = "Avaktivera allmänna händelsemeddelanden";
 
 /* Class = "NSButtonCell"; title = "Show unread count in channel list"; ObjectID = "357"; */
-"357.title" = "Show unread count in channel list";
+"357.title" = "Visa antal olästa inlägg i kanallistan";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "3uS-Ah-Kpg"; */
-"3uS-Ah-Kpg.title" = "Cancel";
+"3uS-Ah-Kpg.title" = "Avbryt";
 
 /* Class = "NSTextFieldCell"; title = "When you give a channel a label, that label will appear in the Server List in lieu of the channel name."; ObjectID = "F9e-qw-7tY"; */
-"F9e-qw-7tY.title" = "When you give a channel a label, that label will appear in the Server List in lieu of the channel name.";
+"F9e-qw-7tY.title" = "När du anger en etikett för en kanal kommer etiketten visas istället för kanalnamnet i serverlistan.";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "I2R-pI-UwU"; */
-"I2R-pI-UwU.ibExternalAccessibilityDescription" = "Channel Name";
+"I2R-pI-UwU.ibExternalAccessibilityDescription" = "Kanalnamn";
 
 /* Class = "NSButtonCell"; title = "Show inline media"; ObjectID = "K3N-Px-fl5"; */
-"K3N-Px-fl5.title" = "Show inline media";
+"K3N-Px-fl5.title" = "Visa inline-media";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "RKI-lY-4zM"; */
-"RKI-lY-4zM.ibExternalAccessibilityDescription" = "Save";
+"RKI-lY-4zM.ibExternalAccessibilityDescription" = "Spara";
 
 /* Class = "NSTextFieldCell"; title = "Values to apply if the channel is empty:"; ObjectID = "Yvg-62-eMH"; */
-"Yvg-62-eMH.title" = "Values to apply if the channel is empty:";
+"Yvg-62-eMH.title" = "Värden som appliceras om kanalen är tom:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "fvI-0j-4a5"; */
-"fvI-0j-4a5.placeholderString" = "Optional";
+"fvI-0j-4a5.placeholderString" = "Valfritt";
 
 /* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "mot-Qn-Rih"; */
-"mot-Qn-Rih.title" = "Label:";
+"mot-Qn-Rih.title" = "Etikett:";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "p4S-DM-ZI2"; */
-"p4S-DM-ZI2.ibExternalAccessibilityDescription" = "Cancel";
+"p4S-DM-ZI2.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSTextFieldCell"; title = ") to revert to default, app-wide value."; ObjectID = "pqH-JA-zfn"; */
-"pqH-JA-zfn.title" = ") to revert to default, app-wide value.";
+"pqH-JA-zfn.title" = ") för att återgå till förvalda, programspecifika värden.";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "vut-UU-V9o"; */
-"vut-UU-V9o.title" = "Save";
+"vut-UU-V9o.title" = "Spara";
 
 /* Class = "NSTextFieldCell"; title = "Change checkbox to mixed state ("; ObjectID = "xfF-kd-SbM"; */
-"xfF-kd-SbM.title" = "Change checkbox to mixed state (";
+"xfF-kd-SbM.title" = "Ändra förkryssat till blandat tillstånd (";

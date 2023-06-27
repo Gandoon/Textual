@@ -24,7 +24,7 @@
 "530.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSTextFieldCell"; title = "Nickname:"; ObjectID = "542"; */
-"542.title" = "Nickname:";
+"542.title" = "Smeknamn:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Enter any nickname to track"; ObjectID = "543"; */
 "543.placeholderString" = "Ange smeknamn att följa";
@@ -36,7 +36,7 @@
 "552.title" = "Spara";
 
 /* Class = "NSButtonCell"; title = "Display message when user becomes available"; ObjectID = "564"; */
-"564.title" = "Visa meddelande när användaren blir tillgänglig";
+"564.title" = "Visa ett meddelande när användaren blir tillgänglig";
 
 /* Class = "NSTextFieldCell"; title = "*!*@* (matches every possible user — not recommended)"; ObjectID = "0fp-nP-7zU"; */
 "0fp-nP-7zU.title" = "*!*@* (matchar alla möjliga användare — rekommenderas ej)";
@@ -60,7 +60,7 @@
 "NzA-7H-3Pn.title" = "Exempel:";
 
 /* Class = "NSButtonCell"; title = "Client-to-Client (CTCP)"; ObjectID = "PJ9-Th-HC2"; */
-"PJ9-Th-HC2.title" = "Client-to-Client (CTCP)";
+"PJ9-Th-HC2.title" = "Klient-till-klient (CTCP)";
 
 /* Class = "NSButtonCell"; title = "Public Messages"; ObjectID = "PzG-Hm-oqC"; */
 "PzG-Hm-oqC.title" = "Offentliga meddelanden";
@@ -78,10 +78,10 @@
 "qWA-65-snn.title" = "Allmänna händelsemeddelanden";
 
 /* Class = "NSButtonCell"; title = "Private Highlights"; ObjectID = "sUM-Gf-Bag"; */
-"sUM-Gf-Bag.title" = "Privata höjdpunkter";
+"sUM-Gf-Bag.title" = "Privata omnämnanden";
 
 /* Class = "NSTextFieldCell"; title = "*!*@*.info (matches any address ending in “.info”)"; ObjectID = "uSx-4A-ovI"; */
 "uSx-4A-ovI.title" = "*!*@*.info (matchar alla addresser som slutar med “.info”)";
 
 /* Class = "NSButtonCell"; title = "Public Highlights"; ObjectID = "wrU-ta-QxO"; */
-"wrU-ta-QxO.title" = "Offentliga höjdpunkter";
+"wrU-ta-QxO.title" = "Omnämnanden i kanaler";

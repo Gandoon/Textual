@@ -6,13 +6,13 @@
 "HVO-sY-mGM.title" = "Save";
 
 /* Class = "NSTextFieldCell"; title = "Change nickname color to:"; ObjectID = "Ril-X5-ce2"; */
-"Ril-X5-ce2.title" = "Change nickname color to:";
+"Ril-X5-ce2.title" = "Change nickname colour to:";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "SNT-UD-yxI"; */
 "SNT-UD-yxI.ibExternalAccessibilityDescription" = "Cancel";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Reset Color for Nickname"; ObjectID = "Wi2-Ib-F3T"; */
-"Wi2-Ib-F3T.ibExternalAccessibilityDescription" = "Reset Color for Nickname";
+"Wi2-Ib-F3T.ibExternalAccessibilityDescription" = "Reset Colour for Nickname";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "bdT-W6-ebh"; */
 "bdT-W6-ebh.ibExternalAccessibilityDescription" = "Save";

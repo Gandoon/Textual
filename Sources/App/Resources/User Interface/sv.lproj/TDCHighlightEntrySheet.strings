@@ -1,6 +1,6 @@
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "302"; */
-"302.title" = "Window";
+"302.title" = "Fönster";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Highlight Match Type"; ObjectID = "304"; */
 "304.ibExternalAccessibilityDescription" = "Highlight Match Type";
@@ -9,37 +9,37 @@
 "306.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "Match"; ObjectID = "307"; */
-"307.title" = "Match";
+"307.title" = "Matcha";
 
 /* Class = "NSMenuItem"; title = "Exclude"; ObjectID = "308"; */
-"308.title" = "Exclude";
+"308.title" = "Uteslut";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Highlight Match Keyword"; ObjectID = "310"; */
-"310.ibExternalAccessibilityDescription" = "Highlight Match Keyword";
+"310.ibExternalAccessibilityDescription" = "Omnämnanden matchar nyckelordet";
 
 /* Class = "NSTextFieldCell"; title = "the keyword"; ObjectID = "313"; */
-"313.title" = "the keyword";
+"313.title" = "nyckelordet";
 
 /* Class = "NSTextFieldCell"; title = "in the channel"; ObjectID = "315"; */
-"315.title" = "in the channel";
+"315.title" = "i kanalen";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Limit Highlight to Channel"; ObjectID = "316"; */
-"316.ibExternalAccessibilityDescription" = "Limit Highlight to Channel";
+"316.ibExternalAccessibilityDescription" = "Begränsa omnämnande till Kanal";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "318"; */
 "318.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "All Channels"; ObjectID = "319"; */
-"319.title" = "All Channels";
+"319.title" = "Alla kanaler";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "323"; */
-"323.ibExternalAccessibilityDescription" = "Cancel";
+"323.ibExternalAccessibilityDescription" = "Ångra";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "324"; */
-"324.title" = "Cancel";
+"324.title" = "Ångra";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "325"; */
-"325.ibExternalAccessibilityDescription" = "Save";
+"325.ibExternalAccessibilityDescription" = "Spara";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "326"; */
-"326.title" = "Save";
+"326.title" = "Spara";

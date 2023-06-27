@@ -1,156 +1,156 @@
 
 /* Class = "NSWindow"; title = "Textual Preferences"; ObjectID = "4929"; */
-"4929.title" = "Textual Preferences";
+"4929.title" = "Textual – Inställningar";
 
 /* Class = "NSButtonCell"; title = "Join channel on double click"; ObjectID = "0Jk-qA-tn1"; */
-"0Jk-qA-tn1.title" = "Join channel on double click";
+"0Jk-qA-tn1.title" = "Dubbelklicka för att gå med i kanal";
 
 /* Class = "NSTextFieldCell"; title = "pixels wide"; ObjectID = "0W1-eT-Pcg"; */
-"0W1-eT-Pcg.title" = "pixels wide";
+"0W1-eT-Pcg.title" = "pixlar bred";
 
 /* Class = "NSButtonCell"; title = "User list info popover updates while scrolling"; ObjectID = "0ZL-Zz-8el"; */
-"0ZL-Zz-8el.title" = "User list info popover updates while scrolling";
+"0ZL-Zz-8el.title" = "Användarlistans info-popover uppdateras vid scrollning";
 
 /* Class = "NSButtonCell"; title = "Channel name"; ObjectID = "0Zc-1M-sD7"; */
-"0Zc-1M-sD7.title" = "Channel name";
+"0Zc-1M-sD7.title" = "Kanalnamn";
 
 /* Class = "NSButtonCell"; title = "Load everything"; ObjectID = "0hr-Jw-zED"; */
-"0hr-Jw-zED.title" = "Load everything";
+"0hr-Jw-zED.title" = "Läs in allt";
 
 /* Class = "NSTextFieldCell"; title = "0.5"; ObjectID = "0lT-WD-kfS"; */
 "0lT-WD-kfS.title" = "0.5";
 
 /* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "0nX-n7-cOc"; */
-"0nX-n7-cOc.title" = "Style:";
+"0nX-n7-cOc.title" = "Stil:";
 
 /* Class = "NSTextFieldCell"; title = "(Includes Ban Length)"; ObjectID = "10O-F4-8BP"; */
-"10O-F4-8BP.title" = "(Includes Ban Length)";
+"10O-F4-8BP.title" = "(Inkluderar bann-längd)";
 
 /* Class = "NSButtonCell"; title = "Open In Finder"; ObjectID = "15d-wM-dyV"; */
-"15d-wM-dyV.title" = "Open In Finder";
+"15d-wM-dyV.title" = "Öppna i Finder";
 
 /* Class = "NSButtonCell"; title = "Nickname"; ObjectID = "1Ug-zc-jEr"; */
-"1Ug-zc-jEr.title" = "Nickname";
+"1Ug-zc-jEr.title" = "Smeknamn";
 
 /* Class = "NSTextFieldCell"; title = "These characters are often combined to form “Zalgo text”, which is used by some users to disrupt chatrooms."; ObjectID = "1Vl-Us-7KM"; */
-"1Vl-Us-7KM.title" = "These characters are often combined to form “Zalgo text”, which is used by some users to disrupt chatrooms.";
+"1Vl-Us-7KM.title" = "Dessa tecken är ofta kombinerade i en så kallad “Zalgo text”, använd av somliga användare för att störa chatrum.";
 
 /* Class = "NSTabViewItem"; label = "Developers"; ObjectID = "1bZ-1x-Ua9"; */
-"1bZ-1x-Ua9.label" = "Developers";
+"1bZ-1x-Ua9.label" = "Utvecklare";
 
 /* Class = "NSMenuItem"; title = "Normal"; ObjectID = "1rW-DR-UZS"; */
 "1rW-DR-UZS.title" = "Normal";
 
 /* Class = "NSTextFieldCell"; title = "Hostmask Ban Format:"; ObjectID = "1sH-tB-X5p"; */
-"1sH-tB-X5p.title" = "Hostmask Ban Format:";
+"1sH-tB-X5p.title" = "Bann-format för värdmask:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "127.0.0.1"; ObjectID = "26x-nD-BMT"; */
 "26x-nD-BMT.placeholderString" = "127.0.0.1";
 
 /* Class = "NSTextFieldCell"; title = "These colors represent the various user modes shown on the user list for each channel."; ObjectID = "2QW-Qh-FdK"; */
-"2QW-Qh-FdK.title" = "These colors represent the various user modes shown on the user list for each channel.";
+"2QW-Qh-FdK.title" = "Dessa färger representerar de olika användarlägena som visas i användarlistan för varje kanal.";
 
 /* Class = "NSButtonCell"; title = "Enable App Nap"; ObjectID = "2nA-D4-FnZ"; */
-"2nA-D4-FnZ.title" = "Enable App Nap";
+"2nA-D4-FnZ.title" = "Tillåt App Nap";
 
 /* Class = "NSTextFieldCell"; title = "iCloud Drive is not allowed as a logging location because there is no way to avoid collisions from another copy of Textual that may be logging at the same time."; ObjectID = "2rT-lJ-27T"; */
-"2rT-lJ-27T.title" = "iCloud Drive is not allowed as a logging location because there is no way to avoid collisions from another copy of Textual that may be logging at the same time.";
+"2rT-lJ-27T.title" = "iCloud Drive kan inte användas som mål för loggar då det inte finns något sätt att undvika kollisioner med en annan Textual-kopia som loggar samtidigt.";
 
 /* Class = "NSButtonCell"; title = "Only inline images and videos"; ObjectID = "2vc-4Q-CJ8"; */
-"2vc-4Q-CJ8.title" = "Only inline images and videos";
+"2vc-4Q-CJ8.title" = "Bädda endast in bilder och videor";
 
 /* Class = "NSTextFieldCell"; title = "Do not notify you of a highlight if 75% of a message consists of ten or more nicknames."; ObjectID = "34J-sn-YZe"; */
-"34J-sn-YZe.title" = "Do not notify you of a highlight if 75% of a message consists of ten or more nicknames.";
+"34J-sn-YZe.title" = "Notifiera inte om ett omnämnande om 75% av ett meddelande består av tio eller fler smeknamn.";
 
 /* Class = "NSButtonCell"; title = "Show images, videos, and other media inline with chat"; ObjectID = "3YM-rY-vwI"; */
-"3YM-rY-vwI.title" = "Show images, videos, and other media inline with chat";
+"3YM-rY-vwI.title" = "Visa bilder, videor, och annan media inbäddad i chat";
 
 /* Class = "NSTextFieldCell"; title = "You will be asked where to save downloaded files each time you start a file transfer if a destination is not configured."; ObjectID = "3k5-n4-vrU"; */
-"3k5-n4-vrU.title" = "You will be asked where to save downloaded files each time you start a file transfer if a destination is not configured.";
+"3k5-n4-vrU.title" = "Du kommer frågas var du vill spara nedladdade filer varje gång du startar en filöverföring om du inte väljer en nedladdningsmapp här.";
 
 /* Class = "NSMenuItem"; title = "Default Identity"; ObjectID = "3qn-2i-mRk"; */
-"3qn-2i-mRk.title" = "Default Identity";
+"3qn-2i-mRk.title" = "Standardidentitet";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ %{value2}@pt"; ObjectID = "421-AF-MFO"; */
 "421-AF-MFO.ibShadowedDisplayPattern" = "%{value1}@ %{value2}@pt";
 
 /* Class = "NSButtonCell"; title = "Learn more from Official Website"; ObjectID = "45H-rX-vfm"; */
-"45H-rX-vfm.title" = "Learn more from Official Website";
+"45H-rX-vfm.title" = "Ta reda på mer på den officiella websidan";
 
 /* Class = "NSButtonCell"; title = "Hide the buttons left of the input text field"; ObjectID = "45X-la-mo0"; */
-"45X-la-mo0.title" = "Hide the buttons left of the input text field";
+"45X-la-mo0.title" = "Göm knapparna till vänster om imatningsfältet";
 
 /* Class = "NSTextFieldCell"; title = "to"; ObjectID = "49T-fc-D6u"; */
-"49T-fc-D6u.title" = "to";
+"49T-fc-D6u.title" = "till";
 
 /* Class = "NSTextFieldCell"; title = "iCloud Custom Addons Location:"; ObjectID = "4GT-Up-JqK"; */
-"4GT-Up-JqK.title" = "iCloud Custom Addons Location:";
+"4GT-Up-JqK.title" = "Plats för anpassade tillägg på iCloud:";
 
 /* Class = "NSButtonCell"; title = "Right to left text"; ObjectID = "4PT-nq-SYL"; */
-"4PT-nq-SYL.title" = "Right to left text";
+"4PT-nq-SYL.title" = "Textriktning från höger till vänster";
 
 /* Class = "NSButtonCell"; title = "Server list and user list appear transparent"; ObjectID = "4Sf-cU-A93"; */
-"4Sf-cU-A93.title" = "Server list and user list appear transparent";
+"4Sf-cU-A93.title" = "Serverlistan och användarlistan visas genomskinliga";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4hq-nK-sNm"; */
 "4hq-nK-sNm.title" = "OtherViews";
 
 /* Class = "NSTextFieldCell"; title = "Command + W key action:"; ObjectID = "4oC-Tr-qfm"; */
-"4oC-Tr-qfm.title" = "Command + W key action:";
+"4oC-Tr-qfm.title" = "Kommando + W utför:";
 
 /* Class = "NSTextFieldCell"; title = "Nickname Format:"; ObjectID = "560-ss-Wf5"; */
-"560-ss-Wf5.title" = "Nickname Format:";
+"560-ss-Wf5.title" = "Smeknamnsformat:";
 
 /* Class = "NSMenuItem"; title = "Top to bottom"; ObjectID = "5M2-Hy-cjn"; */
-"5M2-Hy-cjn.title" = "Top to bottom";
+"5M2-Hy-cjn.title" = "Uppifrån och ner";
 
 /* Class = "NSToolbarItem"; label = "Behavior"; ObjectID = "5Zi-85-Fdl"; */
-"5Zi-85-Fdl.label" = "Behavior";
+"5Zi-85-Fdl.label" = "Beteende";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Behavior"; ObjectID = "5Zi-85-Fdl"; */
-"5Zi-85-Fdl.paletteLabel" = "Behavior";
+"5Zi-85-Fdl.paletteLabel" = "Beteende";
 
 /* Class = "NSMenuItem"; title = "15 Megabytes"; ObjectID = "5ca-8T-UYx"; */
-"5ca-8T-UYx.title" = "15 Megabytes";
+"5ca-8T-UYx.title" = "15 Megabyte";
 
 /* Class = "NSToolbarItem"; label = "Highlights"; ObjectID = "6P8-n2-nNV"; */
-"6P8-n2-nNV.label" = "Highlights";
+"6P8-n2-nNV.label" = "Markeringar";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Highlights"; ObjectID = "6P8-n2-nNV"; */
-"6P8-n2-nNV.paletteLabel" = "Highlights";
+"6P8-n2-nNV.paletteLabel" = "Markeringar";
 
 /* Class = "NSSlider"; ibExternalAccessibilityDescription = "Main Window Transparency Percent"; ObjectID = "6Uk-IU-HIb"; */
-"6Uk-IU-HIb.ibExternalAccessibilityDescription" = "Main Window Transparency Percent";
+"6Uk-IU-HIb.ibExternalAccessibilityDescription" = "Genomskinlighet för huvudfönster i procent";
 
 /* Class = "NSTextFieldCell"; title = "Default Shun Reason:"; ObjectID = "6vn-da-cA0"; */
-"6vn-da-cA0.title" = "Default Shun Reason:";
+"6vn-da-cA0.title" = "Förvald anledning för förskjutning (shun):";
 
 /* Class = "NSTabViewItem"; label = "Scrollback"; ObjectID = "77x-1S-pOH"; */
 "77x-1S-pOH.label" = "Scrollback";
 
 /* Class = "NSButtonCell"; title = "Open browser links in the background"; ObjectID = "78p-ZY-hL0"; */
-"78p-ZY-hL0.title" = "Open browser links in the background";
+"78p-ZY-hL0.title" = "Öppna browser-länkar i bakgrunden";
 
 /* Class = "NSButtonCell"; title = "Use “x” to indicate user with no mode set in user list"; ObjectID = "8DQ-Jg-CgL"; */
-"8DQ-Jg-CgL.title" = "Use “x” to indicate user with no mode set in user list";
+"8DQ-Jg-CgL.title" = "Använd “x” för att markera användare utan satt läge i användarlistan";
 
 /* Class = "NSTextFieldCell"; title = "Do not synchronize anything other than connections."; ObjectID = "8GI-9E-vxD"; */
-"8GI-9E-vxD.title" = "Do not synchronize anything other than connections.";
+"8GI-9E-vxD.title" = "Synkronisera endast anslutningar.";
 
 /* Class = "NSButtonCell"; title = "Learn more about how it works in Textual"; ObjectID = "8KP-Mk-tom"; */
-"8KP-Mk-tom.title" = "Learn more about how it works in Textual";
+"8KP-Mk-tom.title" = "Lär dig mer om hur det fungerar i Textual";
 
 /* Class = "NSTextFieldCell"; title = "Hold the Option key (⌥) while selecting text to temporarily disable this feature."; ObjectID = "8Nk-L2-mjZ"; */
-"8Nk-L2-mjZ.title" = "Hold the Option key (⌥) while selecting text to temporarily disable this feature.";
+"8Nk-L2-mjZ.title" = "Håll nere alternativtangenten (⌥) när text markeras för att temporärt avaktivera denna funktion.";
 
 /* Class = "NSTextFieldCell"; title = "Default Kick Reason:"; ObjectID = "8Tj-Z2-BEA"; */
-"8Tj-Z2-BEA.title" = "Default Kick Reason:";
+"8Tj-Z2-BEA.title" = "Förvald anledning för utsparkning:";
 
 /* Class = "NSTextFieldCell"; title = "Main window appearance:"; ObjectID = "8Z0-DR-TbO"; */
-"8Z0-DR-TbO.title" = "Main window appearance:";
+"8Z0-DR-TbO.title" = "Fönsterutseende:";
 
 /* Class = "NSTextFieldCell"; title = "Download files to the folder:"; ObjectID = "8Zx-Jz-9wf"; */
-"8Zx-Jz-9wf.title" = "Download files to the folder:";
+"8Zx-Jz-9wf.title" = "Ladda ner filer till mappen:";
 
 /* Class = "NSComboBoxCell"; 8gE-fC-w0O.ibShadowedObjectValues[0] = "100"; ObjectID = "8gE-fC-w0O"; */
 "8gE-fC-w0O.ibShadowedObjectValues[0]" = "100";
@@ -186,22 +186,22 @@
 "8gE-fC-w0O.ibShadowedObjectValues[10]" = "5000";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Highlight Match Type"; ObjectID = "8oP-r2-z2R"; */
-"8oP-r2-z2R.ibExternalAccessibilityDescription" = "Highlight Match Type";
+"8oP-r2-z2R.ibExternalAccessibilityDescription" = "Matchningstyp för markering";
 
 /* Class = "NSButtonCell"; title = "Show number of unread channel messages on Textual's Dock icon"; ObjectID = "8oW-yL-fGe"; */
-"8oW-yL-fGe.title" = "Show number of unread channel messages on Textual's Dock icon";
+"8oW-yL-fGe.title" = "Visa antal olästa kanalmeddelanden på Textuals Dock-ikon";
 
 /* Class = "NSTextFieldCell"; title = "Scrollback Visible Limit:"; ObjectID = "9Aa-8n-7T3"; */
-"9Aa-8n-7T3.title" = "Scrollback Visible Limit:";
+"9Aa-8n-7T3.title" = "Synlig gräns för sparad scrollback:";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Current Value: %{value1}@"; ObjectID = "9bt-Ac-FRt"; */
-"9bt-Ac-FRt.ibShadowedDisplayPattern" = "Current Value: %{value1}@";
+"9bt-Ac-FRt.ibShadowedDisplayPattern" = "Nuvarande värde: %{value1}@";
 
 /* Class = "NSButtonCell"; title = "Automatically ignore highlight spam"; ObjectID = "9iB-R9-pX3"; */
-"9iB-R9-pX3.title" = "Automatically ignore highlight spam";
+"9iB-R9-pX3.title" = "Ignorera markeringsspam automatiskt";
 
 /* Class = "NSButtonCell"; title = "Highlight current nickname"; ObjectID = "9of-Kp-Asv"; */
-"9of-Kp-Asv.title" = "Highlight current nickname";
+"9of-Kp-Asv.title" = "Markera nuvarande smeknamn";
 
 /* Class = "NSComboBoxCell"; AGK-eb-sBS.ibShadowedObjectValues[0] = "1000"; ObjectID = "AGK-eb-sBS"; */
 "AGK-eb-sBS.ibShadowedObjectValues[0]" = "1000";
@@ -234,64 +234,64 @@
 "AGK-eb-sBS.ibShadowedObjectValues[9]" = "50000";
 
 /* Class = "NSMenuItem"; title = "Disconnect from Selected Server"; ObjectID = "AGV-XB-vKT"; */
-"AGV-XB-vKT.title" = "Disconnect from Selected Server";
+"AGV-XB-vKT.title" = "Koppla ner från vald server";
 
 /* Class = "NSMenuItem"; title = "Open Dialog"; ObjectID = "Ab8-sW-zjf"; */
-"Ab8-sW-zjf.title" = "Open Dialog";
+"Ab8-sW-zjf.title" = "Öppna dialog";
 
 /* Class = "NSMenuItem"; title = "Off-the-Record Messaging"; ObjectID = "Abd-Fd-gqU"; */
-"Abd-Fd-gqU.title" = "Off-the-Record Messaging";
+"Abd-Fd-gqU.title" = "Off-the-Record-meddelanden";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "File Transfer Port Range First Port"; ObjectID = "B1H-Gt-xIn"; */
-"B1H-Gt-xIn.ibExternalAccessibilityDescription" = "File Transfer Port Range First Port";
+"B1H-Gt-xIn.ibExternalAccessibilityDescription" = "Portomfång för filöverföringar – Första port";
 
 /* Class = "NSMenuItem"; title = "Complete nicknames, channels, and commands"; ObjectID = "BB3-hI-0sU"; */
-"BB3-hI-0sU.title" = "Complete nicknames, channels, and commands";
+"BB3-hI-0sU.title" = "Komplettera smeknamn, kanaler, och kommandon";
 
 /* Class = "NSButtonCell"; title = "Show server Message of the Day (MOTD)"; ObjectID = "BD5-Mg-W7N"; */
-"BD5-Mg-W7N.title" = "Show server Message of the Day (MOTD)";
+"BD5-Mg-W7N.title" = "Visa serverns Message of the Day (MOTD)";
 
 /* Class = "NSTextFieldCell"; placeholderString = "1096"; ObjectID = "BKU-eY-ALL"; */
 "BKU-eY-ALL.placeholderString" = "1096";
 
 /* Class = "NSToolbarItem"; label = "Addons"; ObjectID = "BVW-Pf-3Qn"; */
-"BVW-Pf-3Qn.label" = "Addons";
+"BVW-Pf-3Qn.label" = "Tillägg";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Addons"; ObjectID = "BVW-Pf-3Qn"; */
-"BVW-Pf-3Qn.paletteLabel" = "Addons";
+"BVW-Pf-3Qn.paletteLabel" = "Tillägg";
 
 /* Class = "NSMenuItem"; title = "Ask router with myip.codeux.com as fallback"; ObjectID = "C0d-vg-gP1"; */
-"C0d-vg-gP1.title" = "Ask router with myip.codeux.com as fallback";
+"C0d-vg-gP1.title" = "Fråga växel med myip.codeux.com som reserv";
 
 /* Class = "NSTextFieldCell"; title = "Manually entered IP address:"; ObjectID = "CJm-Pw-2rG"; */
-"CJm-Pw-2rG.title" = "Manually entered IP address:";
+"CJm-Pw-2rG.title" = "Manuellt angiven IP-adress:";
 
 /* Class = "NSMenuItem"; title = "100 Megabytes"; ObjectID = "Cm7-go-Ofo"; */
-"Cm7-go-Ofo.title" = "100 Megabytes";
+"Cm7-go-Ofo.title" = "100 Megabyte";
 
 /* Class = "NSMenuItem"; title = "Your Mac's Default"; ObjectID = "Css-S7-CuP"; */
-"Css-S7-CuP.title" = "Your Mac's Default";
+"Css-S7-CuP.title" = "Din Macs förinställning";
 
 /* Class = "NSTextFieldCell"; title = "Voiced User (+v):"; ObjectID = "D4D-ZL-ab0"; */
-"D4D-ZL-ab0.title" = "Voiced User (+v):";
+"D4D-ZL-ab0.title" = "Användare med voice (+v):";
 
 /* Class = "NSButtonCell"; title = "Show mode symbol in front of inline nicknames"; ObjectID = "D6Y-wP-JfC"; */
-"D6Y-wP-JfC.title" = "Show mode symbol in front of inline nicknames";
+"D6Y-wP-JfC.title" = "Visa användarlägessymbol före inline-smeknamn";
 
 /* Class = "NSTextFieldCell"; title = "The following information will be filled in when creating a NEW connection."; ObjectID = "DJW-g4-9G4"; */
-"DJW-g4-9G4.title" = "The following information will be filled in when creating a NEW connection.";
+"DJW-g4-9G4.title" = "Följande information kommer fyllas i när en NY anslutning skapas.";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Excluded Keyword"; ObjectID = "Dqe-Ns-Qnk"; */
-"Dqe-Ns-Qnk.ibExternalAccessibilityDescription" = "Excluded Keyword";
+"Dqe-Ns-Qnk.ibExternalAccessibilityDescription" = "Exkluderade nyckelord";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Dqe-Ns-Qnk"; */
-"Dqe-Ns-Qnk.title" = "Text Cell";
+"Dqe-Ns-Qnk.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; title = "Scale to a maximum of"; ObjectID = "E67-vU-c3g"; */
-"E67-vU-c3g.title" = "Scale to a maximum of";
+"E67-vU-c3g.title" = "Skala till maximalt";
 
 /* Class = "NSButtonCell"; title = "Private Message"; ObjectID = "EZN-9J-FUP"; */
-"EZN-9J-FUP.title" = "Private Message";
+"EZN-9J-FUP.title" = "Privat meddelande";
 
 /* Class = "NSComboBoxCell"; title = "<%@%n>"; ObjectID = "EZr-cF-H8a"; */
 "EZr-cF-H8a.title" = "<%@%n>";
@@ -315,175 +315,175 @@
 "EZr-cF-H8a.ibShadowedObjectValues[5]" = "<%@%-9n>";
 
 /* Class = "NSButtonCell"; title = "Enable Off-the-Record Messaging"; ObjectID = "Ebq-y2-sIl"; */
-"Ebq-y2-sIl.title" = "Enable Off-the-Record Messaging";
+"Ebq-y2-sIl.title" = "Slå på Off-the-Record-meddelanden";
 
 /* Class = "NSTextFieldCell"; title = "Nickname:"; ObjectID = "Ep5-4B-niV"; */
-"Ep5-4B-niV.title" = "Nickname:";
+"Ep5-4B-niV.title" = "Smeknamn:";
 
 /* Class = "NSButtonCell"; title = "Only share connections between devices"; ObjectID = "EyC-rV-GiN"; */
-"EyC-rV-GiN.title" = "Only share connections between devices";
+"EyC-rV-GiN.title" = "Dela endast anslutningar mellan enheter";
 
 /* Class = "NSMenuItem"; title = "4 Megabytes"; ObjectID = "F4O-wb-ucB"; */
-"F4O-wb-ucB.title" = "4 Megabytes";
+"F4O-wb-ucB.title" = "4 Megabyte";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Tab Key Action"; ObjectID = "FCb-0i-eUL"; */
-"FCb-0i-eUL.ibExternalAccessibilityDescription" = "Tab Key Action";
+"FCb-0i-eUL.ibExternalAccessibilityDescription" = "Åtgärd vid användning av Tab-tangenten";
 
 /* Class = "NSMenuItem"; title = "Compatibility"; ObjectID = "FDb-XE-P95"; */
-"FDb-XE-P95.title" = "Compatibility";
+"FDb-XE-P95.title" = "Kompatibilitet";
 
 /* Class = "NSTextFieldCell"; title = "All fields are optional"; ObjectID = "FIU-xu-elQ"; */
-"FIU-xu-elQ.title" = "All fields are optional";
+"FIU-xu-elQ.title" = "Alla fält är valfria";
 
 /* Class = "NSMenuItem"; title = "Whois User"; ObjectID = "FMM-aC-dKv"; */
-"FMM-aC-dKv.title" = "Whois User";
+"FMM-aC-dKv.title" = "Whois på användare";
 
 /* Class = "NSButtonCell"; title = "Check grammar while typing"; ObjectID = "FSB-Bk-bvA"; */
-"FSB-Bk-bvA.title" = "Check grammar while typing";
+"FSB-Bk-bvA.title" = "Kontrollera grammatik medan jag skriver";
 
 /* Class = "NSMenuItem"; title = "Light"; ObjectID = "FcH-RG-lTN"; */
-"FcH-RG-lTN.title" = "Light";
+"FcH-RG-lTN.title" = "Ljust";
 
 /* Class = "NSButtonCell"; title = "/amsg and /ame apply to all connections"; ObjectID = "G2J-m9-ooO"; */
-"G2J-m9-ooO.title" = "/amsg and /ame apply to all connections";
+"G2J-m9-ooO.title" = "/amsg och /ame gäller för alla anslutningar";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Highlight Keyword"; ObjectID = "G7B-Kp-Af8"; */
-"G7B-Kp-Af8.ibExternalAccessibilityDescription" = "Remove Selected Highlight Keyword";
+"G7B-Kp-Af8.ibExternalAccessibilityDescription" = "Ta bort valt markeringsnyckelord";
 
 /* Class = "NSTextFieldCell"; title = "Channel Half-Operator (+h):"; ObjectID = "GSl-Ms-MKb"; */
-"GSl-Ms-MKb.title" = "Channel Half-Operator (+h):";
+"GSl-Ms-MKb.title" = "Halv-operatör i kanal (+h):";
 
 /* Class = "NSMenuItem"; title = "nickname!*@address"; ObjectID = "Gbn-5e-b0B"; */
 "Gbn-5e-b0B.title" = "nickname!*@address";
 
 /* Class = "NSToolbarItem"; label = "Style"; ObjectID = "Ggd-0D-rbs"; */
-"Ggd-0D-rbs.label" = "Style";
+"Ggd-0D-rbs.label" = "Stil";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Style"; ObjectID = "Ggd-0D-rbs"; */
-"Ggd-0D-rbs.paletteLabel" = "Style";
+"Ggd-0D-rbs.paletteLabel" = "Stil";
 
 /* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "GzW-ZW-4AC"; */
-"GzW-ZW-4AC.headerCell.title" = "Name";
+"GzW-ZW-4AC.headerCell.title" = "Namn";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Log Transcript Folder"; ObjectID = "H7x-dV-MZS"; */
-"H7x-dV-MZS.ibExternalAccessibilityDescription" = "Log Transcript Folder";
+"H7x-dV-MZS.ibExternalAccessibilityDescription" = "Plats för konversationsloggar";
 
 /* Class = "NSTabViewItem"; label = "Server List Colors"; ObjectID = "HCE-kN-Cdc"; */
-"HCE-kN-Cdc.label" = "Server List Colors";
+"HCE-kN-Cdc.label" = "Färger i serverlistan";
 
 /* Class = "NSButtonCell"; title = "Limit number of processes spawned by WebKit2"; ObjectID = "HKB-82-0XP"; */
-"HKB-82-0XP.title" = "Limit number of processes spawned by WebKit2";
+"HKB-82-0XP.title" = "Begränsa antalet processer som skapas av WebKit2";
 
 /* Class = "NSMenuItem"; title = "Incoming Data"; ObjectID = "HKa-gD-tv3"; */
-"HKa-gD-tv3.title" = "Incoming Data";
+"HKa-gD-tv3.title" = "Inkommande data";
 
 /* Class = "NSTabViewItem"; label = "General"; ObjectID = "Hhx-gR-bl2"; */
-"Hhx-gR-bl2.label" = "General";
+"Hhx-gR-bl2.label" = "Allmänt";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Main Text Field Text Size"; ObjectID = "Hw5-Ii-JYo"; */
-"Hw5-Ii-JYo.ibExternalAccessibilityDescription" = "Main Text Field Text Size";
+"Hw5-Ii-JYo.ibExternalAccessibilityDescription" = "Storlek på huvudtextfält";
 
 /* Class = "NSButtonCell"; title = "Connect to server on double click"; ObjectID = "HyM-B2-IjQ"; */
-"HyM-B2-IjQ.title" = "Connect to server on double click";
+"HyM-B2-IjQ.title" = "Dubbelklicka för att ansluta till server";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Current Style"; ObjectID = "ICa-wc-PBy"; */
-"ICa-wc-PBy.ibExternalAccessibilityDescription" = "Current Style";
+"ICa-wc-PBy.ibExternalAccessibilityDescription" = "Nuvarande stil";
 
 /* Class = "NSMenuItem"; title = "Humongous"; ObjectID = "IVc-2c-qAv"; */
-"IVc-2c-qAv.title" = "Humongous";
+"IVc-2c-qAv.title" = "Groteskt stor";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Tab Key Autocompletion Suffix"; ObjectID = "IYV-h0-Zl5"; */
-"IYV-h0-Zl5.ibExternalAccessibilityDescription" = "Tab Key Autocompletion Suffix";
+"IYV-h0-Zl5.ibExternalAccessibilityDescription" = "Autokompletteringssuffix för tab-tangenten";
 
 /* Class = "NSTextField"; ibExternalAccessibilityHelp = "Suffix to place after result when using the tab key to autocomplete a value."; ObjectID = "IYV-h0-Zl5"; */
-"IYV-h0-Zl5.ibExternalAccessibilityHelp" = "Suffix to place after result when using the tab key to autocomplete a value.";
+"IYV-h0-Zl5.ibExternalAccessibilityHelp" = "Suffix att lägga till efter resultatet när tab-tangenten används för att autokomplettera ett värde.";
 
 /* Class = "NSMenuItem"; title = "Installed Addons"; ObjectID = "Im1-Pd-BXM"; */
-"Im1-Pd-BXM.title" = "Installed Addons";
+"Im1-Pd-BXM.title" = "Installerade tillägg";
 
 /* Class = "NSTextFieldCell"; title = "10.0"; ObjectID = "ItF-pC-wlw"; */
-"ItF-pC-wlw.title" = "10.0";
+"ItF-pC-wlw.title" = "10,0";
 
 /* Class = "NSButtonCell"; title = "Just notify if there are updates"; ObjectID = "Iuw-ng-k0Q"; */
 "Iuw-ng-k0Q.title" = "Just notify if there are updates";
 
 /* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "Ivz-PB-a1d"; */
-"Ivz-PB-a1d.label" = "Advanced";
+"Ivz-PB-a1d.label" = "Avancerat";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Advanced Navigation Destinations"; ObjectID = "J0J-90-PIH"; */
-"J0J-90-PIH.ibExternalAccessibilityDescription" = "Advanced Navigation Destinations";
+"J0J-90-PIH.ibExternalAccessibilityDescription" = "Avancerade navigationsdestinationer";
 
 /* Class = "NSTextFieldCell"; title = "Current Value: 100"; ObjectID = "J0v-lX-lSI"; */
-"J0v-lX-lSI.title" = "Current Value: 100";
+"J0v-lX-lSI.title" = "Nuvarande värde: 100";
 
 /* Class = "NSButtonCell"; title = "Show number of unread private messages on Textual's Dock icon"; ObjectID = "JLd-nU-beO"; */
-"JLd-nU-beO.title" = "Show number of unread private messages on Textual's Dock icon";
+"JLd-nU-beO.title" = "Visa antal olästa privata meddelanden på Textuals Dock-ikon";
 
 /* Class = "NSMenuItem"; title = "Perform no action"; ObjectID = "JeZ-iW-YnD"; */
-"JeZ-iW-YnD.title" = "Perform no action";
+"JeZ-iW-YnD.title" = "Gör ingenting";
 
 /* Class = "NSTextFieldCell"; title = "Default Kill Reason:"; ObjectID = "KGB-V1-WkX"; */
-"KGB-V1-WkX.title" = "Default Kill Reason:";
+"KGB-V1-WkX.title" = "Förvald Kill-anledning:";
 
 /* Class = "NSTextFieldCell"; title = "Tab key Action:"; ObjectID = "KMv-Al-scp"; */
-"KMv-Al-scp.title" = "Tab key Action:";
+"KMv-Al-scp.title" = "Tab-tangenten:";
 
 /* Class = "NSMenuItem"; title = "Left to right"; ObjectID = "KQL-S9-iQv"; */
-"KQL-S9-iQv.title" = "Left to right";
+"KQL-S9-iQv.title" = "Vänster till höger";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "JohnDoe%{value1}@…"; ObjectID = "KQn-yW-WJK"; */
 "KQn-yW-WJK.ibShadowedDisplayPattern" = "JohnDoe%{value1}@…";
 
 /* Class = "NSTextFieldCell"; title = "The following custom commands are available:"; ObjectID = "KaT-z7-mCE"; */
-"KaT-z7-mCE.title" = "The following custom commands are available:";
+"KaT-z7-mCE.title" = "Följande anpassade kommandon är tillgängliga:";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Excluded Keyword"; ObjectID = "KgU-fm-1CL"; */
-"KgU-fm-1CL.ibExternalAccessibilityDescription" = "Add Excluded Keyword";
+"KgU-fm-1CL.ibExternalAccessibilityDescription" = "Lägg till exkluderat nyckelord";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "IP Address Detection Method"; ObjectID = "Kgc-ku-XGt"; */
-"Kgc-ku-XGt.ibExternalAccessibilityDescription" = "IP Address Detection Method";
+"Kgc-ku-XGt.ibExternalAccessibilityDescription" = "Metod för detektion av IP-adress";
 
 /* Class = "NSTextFieldCell"; title = "This preference works by disabling certain services.\nIt doesn't know whether a specific image or video is safe.\nYou should therefore not rely solely on this preference."; ObjectID = "Kjb-nu-50w"; */
-"Kjb-nu-50w.title" = "This preference works by disabling certain services.\nIt doesn't know whether a specific image or video is safe.\nYou should therefore not rely solely on this preference.";
+"Kjb-nu-50w.title" = "Denna inställning avaktiverar vissa tjänster.\nDen vet inte huruvida en specifik bild eller video är säker.\nSåledes bör du inte enbart lita på denna inställning.";
 
 /* Class = "NSMenuItem"; title = "5 Megabytes"; ObjectID = "L2W-6V-I0n"; */
-"L2W-6V-I0n.title" = "5 Megabytes";
+"L2W-6V-I0n.title" = "5 Megabyte";
 
 /* Class = "NSButtonCell"; title = "Reset"; ObjectID = "LRn-gf-kEg"; */
-"LRn-gf-kEg.title" = "Reset";
+"LRn-gf-kEg.title" = "Återställ";
 
 /* Class = "NSMenuItem"; title = "Ignore"; ObjectID = "Lc7-g8-RuB"; */
-"Lc7-g8-RuB.title" = "Ignore";
+"Lc7-g8-RuB.title" = "Ignorera";
 
 /* Class = "NSTextFieldCell"; title = "These include join, part, and quit messages. "; ObjectID = "Lfm-fL-lVE"; */
-"Lfm-fL-lVE.title" = "These include join, part, and quit messages. ";
+"Lfm-fL-lVE.title" = "Detta innefattar join-, part-, och quit-meddelanden. ";
 
 /* Class = "NSMenuItem"; title = "Open Query"; ObjectID = "Lfz-k6-aUF"; */
-"Lfz-k6-aUF.title" = "Open Query";
+"Lfz-k6-aUF.title" = "Starta privat samtal";
 
 /* Class = "NSToolbarItem"; label = "Advanced"; ObjectID = "Ljh-iZ-r98"; */
-"Ljh-iZ-r98.label" = "Advanced";
+"Ljh-iZ-r98.label" = "Avancerat";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Advanced"; ObjectID = "Ljh-iZ-r98"; */
-"Ljh-iZ-r98.paletteLabel" = "Advanced";
+"Ljh-iZ-r98.paletteLabel" = "Avancerat";
 
 /* Class = "NSTextFieldCell"; title = "Delay Between Channel Joins:"; ObjectID = "LlJ-il-Put"; */
-"LlJ-il-Put.title" = "Delay Between Channel Joins:";
+"LlJ-il-Put.title" = "Fördröjning mellan kanalanslutningar:";
 
 /* Class = "NSButtonCell"; title = "Disconnect from server on double click"; ObjectID = "Lsg-37-h0b"; */
-"Lsg-37-h0b.title" = "Disconnect from server on double click";
+"Lsg-37-h0b.title" = "Dubbelklicka för att koppla ner från server";
 
 /* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "MC0-wK-dAF"; */
-"MC0-wK-dAF.title" = "Updates:";
+"MC0-wK-dAF.title" = "Uppdateringar:";
 
 /* Class = "NSTextFieldCell"; title = "Server Staff Member:"; ObjectID = "MCy-M2-bOc"; */
-"MCy-M2-bOc.title" = "Server Staff Member:";
+"MCy-M2-bOc.title" = "Serverpersonal:";
 
 /* Class = "NSTextFieldCell"; title = "User list no mode badge background color:"; ObjectID = "MDs-d0-Vsf"; */
-"MDs-d0-Vsf.title" = "User list no mode badge background color:";
+"MDs-d0-Vsf.title" = "Bakgrundsfärg på lägesfri-bricka i användarlistan:";
 
 /* Class = "NSButtonCell"; title = "Automatically reply to Client-to-Client (CTCP) requests"; ObjectID = "MT3-bO-x65"; */
-"MT3-bO-x65.title" = "Automatically reply to Client-to-Client (CTCP) requests";
+"MT3-bO-x65.title" = "Svara automatiskt på klient-till-klient-förfrågningar (CTCP)";
 
 /* Class = "NSComboBoxCell"; title = "[%H:%M:%S]"; ObjectID = "Mbr-ah-TIe"; */
 "Mbr-ah-TIe.title" = "[%H:%M:%S]";
@@ -501,322 +501,322 @@
 "Mbr-ah-TIe.ibShadowedObjectValues[3]" = "[%m/%d/%Y -:- %I:%M:%S %p]";
 
 /* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "Mfg-SH-a2v"; */
-"Mfg-SH-a2v.title" = "Preview:";
+"Mfg-SH-a2v.title" = "Förhandsvisning:";
 
 /* Class = "NSTextFieldCell"; title = "Autocomplete Suffix:"; ObjectID = "Mgd-OI-qia"; */
-"Mgd-OI-qia.title" = "Autocomplete Suffix:";
+"Mgd-OI-qia.title" = "Autokompletteringsuffix:";
 
 /* Class = "NSTextFieldCell"; title = "Double clicking a user:"; ObjectID = "NhJ-3F-Unb"; */
-"NhJ-3F-Unb.title" = "Double clicking a user:";
+"NhJ-3F-Unb.title" = "Dubbelklick på användare:";
 
 /* Class = "NSButtonCell"; title = "Only inline media that is safe to view in public"; ObjectID = "NlC-I6-LZo"; */
-"NlC-I6-LZo.title" = "Only inline media that is safe to view in public";
+"NlC-I6-LZo.title" = "Bädda endast in media som är säker att visa offentligt";
 
 /* Class = "NSTextFieldCell"; title = "How long, in seconds, to wait before joining channels after identifying."; ObjectID = "Nn9-kA-OjY"; */
-"Nn9-kA-OjY.title" = "How long, in seconds, to wait before joining channels after identifying.";
+"Nn9-kA-OjY.title" = "Vänta så här många sekunder efter identifiering innan kanaler ansluts.";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Highlight Keyword"; ObjectID = "Nqu-81-VCV"; */
-"Nqu-81-VCV.ibExternalAccessibilityDescription" = "Add Highlight Keyword";
+"Nqu-81-VCV.ibExternalAccessibilityDescription" = "Lägg till nyckelord för markering";
 
 /* Class = "NSTextFieldCell"; title = "When file transfer request is received:"; ObjectID = "ODe-np-HQz"; */
 "ODe-np-HQz.title" = "When file transfer request is received:";
 
 /* Class = "NSMenuItem"; title = "File Transfers"; ObjectID = "OeQ-Ms-xcp"; */
-"OeQ-Ms-xcp.title" = "File Transfers";
+"OeQ-Ms-xcp.title" = "Filöverföringar";
 
 /* Class = "NSButtonCell"; title = "Automatically join a channel when invited"; ObjectID = "Onr-Yr-Ms6"; */
-"Onr-Yr-Ms6.title" = "Automatically join a channel when invited";
+"Onr-Yr-Ms6.title" = "Anslut automatiskt till en kanal du blivit inbjuden till";
 
 /* Class = "NSButtonCell"; title = "Change"; ObjectID = "Oyi-xz-dDf"; */
-"Oyi-xz-dDf.title" = "Change";
+"Oyi-xz-dDf.title" = "Ändra";
 
 /* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "P1u-x3-WTj"; */
-"P1u-x3-WTj.title" = "Username:";
+"P1u-x3-WTj.title" = "Användarnamn:";
 
 /* Class = "NSTextFieldCell"; title = "This preference can be enabled or disabled for individual channels in Channel Properties."; ObjectID = "PMI-yd-MYO"; */
-"PMI-yd-MYO.title" = "This preference can be enabled or disabled for individual channels in Channel Properties.";
+"PMI-yd-MYO.title" = "Denna inställning kan slås på eller av för individuella kanaler i kanalegenskaper.";
 
 /* Class = "NSMenuItem"; title = "Select Destination…"; ObjectID = "PSl-Ru-20E"; */
-"PSl-Ru-20E.title" = "Select Destination…";
+"PSl-Ru-20E.title" = "Välj destination…";
 
 /* Class = "NSTextFieldCell"; title = "Main window transparency:"; ObjectID = "Pab-0Z-VAE"; */
-"Pab-0Z-VAE.title" = "Main window transparency:";
+"Pab-0Z-VAE.title" = "Huvudfönstrets genomskinlighet:";
 
 /* Class = "NSTextFieldCell"; title = "File transfer port range:"; ObjectID = "Pak-RG-PFU"; */
-"Pak-RG-PFU.title" = "File transfer port range:";
+"Pak-RG-PFU.title" = "Portomfång för filöverföringar:";
 
 /* Class = "NSMenuItem"; title = "Manually Enter Address"; ObjectID = "Pp5-Ci-F1D"; */
-"Pp5-Ci-F1D.title" = "Manually Enter Address";
+"Pp5-Ci-F1D.title" = "Ange adress manuellt";
 
 /* Class = "NSMenuItem"; title = "Ask router with no fallback"; ObjectID = "PpR-MQ-ujy"; */
-"PpR-MQ-ujy.title" = "Ask router with no fallback";
+"PpR-MQ-ujy.title" = "Fråga växel utan reservplan";
 
 /* Class = "NSTextFieldCell"; title = "Do not allow messages to be sent unless an Off-the-Record conversation is active."; ObjectID = "Pzt-74-0SL"; */
-"Pzt-74-0SL.title" = "Do not allow messages to be sent unless an Off-the-Record conversation is active.";
+"Pzt-74-0SL.title" = "Tillåt inte att meddelanden skickas om inte ett Off-the-Record-samtal är aktivt.";
 
 /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Q2m-Lf-iMp"; */
-"Q2m-Lf-iMp.title" = "Label";
+"Q2m-Lf-iMp.title" = "Etikett";
 
 /* Class = "NSMenuItem"; title = "Command Scope"; ObjectID = "Q4n-Bv-BiH"; */
-"Q4n-Bv-BiH.title" = "Command Scope";
+"Q4n-Bv-BiH.title" = "Kommandoomfattning";
 
 /* Class = "NSButtonCell"; title = "Modify Custom Style Sheet Rules"; ObjectID = "QFK-n6-IVM"; */
-"QFK-n6-IVM.title" = "Modify Custom Style Sheet Rules";
+"QFK-n6-IVM.title" = "Redigera anpassade style sheet-regler";
 
 /* Class = "NSMenuItem"; title = "1 Megabyte"; ObjectID = "QYp-on-TqV"; */
 "QYp-on-TqV.title" = "1 Megabyte";
 
 /* Class = "NSButtonCell"; title = "/clearall applies to all connections"; ObjectID = "QcP-gl-hx4"; */
-"QcP-gl-hx4.title" = "/clearall applies to all connections";
+"QcP-gl-hx4.title" = "/clearall gäller för alla anslutningar";
 
 /* Class = "NSMenuItem"; title = " "; ObjectID = "QrV-Nz-fZ5"; */
 "QrV-Nz-fZ5.title" = " ";
 
 /* Class = "NSTextFieldCell"; title = "Text size of the input text field:"; ObjectID = "R1K-MQ-Z0M"; */
-"R1K-MQ-Z0M.title" = "Text size of the input text field:";
+"R1K-MQ-Z0M.title" = "Textstorlek i inmatningsfältet:";
 
 /* Class = "NSMenuItem"; title = "20 Megabytes"; ObjectID = "R2l-gU-6N6"; */
-"R2l-gU-6N6.title" = "20 Megabytes";
+"R2l-gU-6N6.title" = "20 Megabyte";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Change Content Font"; ObjectID = "RCg-fG-WEB"; */
-"RCg-fG-WEB.ibExternalAccessibilityDescription" = "Change Content Font";
+"RCg-fG-WEB.ibExternalAccessibilityDescription" = "Ändra innehålstypsnitt";
 
 /* Class = "NSButtonCell"; title = "Automatically rejoin a channel when kicked"; ObjectID = "RRR-Ng-LIU"; */
-"RRR-Ng-LIU.title" = "Automatically rejoin a channel when kicked";
+"RRR-Ng-LIU.title" = "Återanslut automatiskt till en kanal om du blir utsparkad";
 
 /* Class = "NSTextFieldCell"; title = "pixels"; ObjectID = "RZU-od-0LC"; */
-"RZU-od-0LC.title" = "pixels";
+"RZU-od-0LC.title" = "pixlar";
 
 /* Class = "NSTextFieldCell"; title = "Scrollback Save Limit:"; ObjectID = "RaE-yM-G1d"; */
-"RaE-yM-G1d.title" = "Scrollback Save Limit:";
+"RaE-yM-G1d.title" = "Gräns för sparad scrollback:";
 
 /* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "Rms-5m-RLS"; */
-"Rms-5m-RLS.title" = "Font:";
+"Rms-5m-RLS.title" = "Typsnitt:";
 
 /* Class = "NSTextFieldCell"; title = "10.0"; ObjectID = "RuE-BO-Pjb"; */
-"RuE-BO-Pjb.title" = "10.0";
+"RuE-BO-Pjb.title" = "10,0";
 
 /* Class = "NSMenuItem"; title = "Regular Expression (ICU)"; ObjectID = "S6P-uf-fin"; */
-"S6P-uf-fin.title" = "Regular Expression (ICU)";
+"S6P-uf-fin.title" = "Reguljära uttryck (ICU)";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Maxium File Size for Inline Images"; ObjectID = "SBB-Bw-5cY"; */
-"SBB-Bw-5cY.ibExternalAccessibilityDescription" = "Maxium File Size for Inline Images";
+"SBB-Bw-5cY.ibExternalAccessibilityDescription" = "Maximal filstorlek för inbäddade bilder";
 
 /* Class = "NSTextFieldCell"; title = "How long, in seconds, to wait in-between each join."; ObjectID = "SKh-K9-i5D"; */
-"SKh-K9-i5D.title" = "How long, in seconds, to wait in-between each join.";
+"SKh-K9-i5D.title" = "Vänta så här många sekunder mellan varje kanalanslutning.";
 
 /* Class = "NSTabViewItem"; label = "Keyboard & Mouse"; ObjectID = "SL3-8G-t51"; */
-"SL3-8G-t51.label" = "Keyboard & Mouse";
+"SL3-8G-t51.label" = "Tangentbord och mus";
 
 /* Class = "NSTextFieldCell"; title = "Do not display images with a file size greater than"; ObjectID = "SSa-tu-2Yq"; */
-"SSa-tu-2Yq.title" = "Do not display images with a file size greater than";
+"SSa-tu-2Yq.title" = "Visa inte bilder vars filstorlek är större än";
 
 /* Class = "NSButtonCell"; title = "Don't check for updates"; ObjectID = "SlQ-Ey-5fd"; */
-"SlQ-Ey-5fd.title" = "Don't check for updates";
+"SlQ-Ey-5fd.title" = "Sök inte efter uppdateringar";
 
 /* Class = "NSMenuItem"; title = "Channel Management"; ObjectID = "Smm-FE-xJ9"; */
-"Smm-FE-xJ9.title" = "Channel Management";
+"Smm-FE-xJ9.title" = "Kanalhantering";
 
 /* Class = "NSButtonCell"; title = "Open In Finder"; ObjectID = "T7i-UT-s8v"; */
-"T7i-UT-s8v.title" = "Open In Finder";
+"T7i-UT-s8v.title" = "Öppna i Finder";
 
 /* Class = "NSButtonCell"; title = "Remove formatting from incoming messages"; ObjectID = "TQw-6D-bCG"; */
-"TQw-6D-bCG.title" = "Remove formatting from incoming messages";
+"TQw-6D-bCG.title" = "Ta bort formattering från inkommande meddelanden";
 
 /* Class = "NSTextFieldCell"; title = "0%"; ObjectID = "TsQ-VK-5QG"; */
 "TsQ-VK-5QG.title" = "0%";
 
 /* Class = "NSTextFieldCell"; title = "Channel Owner (+q):"; ObjectID = "UFb-25-XAa"; */
-"UFb-25-XAa.title" = "Channel Owner (+q):";
+"UFb-25-XAa.title" = "Kanalägare (+q):";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "UJE-9X-azF"; */
 "UJE-9X-azF.title" = "OtherViews";
 
 /* Class = "NSTextFieldCell"; title = "Load the contents of every URL posted in a channel to determine which are images or videos."; ObjectID = "Udl-QC-wcp"; */
-"Udl-QC-wcp.title" = "Load the contents of every URL posted in a channel to determine which are images or videos.";
+"Udl-QC-wcp.title" = "Läs in innehållet för varje URL postad i en kanal för att avgöra vilka som är bilder eller videor.";
 
 /* Class = "NSTextFieldCell"; title = "Forward notices to:"; ObjectID = "UgN-n4-JIQ"; */
-"UgN-n4-JIQ.title" = "Forward notices to:";
+"UgN-n4-JIQ.title" = "Vidarebefordra notiser till:";
 
 /* Class = "NSTextFieldCell"; title = "Current Value: 100"; ObjectID = "Upf-sb-9aG"; */
-"Upf-sb-9aG.title" = "Current Value: 100";
+"Upf-sb-9aG.title" = "Nuvarande värde: 100";
 
 /* Class = "NSTextFieldCell"; title = "IP Address detection method:"; ObjectID = "VBT-UA-wAp"; */
-"VBT-UA-wAp.title" = "IP Address detection method:";
+"VBT-UA-wAp.title" = "Metod för detektion av IP-adress:";
 
 /* Class = "NSButtonCell"; title = "Send passive file transfer requests"; ObjectID = "VZZ-dp-aIT"; */
-"VZZ-dp-aIT.title" = "Send passive file transfer requests";
+"VZZ-dp-aIT.title" = "Skicka passiva filöverföringsförfrågningar";
 
 /* Class = "NSButtonCell"; title = "Enable WebKit2"; ObjectID = "W5w-EG-kiD"; */
-"W5w-EG-kiD.title" = "Enable WebKit2";
+"W5w-EG-kiD.title" = "Använd WebKit2";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "WBW-c0-Lre"; */
 "WBW-c0-Lre.title" = "OtherViews";
 
 /* Class = "NSTextFieldCell"; title = "(Includes Ban Length)"; ObjectID = "WL8-Lc-POK"; */
-"WL8-Lc-POK.title" = "(Includes Ban Length)";
+"WL8-Lc-POK.title" = "(Inkluderar bann-längd)";
 
 /* Class = "NSMenuItem"; title = "Move to next unread channel"; ObjectID = "WMd-6W-689"; */
-"WMd-6W-689.title" = "Move to next unread channel";
+"WMd-6W-689.title" = "Gå till nästa olästa kanal";
 
 /* Class = "NSMenuItem"; title = "Close Main Window"; ObjectID = "WSZ-ji-Ch7"; */
-"WSZ-ji-Ch7.title" = "Close Main Window";
+"WSZ-ji-Ch7.title" = "Stäng huvudfönster";
 
 /* Class = "NSMenuItem"; title = "3 Megabytes"; ObjectID = "Wfz-6g-01O"; */
-"Wfz-6g-01O.title" = "3 Megabytes";
+"Wfz-6g-01O.title" = "3 Megabyte";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Current Content Font"; ObjectID = "WiQ-md-lej"; */
-"WiQ-md-lej.ibExternalAccessibilityDescription" = "Current Content Font";
+"WiQ-md-lej.ibExternalAccessibilityDescription" = "Nuvarande innehållstypsnitt";
 
 /* Class = "NSButtonCell"; title = "Only speak Channel Messages for the selected channel"; ObjectID = "Wr9-i3-ItC"; */
-"Wr9-i3-ItC.title" = "Only speak Channel Messages for the selected channel";
+"Wr9-i3-ItC.title" = "Läs endast kanalmeddelanden för vald kanal";
 
 /* Class = "NSTextFieldCell"; title = "300"; ObjectID = "WvG-Z3-ijn"; */
 "WvG-Z3-ijn.title" = "300";
 
 /* Class = "NSButtonCell"; title = "Request confirmation before quitting Textual"; ObjectID = "XAa-aA-vKv"; */
-"XAa-aA-vKv.title" = "Request confirmation before quitting Textual";
+"XAa-aA-vKv.title" = "Bekräfa innan Textual avslutas";
 
 /* Class = "NSMenuItem"; title = "*!ident@address"; ObjectID = "Xfr-mW-SrH"; */
 "Xfr-mW-SrH.title" = "*!ident@address";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Maximum Inline Image Height"; ObjectID = "YCI-pw-b4B"; */
-"YCI-pw-b4B.ibExternalAccessibilityDescription" = "Maximum Inline Image Height";
+"YCI-pw-b4B.ibExternalAccessibilityDescription" = "Visa inte bilder med en höjd större än";
 
 /* Class = "NSButtonCell"; title = "Check spelling while typing"; ObjectID = "YIe-6t-oYS"; */
-"YIe-6t-oYS.title" = "Check spelling while typing";
+"YIe-6t-oYS.title" = "Kontrollera stavning medan jag skriver";
 
 /* Class = "NSButtonCell"; title = "Show date changes"; ObjectID = "YYv-Je-Wv0"; */
-"YYv-Je-Wv0.title" = "Show date changes";
+"YYv-Je-Wv0.title" = "Visa datumväxlingar";
 
 /* Class = "NSTextFieldCell"; title = "Helvetica 12pt"; ObjectID = "Yeq-PY-2Ot"; */
 "Yeq-PY-2Ot.title" = "Helvetica 12pt";
 
 /* Class = "NSTextFieldCell"; title = "Safe sources are services that don't inject HTML nor load external JavaScript resoures to appear inline."; ObjectID = "Ygv-nr-zSp"; */
-"Ygv-nr-zSp.title" = "Safe sources are services that don't inject HTML nor load external JavaScript resoures to appear inline.";
+"Ygv-nr-zSp.title" = "Säkra källor är tjänster som inte injicerar HTML och inte laddar externa JavaScript-resurser för att visas inbäddat.";
 
 /* Class = "NSButtonCell"; title = "Log transcripts to folder:"; ObjectID = "Yh4-3q-f6X"; */
-"Yh4-3q-f6X.title" = "Log transcripts to folder:";
+"Yh4-3q-f6X.title" = "Spara konversationsloggar i denna mapp:";
 
 /* Class = "NSButtonCell"; title = "Command Return (⌘⏎) sends message as an action"; ObjectID = "YqM-cS-deW"; */
-"YqM-cS-deW.title" = "Command Return (⌘⏎) sends message as an action";
+"YqM-cS-deW.title" = "Kommando + Retur (⌘⏎) skickar meddelande";
 
 /* Class = "NSTextFieldCell"; title = "Current Value: 100"; ObjectID = "ZFz-7f-mH4"; */
-"ZFz-7f-mH4.title" = "Current Value: 100";
+"ZFz-7f-mH4.title" = "Nuvarande värde: 100";
 
 /* Class = "NSTextFieldCell"; title = "Joining too many channels at once may be detected as an attack by some IRC networks. You could be disconnected or banned as a result. It is recommended to use a moderate delay (~2.5 seconds) for both timers when joining a large number of channels. "; ObjectID = "Zer-Bw-gRh"; */
-"Zer-Bw-gRh.title" = "Joining too many channels at once may be detected as an attack by some IRC networks. You could be disconnected or banned as a result. It is recommended to use a moderate delay (~2.5 seconds) for both timers when joining a large number of channels. ";
+"Zer-Bw-gRh.title" = "Att gå med i för många kanaler samtidigt kan tolkas som en atack av vissa IRC-nätverk. Detta kan leda till att du kopplas bort eller bli bannlyst. Det rekommenderas att använda en mindre fördröjning (runt 2,5 sekunder) för båda inställningarna om många kanaler skall gås med i. ";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Script Name"; ObjectID = "Zew-yH-iHU"; */
-"Zew-yH-iHU.ibExternalAccessibilityDescription" = "Script Name";
+"Zew-yH-iHU.ibExternalAccessibilityDescription" = "Scriptnamn";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Zew-yH-iHU"; */
-"Zew-yH-iHU.title" = "Text Cell";
+"Zew-yH-iHU.title" = "Textfält";
 
 /* Class = "NSButtonCell"; title = "Enable beta updates"; ObjectID = "ZpK-O2-jD1"; */
-"ZpK-O2-jD1.title" = "Enable beta updates";
+"ZpK-O2-jD1.title" = "Tillåt även beta-uppdateringar";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "Zvg-8I-YWm"; */
 "Zvg-8I-YWm.title" = "OtherViews";
 
 /* Class = "NSButtonCell"; title = "Correct spelling automatically"; ObjectID = "a9u-Lw-W1l"; */
-"a9u-Lw-W1l.title" = "Correct spelling automatically";
+"a9u-Lw-W1l.title" = "Kontrollera stavning medan jag skriver";
 
 /* Class = "NSTextFieldCell"; title = "Custom Addons Location:"; ObjectID = "aKI-dl-dpt"; */
-"aKI-dl-dpt.title" = "Custom Addons Location:";
+"aKI-dl-dpt.title" = "Plats för anpassade tillägg:";
 
 /* Class = "NSTextFieldCell"; title = "Arrange multiple channels:"; ObjectID = "aNN-WN-TzZ"; */
-"aNN-WN-TzZ.title" = "Arrange multiple channels:";
+"aNN-WN-TzZ.title" = "Ordna flera kanaler:";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Open iCloud Custom Addons Location in Finder"; ObjectID = "ad6-Sp-XGr"; */
-"ad6-Sp-XGr.ibExternalAccessibilityDescription" = "Open iCloud Custom Addons Location in Finder";
+"ad6-Sp-XGr.ibExternalAccessibilityDescription" = "Öppna anpassade tillägsfiler på iCloud i Finder";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Reset User List Colors to Default Values"; ObjectID = "awz-7b-J7x"; */
-"awz-7b-J7x.ibExternalAccessibilityDescription" = "Reset User List Colors to Default Values";
+"awz-7b-J7x.ibExternalAccessibilityDescription" = "Återställ användarlistfärgerna till dess förvalda värden";
 
 /* Class = "NSTextFieldCell"; title = "The maximum number of messages, per-channel, that are accessible through the scrollback.\n\nMessages are not saved between app launches unless “Restore scrollback from previous session” in the Behavior section of Preferences is enabled."; ObjectID = "b0a-Dq-Qqw"; */
-"b0a-Dq-Qqw.title" = "The maximum number of messages, per-channel, that are accessible through the scrollback.\n\nMessages are not saved between app launches unless “Restore scrollback from previous session” in the Behavior section of Preferences is enabled.";
+"b0a-Dq-Qqw.title" = "Detta anger maximalt antal meddelanden per kanal som är tillgängliga i scrollback-loggen.\n\nMeddelanden sparas inte mellan programstarter om inte “Återställ scrollback från föregående sesssion” är aktiverad på beteende-fliken i inställningar.";
 
 /* Class = "NSMenuItem"; title = "10 Megabytes"; ObjectID = "bIc-5c-e5C"; */
-"bIc-5c-e5C.title" = "10 Megabytes";
+"bIc-5c-e5C.title" = "10 Megabyte";
 
 /* Class = "NSMenuItem"; title = "Extra Large"; ObjectID = "bcG-qK-Dpa"; */
-"bcG-qK-Dpa.title" = "Extra Large";
+"bcG-qK-Dpa.title" = "Extra stor";
 
 /* Class = "NSButtonCell"; title = "Channel navigation is limited to the selected server"; ObjectID = "beH-aC-ScW"; */
-"beH-aC-ScW.title" = "Channel navigation is limited to the selected server";
+"beH-aC-ScW.title" = "Kanalnavigering är begränsad till den valda servern";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "bkQ-5U-psQ"; */
 "bkQ-5U-psQ.title" = "OtherViews";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Erase iCloud Custom Addons Files"; ObjectID = "c4l-gT-o8c"; */
-"c4l-gT-o8c.ibExternalAccessibilityDescription" = "Erase iCloud Custom Addons Files";
+"c4l-gT-o8c.ibExternalAccessibilityDescription" = "Radera anpassade tillägsfiler på iCloud";
 
 /* Class = "NSButtonCell"; title = "Server Console"; ObjectID = "cCE-T0-zar"; */
-"cCE-T0-zar.title" = "Server Console";
+"cCE-T0-zar.title" = "Serverkonsoll";
 
 /* Class = "NSTextFieldCell"; title = "Real name:"; ObjectID = "cOZ-LR-XMc"; */
-"cOZ-LR-XMc.title" = "Real name:";
+"cOZ-LR-XMc.title" = "Verkligt namn:";
 
 /* Class = "NSTabViewItem"; label = "General"; ObjectID = "cUA-Ui-lzO"; */
-"cUA-Ui-lzO.label" = "General";
+"cUA-Ui-lzO.label" = "Allmänt";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional "; ObjectID = "cXo-4f-9dY"; */
-"cXo-4f-9dY.placeholderString" = "Optional ";
+"cXo-4f-9dY.placeholderString" = "Valfritt ";
 
 /* Class = "NSButtonCell"; title = "Enable link previews in WebKit2"; ObjectID = "d67-Dk-gJt"; */
-"d67-Dk-gJt.title" = "Enable link previews in WebKit2";
+"d67-Dk-gJt.title" = "Slå på länkförhandsvisningar i WebKit2";
 
 /* Class = "NSTextFieldCell"; title = "Off-the-Record Messaging (OTR) increases the privacy of private messages by encrypting their contents so that only you and your chat partner can see what is written. It also provides a means to verify, with certainty, that the person you are communicating with are who they claim to be."; ObjectID = "dGa-dE-wl9"; */
-"dGa-dE-wl9.title" = "Off-the-Record Messaging (OTR) increases the privacy of private messages by encrypting their contents so that only you and your chat partner can see what is written. It also provides a means to verify, with certainty, that the person you are communicating with are who they claim to be.";
+"dGa-dE-wl9.title" = "Off-the-Record-meddelanden (OTR) förbättrar säkerheten för privata meddelanden genom att kryptera innehållet så att endast du och din chatpartner kan se vad som skrivits. OTR erbjuder också ett sätt att verifiera med säkerhet att personen du kommunicerar med är den de utger sig för att vara.";
 
 /* Class = "NSMenuItem"; title = "Automatically Download"; ObjectID = "dNd-oi-z2o"; */
-"dNd-oi-z2o.title" = "Automatically Download";
+"dNd-oi-z2o.title" = "Ladda ner automatiskt";
 
 /* Class = "NSMenuItem"; title = "Partial Matches"; ObjectID = "dnX-v4-Rf4"; */
-"dnX-v4-Rf4.title" = "Partial Matches";
+"dnX-v4-Rf4.title" = "Partiella matchningar";
 
 /* Class = "NSToolbarItem"; label = "Controls"; ObjectID = "e6N-0C-9Eo"; */
-"e6N-0C-9Eo.label" = "Controls";
+"e6N-0C-9Eo.label" = "Kontroller";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Controls"; ObjectID = "e6N-0C-9Eo"; */
-"e6N-0C-9Eo.paletteLabel" = "Controls";
+"e6N-0C-9Eo.paletteLabel" = "Kontroller";
 
 /* Class = "NSMenuItem"; title = "Close Selected Query or Part Selected Channel"; ObjectID = "e7p-VL-p6K"; */
-"e7p-VL-p6K.title" = "Close Selected Query or Part Selected Channel";
+"e7p-VL-p6K.title" = "Stäng valt samtal eller lämna vald kanal";
 
 /* Class = "NSTextFieldCell"; title = "0.0"; ObjectID = "eFu-Az-3oV"; */
-"eFu-Az-3oV.title" = "0.0";
+"eFu-Az-3oV.title" = "0,0";
 
 /* Class = "NSButtonCell"; title = "Place known server staff members at top of user list"; ObjectID = "egC-El-gcj"; */
-"egC-El-gcj.title" = "Place known server staff members at top of user list";
+"egC-El-gcj.title" = "Placera känd serverpersonal överst i användarlistan";
 
 /* Class = "NSButtonCell"; title = "Give focus to the destination of the /msg command"; ObjectID = "ekF-Cf-Mjw"; */
-"ekF-Cf-Mjw.title" = "Give focus to the destination of the /msg command";
+"ekF-Cf-Mjw.title" = "Växla fokus till /msg-kommandots destination";
 
 /* Class = "NSMenuItem"; title = "Large"; ObjectID = "elC-wm-fSP"; */
-"elC-wm-fSP.title" = "Large";
+"elC-wm-fSP.title" = "Stor";
 
 /* Class = "NSTextFieldCell"; title = "80%"; ObjectID = "etq-xm-HYN"; */
 "etq-xm-HYN.title" = "80%";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Highlight Keyword"; ObjectID = "ewA-Ga-sCf"; */
-"ewA-Ga-sCf.ibExternalAccessibilityDescription" = "Highlight Keyword";
+"ewA-Ga-sCf.ibExternalAccessibilityDescription" = "Markera nyckelord";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "ewA-Ga-sCf"; */
-"ewA-Ga-sCf.title" = "Text Cell";
+"ewA-Ga-sCf.title" = "Textfält";
 
 /* Class = "NSButtonCell"; title = "Manage iCloud"; ObjectID = "exq-Kq-v2A"; */
-"exq-Kq-v2A.title" = "Manage iCloud";
+"exq-Kq-v2A.title" = "Hantera iCloud";
 
 /* Class = "NSTextFieldCell"; title = "Timestamp Format:"; ObjectID = "fCW-LA-Zoa"; */
-"fCW-LA-Zoa.title" = "Timestamp Format:";
+"fCW-LA-Zoa.title" = "Tidstämpelformat:";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "fHr-wS-2L4"; */
 "fHr-wS-2L4.title" = "OtherViews";
 
 /* Class = "NSTabViewItem"; label = "Limitations"; ObjectID = "fOT-be-gFu"; */
-"fOT-be-gFu.label" = "Limitations";
+"fOT-be-gFu.label" = "Begränsningar";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "faJ-I4-ysS"; */
 "faJ-I4-ysS.title" = "OtherViews";
@@ -825,331 +825,331 @@
 "frO-sN-3ps.title" = "OtherViews";
 
 /* Class = "NSToolbarItem"; label = "Interface"; ObjectID = "fzQ-55-v97"; */
-"fzQ-55-v97.label" = "Interface";
+"fzQ-55-v97.label" = "Gränssnitt";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Interface"; ObjectID = "fzQ-55-v97"; */
-"fzQ-55-v97.paletteLabel" = "Interface";
+"fzQ-55-v97.paletteLabel" = "Gränssnitt";
 
 /* Class = "NSTextFieldCell"; title = "Do not modify these preferences unless you know why you are doing so."; ObjectID = "g4m-Cw-DP6"; */
-"g4m-Cw-DP6.title" = "Do not modify these preferences unless you know why you are doing so.";
+"g4m-Cw-DP6.title" = "Ändra inte dessa inställningar om du inte vet vad du gör.";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "gJi-dD-yjf"; */
-"gJi-dD-yjf.title" = "Table View Cell";
+"gJi-dD-yjf.title" = "Tabellvyfält";
 
 /* Class = "NSTabViewItem"; label = "Alerts"; ObjectID = "geW-mJ-8Ef"; */
-"geW-mJ-8Ef.label" = "Alerts";
+"geW-mJ-8Ef.label" = "Notiser";
 
 /* Class = "NSButtonCell"; title = "/nick applies to all connections"; ObjectID = "gih-NF-Noz"; */
-"gih-NF-Noz.title" = "/nick applies to all connections";
+"gih-NF-Noz.title" = "/nick gäller för alla anslutningar";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Check every link to learn if it is a video or image"; ObjectID = "glE-SK-wgV"; */
-"glE-SK-wgV.ibExternalAccessibilityDescription" = "Check every link to learn if it is a video or image";
+"glE-SK-wgV.ibExternalAccessibilityDescription" = "Kontrollera varje länk för att ta reda på om den är en video eller en bild";
 
 /* Class = "NSButtonCell"; title = "Show notifications when Textual is focused"; ObjectID = "gmn-OS-fhp"; */
-"gmn-OS-fhp.title" = "Show notifications when Textual is focused";
+"gmn-OS-fhp.title" = "Visa notiser när Textual är i fokus";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Manually Specified IP Address"; ObjectID = "gsf-QD-Vkr"; */
-"gsf-QD-Vkr.ibExternalAccessibilityDescription" = "Manually Specified IP Address";
+"gsf-QD-Vkr.ibExternalAccessibilityDescription" = "Manuellt specificerad IP-address";
 
 /* Class = "NSButtonCell"; title = "Browse Style Files"; ObjectID = "gtM-zH-PMU"; */
-"gtM-zH-PMU.title" = "Browse Style Files";
+"gtM-zH-PMU.title" = "Bläddra bland stilfiler";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Inline Image Scaled by Width"; ObjectID = "hI8-8X-GvK"; */
-"hI8-8X-GvK.ibExternalAccessibilityDescription" = "Inline Image Scaled by Width";
+"hI8-8X-GvK.ibExternalAccessibilityDescription" = "Inbäddade bilder skalas till bredd";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Manage iCloud"; ObjectID = "hh5-tO-5kd"; */
-"hh5-tO-5kd.ibExternalAccessibilityDescription" = "Manage iCloud";
+"hh5-tO-5kd.ibExternalAccessibilityDescription" = "Hantera iCloud";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Current Value: %{value1}@ seconds"; ObjectID = "hhw-Qb-VNW"; */
-"hhw-Qb-VNW.ibShadowedDisplayPattern" = "Current Value: %{value1}@ seconds";
+"hhw-Qb-VNW.ibShadowedDisplayPattern" = "Nuvarande värde: %{value1}@ sekunder";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Current Value: %{value1}@ seconds"; ObjectID = "huh-Bf-In7"; */
-"huh-Bf-In7.ibShadowedDisplayPattern" = "Current Value: %{value1}@ seconds";
+"huh-Bf-In7.ibShadowedDisplayPattern" = "Nuvarande värde: %{value1}@ sekunder";
 
 /* Class = "NSButtonCell"; title = "Automatically add scrollback markers"; ObjectID = "imb-ex-Fq2"; */
-"imb-ex-Fq2.title" = "Automatically add scrollback markers";
+"imb-ex-Fq2.title" = "Lägg automatiskt till scrollback-markörer";
 
 /* Class = "NSButtonCell"; title = "Selected Channel"; ObjectID = "isT-C5-ie1"; */
-"isT-C5-ie1.title" = "Selected Channel";
+"isT-C5-ie1.title" = "Vald kanal";
 
 /* Class = "NSButtonCell"; title = "/away applies to all connections"; ObjectID = "jGt-tN-qzV"; */
-"jGt-tN-qzV.title" = "/away applies to all connections";
+"jGt-tN-qzV.title" = "/away gäller för alla anslutningar";
 
 /* Class = "NSTextFieldCell"; title = "Textual must periodically poll the channels that you are in to find out when the away status of each user changes. This preference defines the maximum number of users a channel can contain before the channel is skipped over.\n\nA lower value is always better especially when in a large number of channels."; ObjectID = "juM-7X-6WQ"; */
-"juM-7X-6WQ.title" = "Textual must periodically poll the channels that you are in to find out when the away status of each user changes. This preference defines the maximum number of users a channel can contain before the channel is skipped over.\n\nA lower value is always better especially when in a large number of channels.";
+"juM-7X-6WQ.title" = "Textual måste med jämna mellanrum undersöka om borta-statusen ändrats för medlemmar i kanaler du är ansluten till. Om en kanal har mer än detta antal medlemmar hoppas denna kanal över.\n\nEtt lägre värde är alltid bättre, särskilt om du är i många kanaler samtidigt.";
 
 /* Class = "NSButtonCell"; title = "Enable echo-message capability"; ObjectID = "k2j-qv-6ty"; */
-"k2j-qv-6ty.title" = "Enable echo-message capability";
+"k2j-qv-6ty.title" = "Slå på echo-message-kapabilitet";
 
 /* Class = "NSMenuItem"; title = "Disconnect and Quit Application"; ObjectID = "kBD-9T-FwG"; */
-"kBD-9T-FwG.title" = "Disconnect and Quit Application";
+"kBD-9T-FwG.title" = "Koppla ned och avsluta programmet";
 
 /* Class = "NSTextFieldCell"; title = "Default G:Line Reason:"; ObjectID = "kN3-5K-4fJ"; */
-"kN3-5K-4fJ.title" = "Default G:Line Reason:";
+"kN3-5K-4fJ.title" = "Förvald G:Line-anledning:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "kmu-Ey-2Qm"; */
-"kmu-Ey-2Qm.placeholderString" = "Optional";
+"kmu-Ey-2Qm.placeholderString" = "Valfritt";
 
 /* Class = "NSButtonCell"; title = "Restore the state of queries from previous session"; ObjectID = "kq6-SH-wmj"; */
-"kq6-SH-wmj.title" = "Restore the state of queries from previous session";
+"kq6-SH-wmj.title" = "Återställ privata samtal från föregående session";
 
 /* Class = "NSMenuItem"; title = "Clear Destination"; ObjectID = "l8l-ff-FHu"; */
-"l8l-ff-FHu.title" = "Clear Destination";
+"l8l-ff-FHu.title" = "Rensa destination";
 
 /* Class = "NSTabViewItem"; label = "Speech"; ObjectID = "lAX-Jg-QPJ"; */
-"lAX-Jg-QPJ.label" = "Speech";
+"lAX-Jg-QPJ.label" = "Tal";
 
 /* Class = "NSTabViewItem"; label = "Images & Video"; ObjectID = "lC7-1K-9Qq"; */
-"lC7-1K-9Qq.label" = "Images & Video";
+"lC7-1K-9Qq.label" = "Bilder och video";
 
 /* Class = "NSTabViewItem"; label = "Main Text Field"; ObjectID = "lJH-z2-zrz"; */
-"lJH-z2-zrz.label" = "Main Text Field";
+"lJH-z2-zrz.label" = "Huvudtextfält";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "%{value1}@ %{value2}@pt"; ObjectID = "lNo-Q4-L19"; */
 "lNo-Q4-L19.ibShadowedDisplayPattern" = "%{value1}@ %{value2}@pt";
 
 /* Class = "NSTextFieldCell"; title = "2,000"; ObjectID = "lYL-2U-2IR"; */
-"lYL-2U-2IR.title" = "2,000";
+"lYL-2U-2IR.title" = "2000";
 
 /* Class = "NSTextFieldCell"; title = "When used in the context of a hostmask, an asterisk (*) represents a wildcard character that is matched by any possible value."; ObjectID = "lyl-DA-xkL"; */
-"lyl-DA-xkL.title" = "When used in the context of a hostmask, an asterisk (*) represents a wildcard character that is matched by any possible value.";
+"lyl-DA-xkL.title" = "En asterisk (*) representerar i en värdmask ett jokertecken som matchar varje möljigt värde.";
 
 /* Class = "NSButtonCell"; title = "Do not send unencrypted messages"; ObjectID = "m4s-Bh-UhF"; */
-"m4s-Bh-UhF.title" = "Do not send unencrypted messages";
+"m4s-Bh-UhF.title" = "Skicka inte okrypterade meddelanden";
 
 /* Class = "NSButtonCell"; title = "Prefer modern sockets"; ObjectID = "mEq-pf-DPP"; */
-"mEq-pf-DPP.title" = "Prefer modern sockets";
+"mEq-pf-DPP.title" = "Föredra moderna socketar";
 
 /* Class = "NSMenuItem"; title = "Default IRC Operator Messages"; ObjectID = "mVO-0v-1Nc"; */
-"mVO-0v-1Nc.title" = "Default IRC Operator Messages";
+"mVO-0v-1Nc.title" = "Förvalda IRC-operatörsmeddelanden";
 
 /* Class = "NSButtonCell"; title = "Automatically reload custom styles when they change"; ObjectID = "mrD-Ge-g9M"; */
-"mrD-Ge-g9M.title" = "Automatically reload custom styles when they change";
+"mrD-Ge-g9M.title" = "Läs automatiskt om anpassade stilar när de ändras";
 
 /* Class = "NSMenuItem"; title = "Dark"; ObjectID = "mub-Pt-QHm"; */
-"mub-Pt-QHm.title" = "Dark";
+"mub-Pt-QHm.title" = "Mörkt";
 
 /* Class = "NSButtonCell"; title = "Do not allow Mac to go to sleep while transferring a file"; ObjectID = "n04-8I-DlI"; */
-"n04-8I-DlI.title" = "Do not allow Mac to go to sleep while transferring a file";
+"n04-8I-DlI.title" = "Förhindra att din Mac går i vila medan filer överförs";
 
 /* Class = "NSButtonCell"; title = "Replace Combining Diacritical Marks with �"; ObjectID = "nGd-LX-rxu"; */
-"nGd-LX-rxu.title" = "Replace Combining Diacritical Marks with �";
+"nGd-LX-rxu.title" = "Byt ut kombinationer av diakritiska märken mot �";
 
 /* Class = "NSButtonCell"; title = "Including video services such as YouTube and others"; ObjectID = "nXf-63-MkU"; */
-"nXf-63-MkU.title" = "Including video services such as YouTube and others";
+"nXf-63-MkU.title" = "Inkludera videotjänster såsom YouTube med flera";
 
 /* Class = "NSMenuItem"; title = "Log Location"; ObjectID = "naX-ng-Lmu"; */
-"naX-ng-Lmu.title" = "Log Location";
+"naX-ng-Lmu.title" = "Plats för loggar";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "nac-sO-8FC"; */
-"nac-sO-8FC.placeholderString" = "Optional";
+"nac-sO-8FC.placeholderString" = "Valfritt";
 
 /* Class = "NSTextFieldCell"; title = "Away Nickname:"; ObjectID = "nlg-4Q-gCw"; */
-"nlg-4Q-gCw.title" = "Away Nickname:";
+"nlg-4Q-gCw.title" = "Smeknamn vid borta:";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ntn-0O-xE7"; */
 "ntn-0O-xE7.title" = "OtherViews";
 
 /* Class = "NSTextFieldCell"; title = "Exclude words:"; ObjectID = "oKh-Ma-cAV"; */
-"oKh-Ma-cAV.title" = "Exclude words:";
+"oKh-Ma-cAV.title" = "Exkludera ord:";
 
 /* Class = "NSButtonCell"; title = "Toggle away status when your display goes to sleep"; ObjectID = "oRS-41-peI"; */
-"oRS-41-peI.title" = "Toggle away status when your display goes to sleep";
+"oRS-41-peI.title" = "Växla till borta-status när skärmen går i vila";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "oka-gF-dyN"; */
 "oka-gF-dyN.title" = "OtherViews";
 
 /* Class = "NSTabViewItem"; label = "User List Colors"; ObjectID = "ozM-AW-weC"; */
-"ozM-AW-weC.label" = "User List Colors";
+"ozM-AW-weC.label" = "Färger i användarlistan";
 
 /* Class = "NSMenuItem"; title = "Clear Destination"; ObjectID = "p10-Iz-DI6"; */
-"p10-Iz-DI6.title" = "Clear Destination";
+"p10-Iz-DI6.title" = "Rensa destination";
 
 /* Class = "NSTextFieldCell"; title = "Do not display images with a height greater than"; ObjectID = "pOk-J1-xX6"; */
-"pOk-J1-xX6.title" = "Do not display images with a height greater than";
+"pOk-J1-xX6.title" = "Visa inte bilder med en höjd större än";
 
 /* Class = "NSTextFieldCell"; title = "The commands listed above are performed like any other: write a forward slash (/) followed by the name of the command plus any required arguments. Textual will perform the command and output the results accordingly."; ObjectID = "pVP-3h-Oiy"; */
-"pVP-3h-Oiy.title" = "The commands listed above are performed like any other: write a forward slash (/) followed by the name of the command plus any required arguments. Textual will perform the command and output the results accordingly.";
+"pVP-3h-Oiy.title" = "Kommandona i listan ovan används som alla andra: Skriv ett snedstreck (/) följt av kommandonamnet och eventuella argument. Textual kommer utföra kommandot och presentera resultatet om tillämpligt.";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Reset Background Color for Unread Badge with Highlight"; ObjectID = "pZM-BH-WK6"; */
-"pZM-BH-WK6.ibExternalAccessibilityDescription" = "Reset Background Color for Unread Badge with Highlight";
+"pZM-BH-WK6.ibExternalAccessibilityDescription" = "Återställ bakgrundsfärg för oläst-bricka med omnämnanden";
 
 /* Class = "NSMenuItem"; title = "*!*@address"; ObjectID = "pb2-SP-miv"; */
 "pb2-SP-miv.title" = "*!*@address";
 
 /* Class = "NSButtonCell"; title = "Only inline media from safe sources"; ObjectID = "pmi-Al-qyW"; */
-"pmi-Al-qyW.title" = "Only inline media from safe sources";
+"pmi-Al-qyW.title" = "Bädda endast in media från säkra källor";
 
 /* Class = "NSMenuItem"; title = "Insert Name Into Text Field"; ObjectID = "qM6-KO-sYq"; */
-"qM6-KO-sYq.title" = "Insert Name Into Text Field";
+"qM6-KO-sYq.title" = "Infoga namn i textfältet";
 
 /* Class = "NSButtonCell"; title = "Control Enter (⌃⎆) sends message instead of inserting new line"; ObjectID = "qN2-RC-TZe"; */
-"qN2-RC-TZe.title" = "Control Enter (⌃⎆) sends message instead of inserting new line";
+"qN2-RC-TZe.title" = "Kontroll + Enter (⌃⎆) skickar meddelande istället för att infoga en radbrytning";
 
 /* Class = "NSButtonCell"; title = "Leave channel on double click"; ObjectID = "qbS-rY-mJ8"; */
-"qbS-rY-mJ8.title" = "Leave channel on double click";
+"qbS-rY-mJ8.title" = "Lämna kanal vid dubbelklick";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Excluded Keyword"; ObjectID = "qcU-SW-8KI"; */
-"qcU-SW-8KI.ibExternalAccessibilityDescription" = "Remove Selected Excluded Keyword";
+"qcU-SW-8KI.ibExternalAccessibilityDescription" = "Ta bort valt exkluderat nyckelord";
 
 /* Class = "NSMenuItem"; title = "nickname!username@address"; ObjectID = "qeE-pR-c4L"; */
 "qeE-pR-c4L.title" = "nickname!username@address";
 
 /* Class = "NSTableView"; ibExternalAccessibilityDescription = "Installed Addons"; ObjectID = "rGf-Ih-C97"; */
-"rGf-Ih-C97.ibExternalAccessibilityDescription" = "Installed Addons";
+"rGf-Ih-C97.ibExternalAccessibilityDescription" = "Installerade tilläg";
 
 /* Class = "NSTextFieldCell"; title = "Warning:"; ObjectID = "rGr-Kp-IJJ"; */
-"rGr-Kp-IJJ.title" = "Warning:";
+"rGr-Kp-IJJ.title" = "Varning:";
 
 /* Class = "NSButtonCell"; title = "Restore scrollback from previous session"; ObjectID = "rdw-r8-Wgf"; */
-"rdw-r8-Wgf.title" = "Restore scrollback from previous session";
+"rdw-r8-Wgf.title" = "Återställ scrollback från föregående session";
 
 /* Class = "NSTextFieldCell"; title = "Channel Administrator (+a):"; ObjectID = "sZQ-wC-KNB"; */
-"sZQ-wC-KNB.title" = "Channel Administrator (+a):";
+"sZQ-wC-KNB.title" = "Kanaladministratör (+a):";
 
 /* Class = "NSTextFieldCell"; placeholderString = "1115"; ObjectID = "sbA-lo-cb0"; */
 "sbA-lo-cb0.placeholderString" = "1115";
 
 /* Class = "NSMenuItem"; title = "Flood Control"; ObjectID = "sgc-UQ-F8E"; */
-"sgc-UQ-F8E.title" = "Flood Control";
+"sgc-UQ-F8E.title" = "Flood-kontroll";
 
 /* Class = "NSTextFieldCell"; title = "Change the value of this preference to zero (0) to disable height checks."; ObjectID = "sgf-1F-mIV"; */
-"sgf-1F-mIV.title" = "Change the value of this preference to zero (0) to disable height checks.";
+"sgf-1F-mIV.title" = "Ändra detta värde till 0 för att stänga av höjdkontroller.";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "File Transfer Port Range Last Port"; ObjectID = "sqG-aL-jV2"; */
-"sqG-aL-jV2.ibExternalAccessibilityDescription" = "File Transfer Port Range Last Port";
+"sqG-aL-jV2.ibExternalAccessibilityDescription" = "Portomfång för filöverföringar – Sista port";
 
 /* Class = "NSTextFieldCell"; title = "Background color for unread badge with highlight:"; ObjectID = "sqY-lA-TEZ"; */
-"sqY-lA-TEZ.title" = "Background color for unread badge with highlight:";
+"sqY-lA-TEZ.title" = "Bakgrundsfärg för oläst-bricka med omnämnanden:";
 
 /* Class = "NSMenuItem"; title = "2 Megabytes"; ObjectID = "t1F-VN-p7e"; */
-"t1F-VN-p7e.title" = "2 Megabytes";
+"t1F-VN-p7e.title" = "2 Megabyte";
 
 /* Class = "NSButtonCell"; title = "Share data between devices using iCloud"; ObjectID = "t1q-vI-QwV"; */
-"t1q-vI-QwV.title" = "Share data between devices using iCloud";
+"t1q-vI-QwV.title" = "Dela data mellan enheter via iCloud";
 
 /* Class = "NSTextFieldCell"; title = "Highlight words:"; ObjectID = "tR6-jH-Ll6"; */
-"tR6-jH-Ll6.title" = "Highlight words:";
+"tR6-jH-Ll6.title" = "Markera ord:";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Double Clicking on a User Action"; ObjectID = "tfq-lx-1BD"; */
-"tfq-lx-1BD.ibExternalAccessibilityDescription" = "Double Clicking on a User Action";
+"tfq-lx-1BD.ibExternalAccessibilityDescription" = "Åtgärd vid dubbelklick på en användare";
 
 /* Class = "NSButtonCell"; title = "Show general event messages"; ObjectID = "toP-T2-dv6"; */
-"toP-T2-dv6.title" = "Show general event messages";
+"toP-T2-dv6.title" = "Visa allmänna händelsemeddelanden";
 
 /* Class = "NSTextFieldCell"; title = "Delay Before Channel Joins:"; ObjectID = "uFV-wB-bh3"; */
-"uFV-wB-bh3.title" = "Delay Before Channel Joins:";
+"uFV-wB-bh3.title" = "Fördröjning innan kanal ansluts:";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "uQz-ra-1Dt"; */
 "uQz-ra-1Dt.title" = "OtherViews";
 
 /* Class = "NSButtonCell"; title = "Automatically copy selected text"; ObjectID = "uSz-ME-EyF"; */
-"uSz-ME-EyF.title" = "Automatically copy selected text";
+"uSz-ME-EyF.title" = "Kopiera automatiskt vald text";
 
 /* Class = "NSTextFieldCell"; title = "Some preferences may require a restart of Textual to take effect."; ObjectID = "uly-It-UKM"; */
-"uly-It-UKM.title" = "Some preferences may require a restart of Textual to take effect.";
+"uly-It-UKM.title" = "Vissa ändringar kan kräva en omstart av Textual.";
 
 /* Class = "NSMenuItem"; title = "Select Destination…"; ObjectID = "v2f-9c-gsp"; */
-"v2f-9c-gsp.title" = "Select Destination…";
+"v2f-9c-gsp.title" = "Välj destination…";
 
 /* Class = "NSButtonCell"; title = "Disable nickname colors"; ObjectID = "v8i-xw-cdg"; */
-"v8i-xw-cdg.title" = "Disable nickname colors";
+"v8i-xw-cdg.title" = "Stäng av färger på smeknamn";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action to Perform when File Transfer Request is Received"; ObjectID = "vGr-Fx-7Yk"; */
-"vGr-Fx-7Yk.ibExternalAccessibilityDescription" = "Action to Perform when File Transfer Request is Received";
+"vGr-Fx-7Yk.ibExternalAccessibilityDescription" = "Åtgärd när en begäran om filöverföring mottagits";
 
 /* Class = "NSTextFieldCell"; title = "A reload will occur if any file with the extension .css or .js is modified within the root directory of the active style."; ObjectID = "vYn-fL-9T7"; */
-"vYn-fL-9T7.title" = "A reload will occur if any file with the extension .css or .js is modified within the root directory of the active style.";
+"vYn-fL-9T7.title" = "En ominläsning kommer göras om en fil med suffix .css eller .js modifieras i den aktiva stilens rot-mapp.";
 
 /* Class = "NSTextFieldCell"; title = "Include when speaking a Channel Message:"; ObjectID = "va5-dc-OSt"; */
-"va5-dc-OSt.title" = "Include when speaking a Channel Message:";
+"va5-dc-OSt.title" = "Inkludera när ett kanalmeddelande läses:";
 
 /* Class = "NSMenuItem"; title = "Full Word Matches"; ObjectID = "vam-8x-MyD"; */
-"vam-8x-MyD.title" = "Full Word Matches";
+"vam-8x-MyD.title" = "Fullständiga ord-matchningar";
 
 /* Class = "NSButtonCell"; title = "Save input history for each channel rather than globally"; ObjectID = "vj4-ZX-CtP"; */
-"vj4-ZX-CtP.title" = "Save input history for each channel rather than globally";
+"vj4-ZX-CtP.title" = "Spara input-historik separat för varje kanal istället för globalt";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "vmB-ra-bu8"; */
 "vmB-ra-bu8.title" = "OtherViews";
 
 /* Class = "NSButtonCell"; title = "Automatically start an Off-the-Record conversation whenever possible"; ObjectID = "vuQ-Sk-fPF"; */
-"vuQ-Sk-fPF.title" = "Automatically start an Off-the-Record conversation whenever possible";
+"vuQ-Sk-fPF.title" = "Starta Off-the-Record-konversationer närhelst möjligt";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "w3H-Pj-6CW"; */
-"w3H-Pj-6CW.placeholderString" = "Optional";
+"w3H-Pj-6CW.placeholderString" = "Valfritt";
 
 /* Class = "NSMenuItem"; title = "50 Megabytes"; ObjectID = "wCN-ge-BOi"; */
-"wCN-ge-BOi.title" = "50 Megabytes";
+"wCN-ge-BOi.title" = "50 Megabyte";
 
 /* Class = "NSTextFieldCell"; title = "0 = use default limit"; ObjectID = "wMl-wz-NsN"; */
-"wMl-wz-NsN.title" = "0 = use default limit";
+"wMl-wz-NsN.title" = "0 = använd förvald gräns";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "File Transfer Download Destination Folder"; ObjectID = "wNd-qD-qDv"; */
-"wNd-qD-qDv.ibExternalAccessibilityDescription" = "File Transfer Download Destination Folder";
+"wNd-qD-qDv.ibExternalAccessibilityDescription" = "Ladda ner filer till mappen";
 
 /* Class = "NSButtonCell"; title = "Enable custom scrollbars"; ObjectID = "wiu-qq-etM"; */
-"wiu-qq-etM.title" = "Enable custom scrollbars";
+"wiu-qq-etM.title" = "Använd anpassade scrollrader";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "View files associated with the current style"; ObjectID = "wmq-Ee-waL"; */
-"wmq-Ee-waL.ibExternalAccessibilityDescription" = "View files associated with the current style";
+"wmq-Ee-waL.ibExternalAccessibilityDescription" = "Visa filer associerade med den nuvarande stilen";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Open Custom Addons Location in Finder"; ObjectID = "wqE-6p-1vl"; */
-"wqE-6p-1vl.ibExternalAccessibilityDescription" = "Open Custom Addons Location in Finder";
+"wqE-6p-1vl.ibExternalAccessibilityDescription" = "Öppna mappen med anpassade tillägg i Finder";
 
 /* Class = "NSButtonCell"; title = "Reset to Defaults"; ObjectID = "wwW-w1-jyD"; */
-"wwW-w1-jyD.title" = "Reset to Defaults";
+"wwW-w1-jyD.title" = "Återställ förval";
 
 /* Class = "NSMenuItem"; title = "Ask router with 3rd-party website as fallback"; ObjectID = "x7k-y5-Qhz"; */
-"x7k-y5-Qhz.title" = "Ask router with 3rd-party website as fallback";
+"x7k-y5-Qhz.title" = "Fråga växel med tredjepartswebsida som reserv";
 
 /* Class = "NSButtonCell"; title = "Load history lazily"; ObjectID = "xQW-RJ-brS"; */
-"xQW-RJ-brS.title" = "Load history lazily";
+"xQW-RJ-brS.title" = "Lat inläsning av historik";
 
 /* Class = "NSTextFieldCell"; title = "WHO Command Maximum Channel Size:"; ObjectID = "xkB-rD-fPk"; */
-"xkB-rD-fPk.title" = "WHO Command Maximum Channel Size:";
+"xkB-rD-fPk.title" = "Maximal kanalstorlek för WHO-kommandot:";
 
 /* Class = "NSTabViewItem"; label = "General"; ObjectID = "yKL-ON-PSA"; */
-"yKL-ON-PSA.label" = "General";
+"yKL-ON-PSA.label" = "Allmänt";
 
 /* Class = "NSTextFieldCell"; title = "0 (disable)"; ObjectID = "yQ3-ZF-7V3"; */
-"yQ3-ZF-7V3.title" = "0 (disable)";
+"yQ3-ZF-7V3.title" = "0 (avstängd)";
 
 /* Class = "NSToolbarItem"; label = "General"; ObjectID = "ye6-2h-R4p"; */
-"ye6-2h-R4p.label" = "General";
+"ye6-2h-R4p.label" = "Allmänt";
 
 /* Class = "NSToolbarItem"; paletteLabel = "General"; ObjectID = "ye6-2h-R4p"; */
-"ye6-2h-R4p.paletteLabel" = "General";
+"ye6-2h-R4p.paletteLabel" = "Allmänt";
 
 /* Class = "NSButtonCell"; title = "Automatically download and install updates"; ObjectID = "yeE-vC-LNb"; */
-"yeE-vC-LNb.title" = "Automatically download and install updates";
+"yeE-vC-LNb.title" = "Ladda automatiskt ned och installera uppdateringar";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Addons Navigation Destinations"; ObjectID = "yuI-3m-esZ"; */
-"yuI-3m-esZ.ibExternalAccessibilityDescription" = "Addons Navigation Destinations";
+"yuI-3m-esZ.ibExternalAccessibilityDescription" = "Tillägsdestinationer";
 
 /* Class = "NSButtonCell"; title = "Remove data saved to iCloud by Textual"; ObjectID = "yvu-CD-znG"; */
-"yvu-CD-znG.title" = "Remove data saved to iCloud by Textual";
+"yvu-CD-znG.title" = "Ta bort Textual-data sparad till iCloud";
 
 /* Class = "NSMenuItem"; title = "Inline Media"; ObjectID = "yys-I0-cMZ"; */
-"yys-I0-cMZ.title" = "Inline Media";
+"yys-I0-cMZ.title" = "Inbäddad media";
 
 /* Class = "NSToolbarItem"; label = "Notifications"; ObjectID = "z3r-Sc-CPs"; */
-"z3r-Sc-CPs.label" = "Notifications";
+"z3r-Sc-CPs.label" = "Notiser";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Notifications"; ObjectID = "z3r-Sc-CPs"; */
-"z3r-Sc-CPs.paletteLabel" = "Notifications";
+"z3r-Sc-CPs.paletteLabel" = "Notiser";
 
 /* Class = "NSButtonCell"; title = "Log highlights to separate window"; ObjectID = "z4k-RQ-V0s"; */
-"z4k-RQ-V0s.title" = "Log highlights to separate window";
+"z4k-RQ-V0s.title" = "Logga omnämnanden i ett separat fönster";
 
 /* Class = "NSTextFieldCell"; title = "300"; ObjectID = "z61-bh-Hbo"; */
 "z61-bh-Hbo.title" = "300";
 
 /* Class = "NSTextFieldCell"; title = "Channel Operator (+o):"; ObjectID = "zFp-kc-rli"; */
-"zFp-kc-rli.title" = "Channel Operator (+o):";
+"zFp-kc-rli.title" = "Kanaloperatör (+o):";
 
 /* Class = "NSTabViewItem"; label = "Advanced"; ObjectID = "ze5-c7-Zra"; */
-"ze5-c7-Zra.label" = "Advanced";
+"ze5-c7-Zra.label" = "Avancerat";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Command W Keyboard Action"; ObjectID = "zfk-65-afW"; */
-"zfk-65-afW.ibExternalAccessibilityDescription" = "Command W Keyboard Action";
+"zfk-65-afW.ibExternalAccessibilityDescription" = "Kommando + W utför";

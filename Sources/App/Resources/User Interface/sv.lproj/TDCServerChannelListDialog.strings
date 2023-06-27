@@ -1,69 +1,69 @@
 
 /* Class = "NSWindow"; title = "Channel List"; ObjectID = "5"; */
-"5.title" = "Channel List";
+"5.title" = "Kanallista";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Close"; ObjectID = "74"; */
-"74.ibExternalAccessibilityDescription" = "Close";
+"74.ibExternalAccessibilityDescription" = "Stäng";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Update List"; ObjectID = "76"; */
-"76.ibExternalAccessibilityDescription" = "Update List";
+"76.ibExternalAccessibilityDescription" = "Uppdatera lista";
 
 /* Class = "NSSearchField"; ibExternalAccessibilityDescription = "Channel List Search"; ObjectID = "103"; */
-"103.ibExternalAccessibilityDescription" = "Channel List Search";
+"103.ibExternalAccessibilityDescription" = "Sök i kanallista";
 
 /* Class = "NSButtonCell"; title = "Close"; ObjectID = "111"; */
-"111.title" = "Close";
+"111.title" = "Stäng";
 
 /* Class = "NSButtonCell"; title = "Update List"; ObjectID = "112"; */
-"112.title" = "Update List";
+"112.title" = "Uppdatera lista";
 
 /* Class = "NSTextFieldCell"; title = "My IRC Network"; ObjectID = "133"; */
-"133.title" = "My IRC Network";
+"133.title" = "Mitt IRC-nätverk";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Join Selected Channels"; ObjectID = "139"; */
-"139.ibExternalAccessibilityDescription" = "Join Selected Channels";
+"139.ibExternalAccessibilityDescription" = "Gå med i valda kanaler";
 
 /* Class = "NSButtonCell"; title = "Join Selected Channels"; ObjectID = "140"; */
-"140.title" = "Join Selected Channels";
+"140.title" = "Gå med i valda kanaler";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "OgI-gX-mC8"; */
-"OgI-gX-mC8.ibExternalAccessibilityDescription" = "Channel Name";
+"OgI-gX-mC8.ibExternalAccessibilityDescription" = "Kanalnamn";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "OgI-gX-mC8"; */
-"OgI-gX-mC8.title" = "Text Cell";
+"OgI-gX-mC8.title" = "Textfält";
 
 /* Class = "NSTableColumn"; headerCell.title = "Channel Name"; ObjectID = "PaN-OT-TPX"; */
-"PaN-OT-TPX.headerCell.title" = "Channel Name";
+"PaN-OT-TPX.headerCell.title" = "Kanalnamn";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "TaT-zx-zgK"; */
-"TaT-zx-zgK.title" = "Table View Cell";
+"TaT-zx-zgK.title" = "Tabellvyfält";
 
 /* Class = "NSTableColumn"; headerCell.title = "Topic"; ObjectID = "exA-K8-ozT"; */
-"exA-K8-ozT.headerCell.title" = "Topic";
+"exA-K8-ozT.headerCell.title" = "Ämne";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "iAr-vI-1Jn"; */
-"iAr-vI-1Jn.title" = "Table View Cell";
+"iAr-vI-1Jn.title" = "Tabellvyfält";
 
 /* Class = "NSTableColumn"; headerCell.title = "Member Count"; ObjectID = "iqK-MO-gQw"; */
-"iqK-MO-gQw.headerCell.title" = "Member Count";
+"iqK-MO-gQw.headerCell.title" = "Medlemsantal";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Channel List"; ObjectID = "m9z-1h-faf"; */
-"m9z-1h-faf.ibExternalAccessibilityDescription" = "Channel List";
+"m9z-1h-faf.ibExternalAccessibilityDescription" = "Kanallista";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Member Count"; ObjectID = "mMW-qu-HSl"; */
-"mMW-qu-HSl.ibExternalAccessibilityDescription" = "Member Count";
+"mMW-qu-HSl.ibExternalAccessibilityDescription" = "Medlemsantal";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "mMW-qu-HSl"; */
-"mMW-qu-HSl.title" = "Text Cell";
+"mMW-qu-HSl.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "oPQ-I2-Zqm"; */
-"oPQ-I2-Zqm.title" = "Table View Cell";
+"oPQ-I2-Zqm.title" = "Tabellvyfält";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Topic"; ObjectID = "seI-iZ-zcH"; */
-"seI-iZ-zcH.ibExternalAccessibilityDescription" = "Topic";
+"seI-iZ-zcH.ibExternalAccessibilityDescription" = "Ämne";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "seI-iZ-zcH"; */
-"seI-iZ-zcH.title" = "Text Cell";
+"seI-iZ-zcH.title" = "Textfält";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayName = "predicate"; ObjectID = "wAJ-2T-bDW"; */
 "wAJ-2T-bDW.ibShadowedDisplayName" = "predicate";

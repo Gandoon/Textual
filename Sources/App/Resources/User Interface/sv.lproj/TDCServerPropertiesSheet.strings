@@ -1,42 +1,42 @@
 
 /* Class = "NSWindow"; title = "Server Properties"; ObjectID = "5"; */
-"5.title" = "Server Properties";
+"5.title" = "Serverinställningar";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "1455"; */
-"1455.ibExternalAccessibilityDescription" = "Save";
+"1455.ibExternalAccessibilityDescription" = "Spara";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "1456"; */
-"1456.ibExternalAccessibilityDescription" = "Cancel";
+"1456.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1457"; */
-"1457.title" = "Cancel";
+"1457.title" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "1458"; */
-"1458.title" = "Save";
+"1458.title" = "Spara";
 
 /* Class = "NSButtonCell"; title = "Perform reconnect on disconnect"; ObjectID = "1535"; */
-"1535.title" = "Perform reconnect on disconnect";
+"1535.title" = "Återanslut vid oväntad frånkopplng";
 
 /* Class = "NSButtonCell"; title = "Connect when Textual opens"; ObjectID = "1536"; */
-"1536.title" = "Connect when Textual opens";
+"1536.title" = "Anslut när Textual startas";
 
 /* Class = "NSTextField"; ibShadowedToolTip = "Password to be sent using the PASS command. This is NOT your password for NickServ."; ObjectID = "1543"; */
-"1543.ibShadowedToolTip" = "Password to be sent using the PASS command. This is NOT your password for NickServ.";
+"1543.ibShadowedToolTip" = "Lösenord att skicka med PASS-kommandot. Detta är INTE ditt NickServ-lösenord.";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Attempt to secure the connection by performing a Transport Layer Security (TLS) negotiation. TLS is the modern equivalent of SSL (Secure Sockets Layer)"; ObjectID = "1545"; */
-"1545.ibShadowedToolTip" = "Attempt to secure the connection by performing a Transport Layer Security (TLS) negotiation. TLS is the modern equivalent of SSL (Secure Sockets Layer)";
+"1545.ibShadowedToolTip" = "Försök säkra anslutningen med en Transport Layer Security (TLS)-förhandling. TLS är den moderna motsvarigheten till SSL (Secure Sockets Layer)";
 
 /* Class = "NSComboBoxCell"; placeholderString = "irc.example.com"; ObjectID = "1549"; */
 "1549.placeholderString" = "irc.example.com";
 
 /* Class = "NSButtonCell"; title = "Connect Securely"; ObjectID = "1552"; */
-"1552.title" = "Connect Securely";
+"1552.title" = "Anslut säkert (TLS)";
 
 /* Class = "NSTextFieldCell"; title = "Server Password:"; ObjectID = "1553"; */
-"1553.title" = "Server Password:";
+"1553.title" = "Serverlösenord:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "1554"; */
-"1554.placeholderString" = "Optional";
+"1554.placeholderString" = "Valfritt";
 
 /* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "1555"; */
 "1555.title" = "Port:";
@@ -48,58 +48,58 @@
 "1556.title" = "6667";
 
 /* Class = "NSTextFieldCell"; title = "Server Address:"; ObjectID = "1557"; */
-"1557.title" = "Server Address:";
+"1557.title" = "Serveradress:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Example IRC Network"; ObjectID = "1558"; */
 "1558.placeholderString" = "Example IRC Network";
 
 /* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "1559"; */
-"1559.title" = "Connection Name:";
+"1559.title" = "Namn på anslutning:";
 
 /* Class = "NSTextFieldCell"; title = "This field is space separated"; ObjectID = "1610"; */
-"1610.title" = "This field is space separated";
+"1610.title" = "Detta fält är blankstegsseparerat";
 
 /* Class = "NSTextFieldCell"; title = "Alternative Nicknames:"; ObjectID = "1611"; */
-"1611.title" = "Alternative Nicknames:";
+"1611.title" = "Alternativa smeknamn:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "1612"; */
-"1612.placeholderString" = "Optional";
+"1612.placeholderString" = "Valfritt";
 
 /* Class = "NSTextFieldCell"; placeholderString = "NickServ or SASL Password"; ObjectID = "1613"; */
-"1613.placeholderString" = "NickServ or SASL Password";
+"1613.placeholderString" = "NickServ- eller SASL-lösenord";
 
 /* Class = "NSTextFieldCell"; title = "Real name:"; ObjectID = "1614"; */
-"1614.title" = "Real name:";
+"1614.title" = "Verkligt namn:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Textual User"; ObjectID = "1615"; */
-"1615.placeholderString" = "Textual User";
+"1615.placeholderString" = "Textualanvändare";
 
 /* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "1616"; */
-"1616.title" = "Username:";
+"1616.title" = "Användarnamn:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "textual"; ObjectID = "1617"; */
 "1617.placeholderString" = "textual";
 
 /* Class = "NSTextFieldCell"; title = "Nickname:"; ObjectID = "1618"; */
-"1618.title" = "Nickname:";
+"1618.title" = "Smeknamn:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Guest"; ObjectID = "1619"; */
-"1619.placeholderString" = "Guest";
+"1619.placeholderString" = "Gäst";
 
 /* Class = "NSTextFieldCell"; title = "Personal Password:"; ObjectID = "1626"; */
-"1626.title" = "Personal Password:";
+"1626.title" = "Personligt lösenord:";
 
 /* Class = "NSTextFieldCell"; title = "Part & Quit Message:"; ObjectID = "1668"; */
-"1668.title" = "Part & Quit Message:";
+"1668.title" = "Meddelande vid lämna och avslut:";
 
 /* Class = "NSTextFieldCell"; title = "Computer Sleep Quit Message:"; ObjectID = "1674"; */
-"1674.title" = "Computer Sleep Quit Message:";
+"1674.title" = "Meddelande vid datorvila:";
 
 /* Class = "NSTextFieldCell"; title = "Encoding:"; ObjectID = "1690"; */
-"1690.title" = "Encoding:";
+"1690.title" = "Teckenkodning:";
 
 /* Class = "NSTextFieldCell"; title = "Fallback:"; ObjectID = "1691"; */
-"1691.title" = "Fallback:";
+"1691.title" = "Reservkodning:";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1693"; */
 "1693.title" = "OtherViews";
@@ -108,79 +108,79 @@
 "1715.title" = "OtherViews";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Channel List"; ObjectID = "1793"; */
-"1793.ibExternalAccessibilityDescription" = "Channel List";
+"1793.ibExternalAccessibilityDescription" = "Kanallista";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Channel"; ObjectID = "1794"; */
-"1794.ibExternalAccessibilityDescription" = "Add Channel";
+"1794.ibExternalAccessibilityDescription" = "Lägg till kanal";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Selected Channel"; ObjectID = "1795"; */
-"1795.ibExternalAccessibilityDescription" = "Edit Selected Channel";
+"1795.ibExternalAccessibilityDescription" = "Ändra vald kanal";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Channel"; ObjectID = "1796"; */
-"1796.ibExternalAccessibilityDescription" = "Remove Selected Channel";
+"1796.ibExternalAccessibilityDescription" = "Ta bort vald kanal";
 
 /* Class = "NSButtonCell"; title = "Edit"; ObjectID = "1800"; */
-"1800.title" = "Edit";
+"1800.title" = "Ändra";
 
 /* Class = "NSTableColumn"; headerCell.title = "Join"; ObjectID = "1806"; */
-"1806.headerCell.title" = "Join";
+"1806.headerCell.title" = "Gå med";
 
 /* Class = "NSTableColumn"; headerCell.title = "Password"; ObjectID = "1807"; */
-"1807.headerCell.title" = "Password";
+"1807.headerCell.title" = "Lösenord";
 
 /* Class = "NSTableColumn"; headerCell.title = "Channel Name"; ObjectID = "1808"; */
-"1808.headerCell.title" = "Channel Name";
+"1808.headerCell.title" = "Kanalnamn";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Name"; ObjectID = "1809"; */
-"1809.ibExternalAccessibilityDescription" = "Channel Name";
+"1809.ibExternalAccessibilityDescription" = "Kanalnamn";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1809"; */
-"1809.title" = "Text Cell";
+"1809.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Password"; ObjectID = "1810"; */
-"1810.ibExternalAccessibilityDescription" = "Channel Password";
+"1810.ibExternalAccessibilityDescription" = "Kanallösenord";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1810"; */
-"1810.title" = "Text Cell";
+"1810.title" = "Textfält";
 
 /* Class = "NSButtonCell"; ibExternalAccessibilityDescription = "Join Channel on Connect"; ObjectID = "1811"; */
-"1811.ibExternalAccessibilityDescription" = "Join Channel on Connect";
+"1811.ibExternalAccessibilityDescription" = "Gå med i kanal vid anslutning";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Address Book List"; ObjectID = "1842"; */
-"1842.ibExternalAccessibilityDescription" = "Address Book List";
+"1842.ibExternalAccessibilityDescription" = "Adressboklista";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Address Book Entry"; ObjectID = "1843"; */
-"1843.ibExternalAccessibilityDescription" = "Add Address Book Entry";
+"1843.ibExternalAccessibilityDescription" = "Lägg till adressbokpost";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Selected Address Book Entry"; ObjectID = "1844"; */
-"1844.ibExternalAccessibilityDescription" = "Edit Selected Address Book Entry";
+"1844.ibExternalAccessibilityDescription" = "Ändra vald adressbokpost";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Address Book Entry"; ObjectID = "1845"; */
-"1845.ibExternalAccessibilityDescription" = "Remove Selected Address Book Entry";
+"1845.ibExternalAccessibilityDescription" = "Ta bort vald adressbokpost";
 
 /* Class = "NSButtonCell"; title = "Edit"; ObjectID = "1847"; */
-"1847.title" = "Edit";
+"1847.title" = "Ändra";
 
 /* Class = "NSTableColumn"; headerCell.title = "Entry Mask"; ObjectID = "1853"; */
-"1853.headerCell.title" = "Entry Mask";
+"1853.headerCell.title" = "Postmask";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Address Book Entry"; ObjectID = "1854"; */
-"1854.ibExternalAccessibilityDescription" = "Address Book Entry";
+"1854.ibExternalAccessibilityDescription" = "Adressbokpost";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1854"; */
-"1854.title" = "Text Cell";
+"1854.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; title = "Perform commands on connect:"; ObjectID = "1882"; */
-"1882.title" = "Perform commands on connect:";
+"1882.title" = "Kommandon att utföras vid anslutning:";
 
 /* Class = "NSButtonCell"; title = "Set invisible (+i) mode on connect"; ObjectID = "1886"; */
-"1886.title" = "Set invisible (+i) mode on connect";
+"1886.title" = "Sätt läge till osynlig (+i) vid anslutning";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "1907"; */
 "1907.title" = "OtherViews";
 
 /* Class = "NSMenuItem"; title = "Automatic"; ObjectID = "1909"; */
-"1909.title" = "Automatic";
+"1909.title" = "Automatiskt";
 
 /* Class = "NSMenuItem"; title = "SOCKS 5 Proxy"; ObjectID = "1910"; */
 "1910.title" = "SOCKS 5 Proxy";
@@ -189,7 +189,7 @@
 "1911.title" = "SOCKS 4 Proxy";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "1912"; */
-"1912.title" = "None";
+"1912.title" = "Ingen";
 
 /* Class = "NSTextFieldCell"; placeholderString = "admin"; ObjectID = "1913"; */
 "1913.placeholderString" = "admin";
@@ -198,217 +198,217 @@
 "1916.placeholderString" = "proxy.example.com";
 
 /* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "1917"; */
-"1917.title" = "Username:";
+"1917.title" = "Användarnamn:";
 
 /* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "1918"; */
-"1918.title" = "Password:";
+"1918.title" = "Lösenord:";
 
 /* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "1919"; */
 "1919.title" = "Port:";
 
 /* Class = "NSTextFieldCell"; title = "Address:"; ObjectID = "1920"; */
-"1920.title" = "Address:";
+"1920.title" = "Adress:";
 
 /* Class = "NSTextFieldCell"; title = "Type of Proxy:"; ObjectID = "1921"; */
-"1921.title" = "Type of Proxy:";
+"1921.title" = "Proxytyp:";
 
 /* Class = "NSTextFieldCell"; title = "This option requires a reconnect to apply"; ObjectID = "1979"; */
-"1979.title" = "This option requires a reconnect to apply";
+"1979.title" = "Detta val kräver en återanslutning";
 
 /* Class = "NSTableColumn"; headerCell.title = "Entry Type"; ObjectID = "1982"; */
 "1982.headerCell.title" = "Entry Type";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Address Book Entry Type"; ObjectID = "1983"; */
-"1983.ibExternalAccessibilityDescription" = "Address Book Entry Type";
+"1983.ibExternalAccessibilityDescription" = "Adressbokposttyp";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "1983"; */
-"1983.title" = "Text Cell";
+"1983.title" = "Textfält";
 
 /* Class = "NSButtonCell"; title = "Perform reconnect when waking from sleep"; ObjectID = "2251"; */
-"2251.title" = "Perform reconnect when waking from sleep";
+"2251.title" = "Återanslut när datorn vaknar från vila";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "2291"; */
-"2291.placeholderString" = "Optional";
+"2291.placeholderString" = "Valfritt";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Optional"; ObjectID = "2295"; */
-"2295.placeholderString" = "Optional";
+"2295.placeholderString" = "Valfritt";
 
 /* Class = "NSButtonCell"; title = "Encoding list includes all possible combinations"; ObjectID = "2316"; */
-"2316.title" = "Encoding list includes all possible combinations";
+"2316.title" = "Listan inkluderar alla möjliga kombinationer";
 
 /* Class = "NSTextFieldCell"; title = "Away Nickname:"; ObjectID = "2341"; */
-"2341.title" = "Away Nickname:";
+"2341.title" = "Smeknamn vid borta:";
 
 /* Class = "NSTextFieldCell"; placeholderString = "Guest[away]"; ObjectID = "2342"; */
 "2342.placeholderString" = "Guest[away]";
 
 /* Class = "NSTextFieldCell"; title = "Ignore or track the following people:"; ObjectID = "2359"; */
-"2359.title" = "Ignore or track the following people:";
+"2359.title" = "Ignorera eller följ:";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Remove Selected Highlight Match"; ObjectID = "2447"; */
-"2447.ibExternalAccessibilityDescription" = "Remove Selected Highlight Match";
+"2447.ibExternalAccessibilityDescription" = "Ta bort vald omnämnandematch";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Edit Selected Highlight Match"; ObjectID = "2448"; */
-"2448.ibExternalAccessibilityDescription" = "Edit Selected Highlight Match";
+"2448.ibExternalAccessibilityDescription" = "Ändra vald omnämnandematch";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Highlight Match"; ObjectID = "2449"; */
-"2449.ibExternalAccessibilityDescription" = "Add Highlight Match";
+"2449.ibExternalAccessibilityDescription" = "Lägg till omnämnandematch";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Highlight Match Table"; ObjectID = "2450"; */
-"2450.ibExternalAccessibilityDescription" = "Highlight Match Table";
+"2450.ibExternalAccessibilityDescription" = "Omnämnandematchtabell";
 
 /* Class = "NSTableColumn"; headerCell.title = "Channel"; ObjectID = "2455"; */
-"2455.headerCell.title" = "Channel";
+"2455.headerCell.title" = "Kanal";
 
 /* Class = "NSTableColumn"; headerCell.title = "Keyword"; ObjectID = "2456"; */
-"2456.headerCell.title" = "Keyword";
+"2456.headerCell.title" = "Nyckelord";
 
 /* Class = "NSTableColumn"; headerCell.title = "Entry Type"; ObjectID = "2457"; */
-"2457.headerCell.title" = "Entry Type";
+"2457.headerCell.title" = "Posttyp";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Highlight Match Type"; ObjectID = "2458"; */
-"2458.ibExternalAccessibilityDescription" = "Highlight Match Type";
+"2458.ibExternalAccessibilityDescription" = "Omnämnandematchtyp";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2458"; */
-"2458.title" = "Text Cell";
+"2458.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Highlight Keyword"; ObjectID = "2459"; */
-"2459.ibExternalAccessibilityDescription" = "Highlight Keyword";
+"2459.ibExternalAccessibilityDescription" = "Omnämnande-nyckelord";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2459"; */
-"2459.title" = "Text Cell";
+"2459.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; ibExternalAccessibilityDescription = "Channel Highlight Match is Restricted To"; ObjectID = "2460"; */
-"2460.ibExternalAccessibilityDescription" = "Channel Highlight Match is Restricted To";
+"2460.ibExternalAccessibilityDescription" = "Kanalomnämnandematch är begränsad till";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "2460"; */
-"2460.title" = "Text Cell";
+"2460.title" = "Textfält";
 
 /* Class = "NSButtonCell"; title = "Edit"; ObjectID = "2462"; */
-"2462.title" = "Edit";
+"2462.title" = "Ändra";
 
 /* Class = "NSButtonCell"; title = "Periodically PING the server to verify the connection"; ObjectID = "2532"; */
-"2532.title" = "Periodically PING the server to verify the connection";
+"2532.title" = "Skicka periodiska PING till servern för att verifiera anslutningen";
 
 /* Class = "NSButtonCell"; title = "Force a disconnect when no PING response is received"; ObjectID = "2537"; */
-"2537.title" = "Force a disconnect when no PING response is received";
+"2537.title" = "Tvinga en nedkoppling när inget PING-svar mottagits";
 
 /* Class = "NSButtonCell"; title = "Do not show notifications for the playback buffer"; ObjectID = "2581"; */
-"2581.title" = "Do not show notifications for the playback buffer";
+"2581.title" = "Visa inte notiser för playback-bufferten";
 
 /* Class = "NSTextFieldCell"; title = "Do not show notification bubbles or play sounds for messages that are part of the playback buffer."; ObjectID = "2591"; */
-"2591.title" = "Do not show notification bubbles or play sounds for messages that are part of the playback buffer.";
+"2591.title" = "Visa inte notisbubblor och spela inte ljud för meddelanden i playbackbufferten.";
 
 /* Class = "NSTextFieldCell"; title = "These options target version 1.2 of ZNC and later."; ObjectID = "2600"; */
-"2600.title" = "These options target version 1.2 of ZNC and later.";
+"2600.title" = "Dessa val är avsedda för version 1.2 och senare av ZNC.";
 
 /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "0nB-im-8PX"; */
-"0nB-im-8PX.title" = "Copy";
+"0nB-im-8PX.title" = "Kopiera";
 
 /* Class = "NSButtonCell"; title = "Reset Certificate"; ObjectID = "39U-39-9tk"; */
-"39U-39-9tk.title" = "Reset Certificate";
+"39U-39-9tk.title" = "Återställ certifikat";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Copy SHA-1 Fingerprint"; ObjectID = "758-2B-Ka3"; */
-"758-2B-Ka3.ibExternalAccessibilityDescription" = "Copy SHA-1 Fingerprint";
+"758-2B-Ka3.ibExternalAccessibilityDescription" = "Kopiera SHA-1-fingeravtryck";
 
 /* Class = "NSButtonCell"; title = "Wait for identification before joining channels"; ObjectID = "8B6-j5-4cs"; */
-"8B6-j5-4cs.title" = "Wait for identification before joining channels";
+"8B6-j5-4cs.title" = "Vänta på identifiering innan kanaler kontaktas";
 
 /* Class = "NSButtonCell"; title = "Modify Alternate Servers"; ObjectID = "8N1-4l-slN"; */
-"8N1-4l-slN.title" = "Modify Alternate Servers";
+"8N1-4l-slN.title" = "Ändra alternativa servrar";
 
 /* Class = "NSButtonCell"; title = "Warn if channels can't be joined"; ObjectID = "9Uc-VR-STk"; */
-"9Uc-VR-STk.title" = "Warn if channels can't be joined";
+"9Uc-VR-STk.title" = "Varna om kanaler inte kan gås med i";
 
 /* Class = "NSTextFieldCell"; title = "60"; ObjectID = "9bE-uW-eqe"; */
 "9bE-uW-eqe.title" = "60";
 
 /* Class = "NSTextFieldCell"; title = "Connect using:"; ObjectID = "B8q-jl-QtB"; */
-"B8q-jl-QtB.title" = "Connect using:";
+"B8q-jl-QtB.title" = "Anslut med:";
 
 /* Class = "NSTextFieldCell"; title = "This option requires the “playback” module."; ObjectID = "DES-Fw-k4c"; */
-"DES-Fw-k4c.title" = "This option requires the “playback” module.";
+"DES-Fw-k4c.title" = "Detta val kräver “playback”-modulen.";
 
 /* Class = "NSMenuItem"; title = "Version 5.2.7 list of cipher suites"; ObjectID = "DrH-DE-jbQ"; */
-"DrH-DE-jbQ.title" = "Version 5.2.7 list of cipher suites";
+"DrH-DE-jbQ.title" = "Chifferpaketlista version 5.2.7";
 
 /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "ElY-gw-ZZB"; */
-"ElY-gw-ZZB.title" = "Copy";
+"ElY-gw-ZZB.title" = "Kopiera";
 
 /* Class = "NSMenuItem"; title = "HTTP Proxy (Anonymous)"; ObjectID = "Fud-O2-fHR"; */
 "Fud-O2-fHR.title" = "HTTP Proxy (Anonymous)";
 
 /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Gbb-jh-4mY"; */
-"Gbb-jh-4mY.title" = "Label";
+"Gbb-jh-4mY.title" = "Etikett";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Current Value: %{value1}@"; ObjectID = "Iip-VB-iS5"; */
-"Iip-VB-iS5.ibShadowedDisplayPattern" = "Current Value: %{value1}@";
+"Iip-VB-iS5.ibShadowedDisplayPattern" = "Nuvarande värde: %{value1}@";
 
 /* Class = "NSTextFieldCell"; title = "Y: Number of seconds:"; ObjectID = "Jay-s8-9Xn"; */
-"Jay-s8-9Xn.title" = "Y: Number of seconds:";
+"Jay-s8-9Xn.title" = "Y: antal sekunder:";
 
 /* Class = "NSMenuItem"; title = "Add User Tracking Entry"; ObjectID = "Ju6-ey-oG4"; */
-"Ju6-ey-oG4.title" = "Add User Tracking Entry";
+"Ju6-ey-oG4.title" = "Lägg till användarspårningspost";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Copy MD5 Fingerprint"; ObjectID = "KJ9-QR-tAv"; */
-"KJ9-QR-tAv.ibExternalAccessibilityDescription" = "Copy MD5 Fingerprint";
+"KJ9-QR-tAv.ibExternalAccessibilityDescription" = "Kopiera MD5-fingeravtryck";
 
 /* Class = "NSButtonCell"; title = "View List"; ObjectID = "LuK-ZI-qT9"; */
-"LuK-ZI-qT9.title" = "View List";
+"LuK-ZI-qT9.title" = "Visa lista";
 
 /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "MCd-Ig-Szi"; */
-"MCd-Ig-Szi.title" = "Label";
+"MCd-Ig-Szi.title" = "Etikett";
 
 /* Class = "NSTextFieldCell"; title = "The options presented above require a reconnect to apply."; ObjectID = "MJ0-IQ-dNi"; */
-"MJ0-IQ-dNi.title" = "The options presented above require a reconnect to apply.";
+"MJ0-IQ-dNi.title" = "Valen ovan kräver en återanslutning.";
 
 /* Class = "NSTextFieldCell"; title = "MD5 Fingerprint:"; ObjectID = "Mmj-Ja-V8x"; */
-"Mmj-Ja-V8x.title" = "MD5 Fingerprint:";
+"Mmj-Ja-V8x.title" = "MD5-fingeravtryck:";
 
 /* Class = "NSTextFieldCell"; title = "This field is line separated"; ObjectID = "Mnf-Uj-ov2"; */
-"Mnf-Uj-ov2.title" = "This field is line separated";
+"Mnf-Uj-ov2.title" = "Ett kommando per rad";
 
 /* Class = "NSMenuItem"; title = "Add User Ignore Entry"; ObjectID = "Mxd-76-s9L"; */
-"Mxd-76-s9L.title" = "Add User Ignore Entry";
+"Mxd-76-s9L.title" = "Lägg till ignorera-användarepost";
 
 /* Class = "NSTextFieldCell"; title = "SHA-1 Fingerprint:"; ObjectID = "O13-rx-ewF"; */
-"O13-rx-ewF.title" = "SHA-1 Fingerprint:";
+"O13-rx-ewF.title" = "SHA-1-fingeravtryck:";
 
 /* Class = "NSButtonCell"; title = "IPv6"; ObjectID = "PI4-um-V5J"; */
 "PI4-um-V5J.title" = "IPv6";
 
 /* Class = "NSTextFieldCell"; title = "Cipher suites:"; ObjectID = "Qfh-rz-IdC"; */
-"Qfh-rz-IdC.title" = "Cipher suites:";
+"Qfh-rz-IdC.title" = "Chifferpaket:";
 
 /* Class = "NSTextFieldCell"; title = "When enabled, the SOCKS proxy that can be configured in the Network section of System Preferences will be used with the “Automatic” proxy type selected."; ObjectID = "R86-j6-hCz"; */
-"R86-j6-hCz.title" = "When enabled, the SOCKS proxy that can be configured in the Network section of System Preferences will be used with the “Automatic” proxy type selected.";
+"R86-j6-hCz.title" = "Detta val innebär att SOCKS-proxyn som konfigureras i nätverksfliken i Systeminställningar kommer användas då “Automatisk” proxytyp är vald.";
 
 /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "Sia-Zk-rSR"; */
-"Sia-Zk-rSR.title" = "Label";
+"Sia-Zk-rSR.title" = "Etikett";
 
 /* Class = "NSTextFieldCell"; title = "Textual is capable of automatically connecting to one or more alternate servers if the primary server fails to connect. Click the button presented below to modify the alternate servers for this connection."; ObjectID = "SnQ-4b-NG2"; */
-"SnQ-4b-NG2.title" = "Textual is capable of automatically connecting to one or more alternate servers if the primary server fails to connect. Click the button presented below to modify the alternate servers for this connection.";
+"SnQ-4b-NG2.title" = "Textual kan automatiskt ansluta till en eller flera alternativa servrar ifall den primära servern inte kan nås. Klicka nedan för att configurera de alternativa servrarna för denna anslutning.";
 
 /* Class = "NSButtonCell"; title = "Do not automatically join channels on connect"; ObjectID = "TH5-0C-MeB"; */
-"TH5-0C-MeB.title" = "Do not automatically join channels on connect";
+"TH5-0C-MeB.title" = "Gå inte automatiskt med i kanaler vid anslutning";
 
 /* Class = "NSMenuItem"; title = "Do not prefer specific cipher suites"; ObjectID = "TY8-cf-i4B"; */
-"TY8-cf-i4B.title" = "Do not prefer specific cipher suites";
+"TY8-cf-i4B.title" = "Inget specifikt chifferpaket föredras";
 
 /* Class = "NSTextFieldCell"; title = "Current Value:"; ObjectID = "U5o-dB-jmW"; */
-"U5o-dB-jmW.title" = "Current Value:";
+"U5o-dB-jmW.title" = "Nuvarande värde:";
 
 /* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "VCb-YR-fs2"; */
-"VCb-YR-fs2.title" = "Table View Cell";
+"VCb-YR-fs2.title" = "Tabellvyfält";
 
 /* Class = "NSTextFieldCell"; title = "Do not send more than X number of commands in Y seconds."; ObjectID = "XQt-eN-ufQ"; */
-"XQt-eN-ufQ.title" = "Do not send more than X number of commands in Y seconds.";
+"XQt-eN-ufQ.title" = "Skicka inte fler än X kommandon per Y sekunder.";
 
 /* Class = "NSMenuItem"; title = "Tor Anonymity Network"; ObjectID = "YN2-z6-RkW"; */
 "YN2-z6-RkW.title" = "Tor Anonymity Network";
 
 /* Class = "NSButtonCell"; title = "Automatically choose"; ObjectID = "YkZ-0c-BeT"; */
-"YkZ-0c-BeT.title" = "Automatically choose";
+"YkZ-0c-BeT.title" = "Välj automatiskt";
 
 /* Class = "NSTextFieldCell"; title = "1"; ObjectID = "ZNS-JS-fS4"; */
 "ZNS-JS-fS4.title" = "1";
@@ -417,61 +417,61 @@
 "bIe-e4-zYC.placeholderString" = "1080";
 
 /* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "bvj-Qr-Ebk"; */
-"bvj-Qr-Ebk.title" = "Label";
+"bvj-Qr-Ebk.title" = "Etikett";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Navigation"; ObjectID = "dW6-eC-jo9"; */
-"dW6-eC-jo9.ibExternalAccessibilityDescription" = "Navigation";
+"dW6-eC-jo9.ibExternalAccessibilityDescription" = "Navigera";
 
 /* Class = "NSButtonCell"; title = "Validate the certificate chain when connecting"; ObjectID = "dz6-nj-V0I"; */
-"dz6-nj-V0I.title" = "Validate the certificate chain when connecting";
+"dz6-nj-V0I.title" = "Validera certifikatkedjan vid anslutning";
 
 /* Class = "NSButtonCell"; title = "Only play back messages you missed"; ObjectID = "e2u-k3-3Ur"; */
-"e2u-k3-3Ur.title" = "Only play back messages you missed";
+"e2u-k3-3Ur.title" = "Spela bara upp meddelanden du missat";
 
 /* Class = "NSTextFieldCell"; title = "Current Value:"; ObjectID = "eMt-al-rqd"; */
-"eMt-al-rqd.title" = "Current Value:";
+"eMt-al-rqd.title" = "Nuvarande värde:";
 
 /* Class = "NSButtonCell"; title = "Do not share with other devices using iCloud"; ObjectID = "eql-rS-Io2"; */
-"eql-rS-Io2.title" = "Do not share with other devices using iCloud";
+"eql-rS-Io2.title" = "Dela inte med andra enheter via iCloud";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Copy MD5 Fingerprint"; ObjectID = "f9F-WF-ubf"; */
-"f9F-WF-ubf.ibExternalAccessibilityDescription" = "Copy MD5 Fingerprint";
+"f9F-WF-ubf.ibExternalAccessibilityDescription" = "Kopiera MD5-fingeravtryck";
 
 /* Class = "CocoaBindingsConnection"; ibShadowedDisplayPattern = "Current Value: %{value1}@"; ObjectID = "fUV-xU-dw1"; */
-"fUV-xU-dw1.ibShadowedDisplayPattern" = "Current Value: %{value1}@";
+"fUV-xU-dw1.ibShadowedDisplayPattern" = "Nuvarande värde: %{value1}@";
 
 /* Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "j5N-EC-4uH"; */
-"j5N-EC-4uH.title" = "Open System Preferences";
+"j5N-EC-4uH.title" = "Öppna Systeminställningar";
 
 /* Class = "NSTextFieldCell"; title = "X: Number of commands:"; ObjectID = "jHb-Iz-2jU"; */
-"jHb-Iz-2jU.title" = "X: Number of commands:";
+"jHb-Iz-2jU.title" = "X: Antal kommandon:";
 
 /* Class = "NSTextFieldCell"; title = "SHA-2 Fingerprint:"; ObjectID = "jhF-Ix-th5"; */
-"jhF-Ix-th5.title" = "SHA-2 Fingerprint:";
+"jhF-Ix-th5.title" = "SHA-2-fingeravtryck:";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Select Certificate"; ObjectID = "l36-PJ-JBU"; */
-"l36-PJ-JBU.ibExternalAccessibilityDescription" = "Select Certificate";
+"l36-PJ-JBU.ibExternalAccessibilityDescription" = "Välj certifikat";
 
 /* Class = "NSButtonCell"; title = "Force a disconnect when reachability changes"; ObjectID = "mLI-Vm-l2s"; */
-"mLI-Vm-l2s.title" = "Force a disconnect when reachability changes";
+"mLI-Vm-l2s.title" = "Tvinga en nedkoppling när nåbarheten ändras";
 
 /* Class = "NSMenuItem"; title = "Default list of cipher suites"; ObjectID = "mVB-Hg-Fuc"; */
-"mVB-Hg-Fuc.title" = "Default list of cipher suites";
+"mVB-Hg-Fuc.title" = "Standardlista med chifferpaket";
 
 /* Class = "NSTextFieldCell"; title = "Certificate Name:"; ObjectID = "pxF-PC-Aax"; */
-"pxF-PC-Aax.title" = "Certificate Name:";
+"pxF-PC-Aax.title" = "Certifikatnamn:";
 
 /* Class = "NSButtonCell"; title = "Copy"; ObjectID = "rDo-70-T0D"; */
-"rDo-70-T0D.title" = "Copy";
+"rDo-70-T0D.title" = "Kopiera";
 
 /* Class = "NSTextFieldCell"; title = "Select a certificate to send when you connect securely."; ObjectID = "rIl-yx-VEH"; */
-"rIl-yx-VEH.title" = "Select a certificate to send when you connect securely.";
+"rIl-yx-VEH.title" = "Välj ett certifikat att skicka när du ansluter säkert.";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "rPg-fR-uab"; */
-"rPg-fR-uab.title" = "Text Cell";
+"rPg-fR-uab.title" = "Textfält";
 
 /* Class = "NSMenuItem"; title = "Version 7.0.0 list of cipher suites"; ObjectID = "rag-NS-0Qi"; */
-"rag-NS-0Qi.title" = "Version 7.0.0 list of cipher suites";
+"rag-NS-0Qi.title" = "Chifferpaketlista version 7.0.0";
 
 /* Class = "NSButtonCell"; title = "IPv4"; ObjectID = "rrw-wu-OBL"; */
 "rrw-wu-OBL.title" = "IPv4";
@@ -480,10 +480,10 @@
 "sab-tw-7nn.ibExternalAccessibilityDescription" = "Reset Certificate";
 
 /* Class = "NSButtonCell"; title = "Select Certificate"; ObjectID = "uH8-BL-itx"; */
-"uH8-BL-itx.title" = "Select Certificate";
+"uH8-BL-itx.title" = "Välj certifikat";
 
 /* Class = "NSTextFieldCell"; title = "Textual will attempt to connect to the Tor anonymity network using the SOCKS5 proxy on port 9150 that is available when the “Tor Browser” application is open."; ObjectID = "voS-R3-3c7"; */
-"voS-R3-3c7.title" = "Textual will attempt to connect to the Tor anonymity network using the SOCKS5 proxy on port 9150 that is available when the “Tor Browser” application is open.";
+"voS-R3-3c7.title" = "Textual kommer försöka ansluta till Tor anonymity network via den SOCKS5-proxy som är tillgänglig på port 9150 när “Tor Browser” körs.";
 
 /* Class = "NSTextFieldCell"; title = "60"; ObjectID = "y5u-45-pvs"; */
 "y5u-45-pvs.title" = "60";

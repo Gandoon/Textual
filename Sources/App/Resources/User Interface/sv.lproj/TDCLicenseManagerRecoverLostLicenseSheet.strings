@@ -1,24 +1,24 @@
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Recover Lost License"; ObjectID = "3wc-zV-dNO"; */
-"3wc-zV-dNO.ibExternalAccessibilityDescription" = "Recover Lost License";
+"3wc-zV-dNO.ibExternalAccessibilityDescription" = "Återfå förlorad licens";
 
 /* Class = "NSTextFieldCell"; title = "E-mail Address:"; ObjectID = "Cbk-SL-qTh"; */
-"Cbk-SL-qTh.title" = "E-mail Address:";
+"Cbk-SL-qTh.title" = "E-postadress:";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "GuT-8v-aNV"; */
-"GuT-8v-aNV.ibExternalAccessibilityDescription" = "Cancel";
+"GuT-8v-aNV.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "KNw-Jq-eAB"; */
-"KNw-Jq-eAB.title" = "Cancel";
+"KNw-Jq-eAB.title" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "Recover Lost License"; ObjectID = "N4b-7q-PPZ"; */
-"N4b-7q-PPZ.title" = "Recover Lost License";
+"N4b-7q-PPZ.title" = "Återfå förlorad licens";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "E-mail address associated with order"; ObjectID = "RLC-SX-HOX"; */
-"RLC-SX-HOX.ibExternalAccessibilityDescription" = "E-mail address associated with order";
+"RLC-SX-HOX.ibExternalAccessibilityDescription" = "E-postadress associerad med order";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "gIn-WG-UO6"; */
-"gIn-WG-UO6.title" = "Window";
+"gIn-WG-UO6.title" = "Fönster";
 
 /* Class = "NSTextFieldCell"; title = "Enter the e-mail address used when purchasing Textual to recover your license key(s)."; ObjectID = "v6x-ej-Sxw"; */
-"v6x-ej-Sxw.title" = "Enter the e-mail address used when purchasing Textual to recover your license key(s).";
+"v6x-ej-Sxw.title" = "Ange e-postadressen du använde när du köpte Textual för att återfå dina licensnycklar.";

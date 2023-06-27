@@ -1,45 +1,45 @@
 
 /* Class = "NSWindow"; title = "File Transfers"; ObjectID = "5"; */
-"5.title" = "File Transfers";
+"5.title" = "Filöverföringar";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "34"; */
-"34.title" = "Menu";
+"34.title" = "Meny";
 
 /* Class = "NSMenuItem"; title = "Start Transfer"; ObjectID = "35"; */
-"35.title" = "Start Transfer";
+"35.title" = "Påbörja överföring";
 
 /* Class = "NSMenuItem"; title = "Cancel Transfer"; ObjectID = "36"; */
-"36.title" = "Cancel Transfer";
+"36.title" = "Avbryt överföring";
 
 /* Class = "NSMenuItem"; title = "Remove From List"; ObjectID = "42"; */
-"42.title" = "Remove From List";
+"42.title" = "Ta bort från listan";
 
 /* Class = "NSMenuItem"; title = "Open File"; ObjectID = "72"; */
-"72.title" = "Open File";
+"72.title" = "Öppna fil";
 
 /* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "84"; */
-"84.title" = "Reveal in Finder";
+"84.title" = "Visa i Finder";
 
 /* Class = "NSButtonCell"; title = "Clear All Stopped Transfers"; ObjectID = "118"; */
-"118.title" = "Clear All Stopped Transfers";
+"118.title" = "Rensa alla stoppade överföringar";
 
 /* Class = "NSTextFieldCell"; title = "dummyfile.png"; ObjectID = "5dv-pa-ldM"; */
 "5dv-pa-ldM.title" = "dummyfile.png";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "7Ku-ts-PpG"; */
-"7Ku-ts-PpG.title" = "Text Cell";
+"7Ku-ts-PpG.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; title = "10 MB"; ObjectID = "PAR-0R-j9A"; */
 "PAR-0R-j9A.title" = "10 MB";
 
 /* Class = "NSTextFieldCell"; title = "10 MB of 100 MB (100 KB/sec) — 2 seconds reamining"; ObjectID = "VVN-xJ-iKJ"; */
-"VVN-xJ-iKJ.title" = "10 MB of 100 MB (100 KB/sec) — 2 seconds reamining";
+"VVN-xJ-iKJ.title" = "10 MB av 100 MB (100 kB/sec) — 2 seconds reamining";
 
 /* Class = "NSSegmentedCell"; nY8-F3-7sa.ibShadowedLabels[0] = "All"; ObjectID = "nY8-F3-7sa"; */
-"nY8-F3-7sa.ibShadowedLabels[0]" = "All";
+"nY8-F3-7sa.ibShadowedLabels[0]" = "Alla";
 
 /* Class = "NSSegmentedCell"; nY8-F3-7sa.ibShadowedLabels[1] = "Sending"; ObjectID = "nY8-F3-7sa"; */
-"nY8-F3-7sa.ibShadowedLabels[1]" = "Sending";
+"nY8-F3-7sa.ibShadowedLabels[1]" = "Skickar";
 
 /* Class = "NSSegmentedCell"; nY8-F3-7sa.ibShadowedLabels[2] = "Receiving"; ObjectID = "nY8-F3-7sa"; */
-"nY8-F3-7sa.ibShadowedLabels[2]" = "Receiving";
+"nY8-F3-7sa.ibShadowedLabels[2]" = "Tar emot";

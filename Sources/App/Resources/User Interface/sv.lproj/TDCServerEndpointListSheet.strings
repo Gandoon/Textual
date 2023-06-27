@@ -1,72 +1,72 @@
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "223-Sc-uJ1"; */
-"223-Sc-uJ1.title" = "Window";
+"223-Sc-uJ1.title" = "Fönster";
 
 /* Class = "NSTableColumn"; headerCell.title = "Server Address"; ObjectID = "3Rd-8U-Cxh"; */
-"3Rd-8U-Cxh.headerCell.title" = "Server Address";
+"3Rd-8U-Cxh.headerCell.title" = "Serveradress";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "8Fn-em-09T"; */
-"8Fn-em-09T.title" = "Save";
+"8Fn-em-09T.title" = "Spara";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "8yj-vj-S3P"; */
-"8yj-vj-S3P.ibExternalAccessibilityDescription" = "Cancel";
+"8yj-vj-S3P.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "AuZ-P5-4ZF"; */
-"AuZ-P5-4ZF.title" = "Text Cell";
+"AuZ-P5-4ZF.title" = "Textfält";
 
 /* Class = "NSTextFieldCell"; title = "irc.example.com"; ObjectID = "DC0-dd-X4r"; */
 "DC0-dd-X4r.title" = "irc.example.com";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Connect Securely"; ObjectID = "Jha-5I-0JH"; */
-"Jha-5I-0JH.ibExternalAccessibilityDescription" = "Connect Securely";
+"Jha-5I-0JH.ibExternalAccessibilityDescription" = "Anslut säkert";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "M7E-PR-Kbt"; */
-"M7E-PR-Kbt.title" = "Text Cell";
+"M7E-PR-Kbt.title" = "Textfält";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Server Port"; ObjectID = "N3x-SV-fcf"; */
-"N3x-SV-fcf.ibExternalAccessibilityDescription" = "Server Port";
+"N3x-SV-fcf.ibExternalAccessibilityDescription" = "Serverport";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Server Address"; ObjectID = "NZ5-1k-jqr"; */
-"NZ5-1k-jqr.ibExternalAccessibilityDescription" = "Server Address";
+"NZ5-1k-jqr.ibExternalAccessibilityDescription" = "Serveradress";
 
 /* Class = "NSTableColumn"; headerCell.title = "Server Password"; ObjectID = "RDl-mf-DIn"; */
-"RDl-mf-DIn.headerCell.title" = "Server Password";
+"RDl-mf-DIn.headerCell.title" = "Serverlösenord";
 
 /* Class = "NSTableColumn"; headerToolTip = "Password to be sent using the PASS command. This is NOT your password for NickServ."; ObjectID = "RDl-mf-DIn"; */
-"RDl-mf-DIn.headerToolTip" = "Password to be sent using the PASS command. This is NOT your password for NickServ.";
+"RDl-mf-DIn.headerToolTip" = "Lösenord att skicka med PASS-kommandot. Detta är INTE ditt NickServ-lösenord.";
 
 /* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "Add Entry or Remove Entry"; ObjectID = "ThC-su-OJ3"; */
-"ThC-su-OJ3.ibExternalAccessibilityDescription" = "Add Entry or Remove Entry";
+"ThC-su-OJ3.ibExternalAccessibilityDescription" = "Lägg till eller ta bort post";
 
 /* Class = "NSTableColumn"; headerCell.title = "Server Port"; ObjectID = "W8o-NA-OQA"; */
-"W8o-NA-OQA.headerCell.title" = "Server Port";
+"W8o-NA-OQA.headerCell.title" = "Serverport";
 
 /* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "Server Password"; ObjectID = "cB8-GH-3UE"; */
-"cB8-GH-3UE.ibExternalAccessibilityDescription" = "Server Password";
+"cB8-GH-3UE.ibExternalAccessibilityDescription" = "Serverlösenord";
 
 /* Class = "NSTableColumn"; headerCell.title = "Connect Securely"; ObjectID = "cqT-uh-Sy9"; */
-"cqT-uh-Sy9.headerCell.title" = "Connect Securely";
+"cqT-uh-Sy9.headerCell.title" = "Anslut säkert";
 
 /* Class = "NSTableColumn"; headerToolTip = "Attempt to secure the connection by performing a Transport Layer Security (TLS) negotiation. TLS is the modern equivalent of SSL (Secure Sockets Layer)"; ObjectID = "cqT-uh-Sy9"; */
-"cqT-uh-Sy9.headerToolTip" = "Attempt to secure the connection by performing a Transport Layer Security (TLS) negotiation. TLS is the modern equivalent of SSL (Secure Sockets Layer)";
+"cqT-uh-Sy9.headerToolTip" = "Försök säkra anslutningen med en Transport Layer Security (TLS)-förhandling. TLS är den moderna motsvarigheten till SSL (Secure Sockets Layer)";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "eOR-Yk-u79"; */
-"eOR-Yk-u79.title" = "Text Cell";
+"eOR-Yk-u79.title" = "Textfält";
 
 /* Class = "NSTableView"; ibExternalAccessibilityDescription = "Server List"; ObjectID = "gbv-2u-rHi"; */
-"gbv-2u-rHi.ibExternalAccessibilityDescription" = "Server List";
+"gbv-2u-rHi.ibExternalAccessibilityDescription" = "Serverlista";
 
 /* Class = "NSTextFieldCell"; title = "65535"; ObjectID = "llo-Jr-fJz"; */
 "llo-Jr-fJz.title" = "65535";
 
 /* Class = "NSTextFieldCell"; title = "The order of this table, from top to bottom, determines the order in which Textual connects to each server.  Drag and drop servers to change the order. The top-most server is always the primary."; ObjectID = "qeA-Ep-V8r"; */
-"qeA-Ep-V8r.title" = "The order of this table, from top to bottom, determines the order in which Textual connects to each server.  Drag and drop servers to change the order. The top-most server is always the primary.";
+"qeA-Ep-V8r.title" = "Denna tabells ordning, uppifrån och ned, bestämmer i vilken ordning Textual ansluter till varje server.  Drag och släpp serverar för att ändra ordningen. Den översta servern är alltid den primära.";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "uLP-la-kWC"; */
-"uLP-la-kWC.title" = "Cancel";
+"uLP-la-kWC.title" = "Avbryt";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "vfj-CR-Lov"; */
-"vfj-CR-Lov.title" = "Text Cell";
+"vfj-CR-Lov.title" = "Textfält";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "xvV-vQ-BBH"; */
-"xvV-vQ-BBH.ibExternalAccessibilityDescription" = "Cancel";
+"xvV-vQ-BBH.ibExternalAccessibilityDescription" = "Avbryt";

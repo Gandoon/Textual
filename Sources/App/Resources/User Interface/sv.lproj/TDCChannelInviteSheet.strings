@@ -1,24 +1,24 @@
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "5"; */
-"5.title" = "Window";
+"5.title" = "Fönster";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Save"; ObjectID = "9"; */
-"9.ibExternalAccessibilityDescription" = "Save";
+"9.ibExternalAccessibilityDescription" = "Spara";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Cancel"; ObjectID = "10"; */
-"10.ibExternalAccessibilityDescription" = "Cancel";
+"10.ibExternalAccessibilityDescription" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "Invite"; ObjectID = "20"; */
-"20.title" = "Invite";
+"20.title" = "Bjud in till…";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "21"; */
-"21.title" = "Cancel";
+"21.title" = "Avbryt";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Channel to Invite User(s) To"; ObjectID = "31"; */
-"31.ibExternalAccessibilityDescription" = "Channel to Invite User(s) To";
+"31.ibExternalAccessibilityDescription" = "Bjud in användare till kanalen";
 
 /* Class = "NSMenu"; title = "OtherViews"; ObjectID = "33"; */
 "33.title" = "OtherViews";
 
 /* Class = "NSTextFieldCell"; title = "Invite nick to:"; ObjectID = "38"; */
-"38.title" = "Invite nick to:";
+"38.title" = "Bjud in användare till:";

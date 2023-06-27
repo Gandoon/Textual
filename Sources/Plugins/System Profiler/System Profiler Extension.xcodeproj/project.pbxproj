@@ -237,7 +237,6 @@
 				LastUpgradeCheck = 1200;
 				TargetAttributes = {
 					8D57630D048677EA00EA77CD = {
-						DevelopmentTeam = 8482Q6EPL6;
 						ProvisioningStyle = Manual;
 					};
 				};
@@ -307,6 +306,7 @@
 		1DEB911B08733D790010E9CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-SystemProfiler";
 				PRODUCT_NAME = SystemProfiler;
@@ -316,6 +316,7 @@
 		1DEB911C08733D790010E9CD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-SystemProfiler";
 				PRODUCT_NAME = SystemProfiler;
@@ -346,6 +347,7 @@
 		4C95801F1FA41F6D00F18BC8 /* Release (App Store) */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-SystemProfiler";
 				PRODUCT_NAME = SystemProfiler;

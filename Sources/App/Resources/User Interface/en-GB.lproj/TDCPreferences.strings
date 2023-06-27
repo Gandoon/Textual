@@ -48,7 +48,7 @@
 "26x-nD-BMT.placeholderString" = "127.0.0.1";
 
 /* Class = "NSTextFieldCell"; title = "These colors represent the various user modes shown on the user list for each channel."; ObjectID = "2QW-Qh-FdK"; */
-"2QW-Qh-FdK.title" = "These colors represent the various user modes shown on the user list for each channel.";
+"2QW-Qh-FdK.title" = "These colours represent the various user modes shown on the user list for each channel.";
 
 /* Class = "NSButtonCell"; title = "Enable App Nap"; ObjectID = "2nA-D4-FnZ"; */
 "2nA-D4-FnZ.title" = "Enable App Nap";
@@ -105,10 +105,10 @@
 "5M2-Hy-cjn.title" = "Top to bottom";
 
 /* Class = "NSToolbarItem"; label = "Behavior"; ObjectID = "5Zi-85-Fdl"; */
-"5Zi-85-Fdl.label" = "Behavior";
+"5Zi-85-Fdl.label" = "Behaviour";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Behavior"; ObjectID = "5Zi-85-Fdl"; */
-"5Zi-85-Fdl.paletteLabel" = "Behavior";
+"5Zi-85-Fdl.paletteLabel" = "Behaviour";
 
 /* Class = "NSMenuItem"; title = "15 Megabytes"; ObjectID = "5ca-8T-UYx"; */
 "5ca-8T-UYx.title" = "15 Megabytes";
@@ -480,7 +480,7 @@
 "MCy-M2-bOc.title" = "Server Staff Member:";
 
 /* Class = "NSTextFieldCell"; title = "User list no mode badge background color:"; ObjectID = "MDs-d0-Vsf"; */
-"MDs-d0-Vsf.title" = "User list no mode badge background color:";
+"MDs-d0-Vsf.title" = "User list no mode badge background colour:";
 
 /* Class = "NSButtonCell"; title = "Automatically reply to Client-to-Client (CTCP) requests"; ObjectID = "MT3-bO-x65"; */
 "MT3-bO-x65.title" = "Automatically reply to Client-to-Client (CTCP) requests";
@@ -600,7 +600,7 @@
 "S6P-uf-fin.title" = "Regular Expression (ICU)";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Maxium File Size for Inline Images"; ObjectID = "SBB-Bw-5cY"; */
-"SBB-Bw-5cY.ibExternalAccessibilityDescription" = "Maxium File Size for Inline Images";
+"SBB-Bw-5cY.ibExternalAccessibilityDescription" = "Maximum File Size for Inline Images";
 
 /* Class = "NSTextFieldCell"; title = "How long, in seconds, to wait in-between each join."; ObjectID = "SKh-K9-i5D"; */
 "SKh-K9-i5D.title" = "How long, in seconds, to wait in-between each join.";
@@ -732,7 +732,7 @@
 "ad6-Sp-XGr.ibExternalAccessibilityDescription" = "Open iCloud Custom Addons Location in Finder";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Reset User List Colors to Default Values"; ObjectID = "awz-7b-J7x"; */
-"awz-7b-J7x.ibExternalAccessibilityDescription" = "Reset User List Colors to Default Values";
+"awz-7b-J7x.ibExternalAccessibilityDescription" = "Reset User List Colours to Default Values";
 
 /* Class = "NSTextFieldCell"; title = "The maximum number of messages, per-channel, that are accessible through the scrollback.\n\nMessages are not saved between app launches unless “Restore scrollback from previous session” in the Behavior section of Preferences is enabled."; ObjectID = "b0a-Dq-Qqw"; */
 "b0a-Dq-Qqw.title" = "The maximum number of messages, per-channel, that are accessible through the scrollback.\n\nMessages are not saved between app launches unless “Restore scrollback from previous session” in the Behavior section of Preferences is enabled.";
@@ -972,7 +972,7 @@
 "pVP-3h-Oiy.title" = "The commands listed above are performed like any other: write a forward slash (/) followed by the name of the command plus any required arguments. Textual will perform the command and output the results accordingly.";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Reset Background Color for Unread Badge with Highlight"; ObjectID = "pZM-BH-WK6"; */
-"pZM-BH-WK6.ibExternalAccessibilityDescription" = "Reset Background Color for Unread Badge with Highlight";
+"pZM-BH-WK6.ibExternalAccessibilityDescription" = "Reset Background Colour for Unread Badge with Highlight";
 
 /* Class = "NSMenuItem"; title = "*!*@address"; ObjectID = "pb2-SP-miv"; */
 "pb2-SP-miv.title" = "*!*@address";
@@ -1020,7 +1020,7 @@
 "sqG-aL-jV2.ibExternalAccessibilityDescription" = "File Transfer Port Range Last Port";
 
 /* Class = "NSTextFieldCell"; title = "Background color for unread badge with highlight:"; ObjectID = "sqY-lA-TEZ"; */
-"sqY-lA-TEZ.title" = "Background color for unread badge with highlight:";
+"sqY-lA-TEZ.title" = "Background colour for unread badge with highlight:";
 
 /* Class = "NSMenuItem"; title = "2 Megabytes"; ObjectID = "t1F-VN-p7e"; */
 "t1F-VN-p7e.title" = "2 Megabytes";
@@ -1053,7 +1053,7 @@
 "v2f-9c-gsp.title" = "Select Destination…";
 
 /* Class = "NSButtonCell"; title = "Disable nickname colors"; ObjectID = "v8i-xw-cdg"; */
-"v8i-xw-cdg.title" = "Disable nickname colors";
+"v8i-xw-cdg.title" = "Disable nickname colours";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Action to Perform when File Transfer Request is Received"; ObjectID = "vGr-Fx-7Yk"; */
 "vGr-Fx-7Yk.ibExternalAccessibilityDescription" = "Action to Perform when File Transfer Request is Received";
