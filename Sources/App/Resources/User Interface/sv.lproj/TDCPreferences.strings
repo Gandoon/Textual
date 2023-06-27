@@ -519,7 +519,7 @@
 "Nqu-81-VCV.ibExternalAccessibilityDescription" = "Lägg till nyckelord för markering";
 
 /* Class = "NSTextFieldCell"; title = "When file transfer request is received:"; ObjectID = "ODe-np-HQz"; */
-"ODe-np-HQz.title" = "When file transfer request is received:";
+"ODe-np-HQz.title" = "När en filöverföringsbegäran mottages:";
 
 /* Class = "NSMenuItem"; title = "File Transfers"; ObjectID = "OeQ-Ms-xcp"; */
 "OeQ-Ms-xcp.title" = "Filöverföringar";
@@ -537,7 +537,7 @@
 "PMI-yd-MYO.title" = "Denna inställning kan slås på eller av för individuella kanaler i kanalegenskaper.";
 
 /* Class = "NSMenuItem"; title = "Select Destination…"; ObjectID = "PSl-Ru-20E"; */
-"PSl-Ru-20E.title" = "Välj destination…";
+"PSl-Ru-20E.title" = "Välj…";
 
 /* Class = "NSTextFieldCell"; title = "Main window transparency:"; ObjectID = "Pab-0Z-VAE"; */
 "Pab-0Z-VAE.title" = "Huvudfönstrets genomskinlighet:";

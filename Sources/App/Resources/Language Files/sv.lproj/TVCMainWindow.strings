@@ -37,34 +37,34 @@
 
 "tjj-z2" = "No Privileges";
 "ya1-sk" = "Voice";
-"0nn-te" = "Half-op";
-"0kn-s5" = "Operator";
-"som-zo" = "Super Admin";
-"p1z-sc" = "Channel Owner";
-"i8t-vb" = "Server Staff Member (IRC Operator)";
-"jkr-ed" = "User is away";
-"gi6-wf" = "User is not away";
+"0nn-te" = "Halv-op";
+"0kn-s5" = "Operatör";
+"som-zo" = "Superadmin";
+"p1z-sc" = "Kanalägare";
+"i8t-vb" = "Serverpersonal (IRC Operator)";
+"jkr-ed" = "Användare är borta";
+"gi6-wf" = "Användare är inte borta";
 
-"d85-9n" = "Information Not Available";
+"d85-9n" = "Information ej tillgänglig";
 
-"8r3-ih" = "Send message…";
+"8r3-ih" = "Skicka meddelande…";
 
 "jqk-ha" = " — ";
 "cyg-g9" = " (%@)";
-"v6i-zb" = " (%@ users)";
-"19v-bc" = "%1$@%2$@ on %3$@";
-"q42-an" = "Disconnected — ";
-"xqd-h9" = "Disconnecting… — ";
-"8eu-c7" = "Connecting… — ";
-"wcb-y8" = "Logging on… — ";
-"s23-zd" = "Reconnecting… — ";
-"3yn-wd" = "Waiting to reconnect… — ";
-"nxz-l9" = " (away)";
+"v6i-zb" = " (%@ användare)";
+"19v-bc" = "%1$@%2$@ på %3$@";
+"q42-an" = "Frånkopplad — ";
+"xqd-h9" = "Kopplar från… — ";
+"8eu-c7" = "Ansluter… — ";
+"wcb-y8" = "Loggar in… — ";
+"s23-zd" = "Återansluter… — ";
+"3yn-wd" = "Väntar på att återansluta… — ";
+"nxz-l9" = " (borta)";
 "6wz-pd" = "%1$@ (%2$@)";
 
-"iph-a9" = "Loading configuration…";
-"5g1-i9" = "Importing preferences…";
+"iph-a9" = "Läser in konfiguration…";
+"5g1-i9" = "Importerar inställningar…";
 
-"4yo-mk" = "Current Session";
+"4yo-mk" = "Nuvarande session";
 
-"vi3-23" = "(No Topic)";
+"vi3-23" = "(Inget ämne)";

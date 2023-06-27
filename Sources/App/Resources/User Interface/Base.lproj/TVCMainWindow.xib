@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="18122" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
+<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="17701" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES">
     <dependencies>
         <deployment identifier="macosx"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="18122"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="17701"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
@@ -16,7 +16,7 @@
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
             <windowCollectionBehavior key="collectionBehavior" fullScreenPrimary="YES"/>
             <rect key="contentRect" x="515" y="206" width="800" height="477"/>
-            <rect key="screenRect" x="0.0" y="0.0" width="2560" height="1440"/>
+            <rect key="screenRect" x="0.0" y="0.0" width="1920" height="1177"/>
             <view key="contentView" wantsLayer="YES" id="2">
                 <rect key="frame" x="0.0" y="0.0" width="800" height="477"/>
                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -25,7 +25,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="800" height="38"/>
                         <subviews>
                             <segmentedControl verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="Q9x-Ny-Yn4" customClass="TVCMainWindowSegmentedController">
-                                <rect key="frame" x="9" y="7" width="154" height="23"/>
+                                <rect key="frame" x="9.5" y="7" width="153" height="23"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="152" id="1ir-ed-Ia3"/>
                                 </constraints>
@@ -147,10 +147,10 @@
                                                             <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
                                                             <prototypeCellViews>
                                                                 <tableCellView identifier="GroupView" translatesAutoresizingMaskIntoConstraints="NO" id="LOI-ud-jS4" customClass="TVCServerListCellGroupItem">
-                                                                    <rect key="frame" x="0.0" y="0.0" width="150" height="23"/>
+                                                                    <rect key="frame" x="0.0" y="0.0" width="138" height="23"/>
                                                                     <subviews>
                                                                         <textField horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="wBU-6B-7f4">
-                                                                            <rect key="frame" x="3" y="3" width="147" height="17"/>
+                                                                            <rect key="frame" x="3" y="3" width="135" height="17"/>
                                                                             <textFieldCell key="cell" lineBreakMode="truncatingTail" allowsUndo="NO" sendsActionOnEndEditing="YES" title="Table View Cell" id="fBN-3b-ksS" customClass="TVCMainWindowSidebarSmoothTextFieldCell">
                                                                                 <font key="font" metaFont="systemBold" size="14"/>
                                                                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -170,7 +170,7 @@
                                                                     </connections>
                                                                 </tableCellView>
                                                                 <tableCellView identifier="ChildView" translatesAutoresizingMaskIntoConstraints="NO" id="AKs-o3-7CO" customClass="TVCServerListCellChildItem">
-                                                                    <rect key="frame" x="0.0" y="23" width="150" height="19"/>
+                                                                    <rect key="frame" x="0.0" y="0.0" width="138" height="19"/>
                                                                     <subviews>
                                                                         <imageView wantsLayer="YES" horizontalHuggingPriority="750" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" translatesAutoresizingMaskIntoConstraints="NO" id="68i-pd-Me5">
                                                                             <rect key="frame" x="2" y="2" width="0.0" height="15"/>
@@ -185,7 +185,7 @@
                                                                             </textFieldCell>
                                                                         </textField>
                                                                         <imageView wantsLayer="YES" horizontalHuggingPriority="750" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" translatesAutoresizingMaskIntoConstraints="NO" id="Ybi-Bk-q6V">
-                                                                            <rect key="frame" x="148" y="1" width="0.0" height="17"/>
+                                                                            <rect key="frame" x="136" y="1" width="0.0" height="17"/>
                                                                             <imageCell key="cell" refusesFirstResponder="YES" alignment="left" id="AgO-Mi-Fwf"/>
                                                                         </imageView>
                                                                     </subviews>
@@ -276,7 +276,7 @@
                                                             <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
                                                             <prototypeCellViews>
                                                                 <tableCellView identifier="GroupView" translatesAutoresizingMaskIntoConstraints="NO" id="nyR-GE-ZXL" customClass="TVCMemberListCell">
-                                                                    <rect key="frame" x="0.0" y="0.0" width="150" height="20"/>
+                                                                    <rect key="frame" x="0.0" y="0.0" width="138" height="20"/>
                                                                     <subviews>
                                                                         <imageView wantsLayer="YES" horizontalHuggingPriority="750" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" translatesAutoresizingMaskIntoConstraints="NO" id="Lq2-t9-aDp">
                                                                             <rect key="frame" x="0.0" y="2" width="16" height="16"/>
@@ -286,7 +286,7 @@
                                                                             <imageCell key="cell" refusesFirstResponder="YES" alignment="left" image="FormattingColor_2" id="G8T-wi-HCu"/>
                                                                         </imageView>
                                                                         <textField horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="jld-0X-vn0">
-                                                                            <rect key="frame" x="20" y="2" width="132" height="16"/>
+                                                                            <rect key="frame" x="20" y="2" width="120" height="16"/>
                                                                             <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="Label" id="Mby-SL-PEz" customClass="TVCMainWindowSidebarSmoothTextFieldCell">
                                                                                 <font key="font" metaFont="cellTitle"/>
                                                                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -401,10 +401,10 @@
         </window>
         <customObject id="-3" userLabel="Application" customClass="NSObject"/>
         <customView translatesAutoresizingMaskIntoConstraints="NO" id="Oh2-zJ-yiT" userLabel="User Info Popover View">
-            <rect key="frame" x="0.0" y="0.0" width="358" height="125"/>
+            <rect key="frame" x="0.0" y="0.0" width="359" height="125"/>
             <subviews>
                 <gridView xPlacement="fill" yPlacement="fill" rowAlignment="firstBaseline" rowSpacing="3" columnSpacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="ICd-wA-BP1">
-                    <rect key="frame" x="15" y="10" width="328" height="105"/>
+                    <rect key="frame" x="15" y="10" width="329" height="105"/>
                     <rows>
                         <gridRow id="krD-PF-8kY"/>
                         <gridRow id="WIU-yG-MVI"/>
@@ -430,7 +430,7 @@
                         </gridCell>
                         <gridCell row="krD-PF-8kY" column="rpa-b6-KdN" id="C0y-uu-gDv">
                             <textField key="contentView" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="Blz-Bt-ZsS">
-                                <rect key="frame" x="80" y="90" width="246" height="15"/>
+                                <rect key="frame" x="80" y="90" width="247" height="15"/>
                                 <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="################################" id="av8-83-Zed">
                                     <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
@@ -453,7 +453,7 @@
                         </gridCell>
                         <gridCell row="WIU-yG-MVI" column="rpa-b6-KdN" id="UdS-eP-dZs">
                             <textField key="contentView" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="jP1-tt-X27">
-                                <rect key="frame" x="80" y="72" width="246" height="15"/>
+                                <rect key="frame" x="80" y="72" width="247" height="15"/>
                                 <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="################################" id="fBu-jr-cGU">
                                     <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
@@ -476,7 +476,7 @@
                         </gridCell>
                         <gridCell row="Q7S-fA-zK4" column="rpa-b6-KdN" id="kDg-yc-qTQ">
                             <textField key="contentView" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="gx5-KC-Pkt">
-                                <rect key="frame" x="80" y="54" width="246" height="15"/>
+                                <rect key="frame" x="80" y="54" width="247" height="15"/>
                                 <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="################################" id="fuW-Vk-8im">
                                     <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
@@ -499,7 +499,7 @@
                         </gridCell>
                         <gridCell row="yEF-a5-wiQ" column="rpa-b6-KdN" id="ZZB-wc-cOt">
                             <textField key="contentView" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="EcV-hb-9F1">
-                                <rect key="frame" x="80" y="36" width="246" height="15"/>
+                                <rect key="frame" x="80" y="36" width="247" height="15"/>
                                 <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="################################" id="ohH-Rl-ixA">
                                     <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
@@ -522,7 +522,7 @@
                         </gridCell>
                         <gridCell row="EmQ-MG-Vbq" column="rpa-b6-KdN" id="Ff7-oK-cSk">
                             <textField key="contentView" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="WEa-1V-bIW">
-                                <rect key="frame" x="80" y="18" width="246" height="15"/>
+                                <rect key="frame" x="80" y="18" width="247" height="15"/>
                                 <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="################################" id="XTw-zV-D90">
                                     <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
@@ -545,7 +545,7 @@
                         </gridCell>
                         <gridCell row="V1J-y2-JcM" column="rpa-b6-KdN" id="kFq-rD-b5f">
                             <textField key="contentView" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="6vR-3K-Yh7">
-                                <rect key="frame" x="80" y="0.0" width="246" height="15"/>
+                                <rect key="frame" x="80" y="0.0" width="247" height="15"/>
                                 <textFieldCell key="cell" lineBreakMode="truncatingTail" sendsActionOnEndEditing="YES" title="################################" id="UPo-wk-s6E">
                                     <font key="font" metaFont="cellTitle"/>
                                     <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
@@ -1938,10 +1938,10 @@
             <point key="canvasLocation" x="510" y="492"/>
         </customView>
         <customView translatesAutoresizingMaskIntoConstraints="NO" id="c10-eB-wRJ" userLabel="Loading Screen: Welcome, Add Server">
-            <rect key="frame" x="0.0" y="0.0" width="482" height="327"/>
+            <rect key="frame" x="0.0" y="-1" width="482" height="328"/>
             <subviews>
                 <imageView translatesAutoresizingMaskIntoConstraints="NO" id="GY8-jo-A4y">
-                    <rect key="frame" x="165" y="155" width="152" height="152"/>
+                    <rect key="frame" x="165" y="156" width="152" height="152"/>
                     <constraints>
                         <constraint firstAttribute="width" constant="152" id="7Gk-Ye-EeM"/>
                         <constraint firstAttribute="width" secondItem="GY8-jo-A4y" secondAttribute="height" multiplier="1:1" id="eUr-Eu-mwp"/>
@@ -1949,7 +1949,7 @@
                     <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="applicationIcon" id="hLG-Ns-gsB"/>
                 </imageView>
                 <textField verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="hcL-fW-9VX">
-                    <rect key="frame" x="102" y="112" width="278" height="35"/>
+                    <rect key="frame" x="102" y="113" width="278" height="35"/>
                     <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Welcome to Textual 7" id="uL2-Aa-1FS">
                         <font key="font" metaFont="system" size="30"/>
                         <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
@@ -1957,7 +1957,7 @@
                     </textFieldCell>
                 </textField>
                 <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="iAb-RH-KAw">
-                    <rect key="frame" x="33" y="56" width="416" height="48"/>
+                    <rect key="frame" x="33" y="57" width="416" height="48"/>
                     <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" id="bTX-Jn-rpL">
                         <font key="font" metaFont="system"/>
                         <string key="title">Textual is a powerful, yet lightweight, IRC client built exclusively for the Mac. To get started, Textual will walk you through adding your first server. Click the button below to get started.</string>
@@ -1966,7 +1966,7 @@
                     </textFieldCell>
                 </textField>
                 <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="ba0-0Q-9bh">
-                    <rect key="frame" x="197" y="13" width="89" height="32"/>
+                    <rect key="frame" x="194" y="13" width="95" height="32"/>
                     <buttonCell key="cell" type="push" title="Continue" bezelStyle="rounded" alignment="center" borderStyle="border" inset="2" id="Ml7-3B-qhV">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                         <font key="font" metaFont="system"/>
@@ -1992,10 +1992,10 @@
             <point key="canvasLocation" x="32" y="581"/>
         </customView>
         <customView translatesAutoresizingMaskIntoConstraints="NO" id="dlj-jp-O6P" userLabel="Loading Screen: Trial Expired">
-            <rect key="frame" x="0.0" y="0.0" width="520" height="415"/>
+            <rect key="frame" x="0.0" y="-2" width="520" height="417"/>
             <subviews>
                 <textField verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="Sxb-jV-wmm">
-                    <rect key="frame" x="44" y="200" width="433" height="35"/>
+                    <rect key="frame" x="44" y="202" width="432" height="35"/>
                     <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Your trial of Textual 7 has expired!" id="LNi-eT-r8e">
                         <font key="font" metaFont="system" size="30"/>
                         <color key="textColor" name="textColor" catalog="System" colorSpace="catalog"/>
@@ -2003,7 +2003,7 @@
                     </textFieldCell>
                 </textField>
                 <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="6kZ-YA-3P0">
-                    <rect key="frame" x="86" y="144" width="348" height="48"/>
+                    <rect key="frame" x="86" y="146" width="348" height="48"/>
                     <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" id="J9b-GU-Ie0">
                         <font key="font" metaFont="system"/>
                         <string key="title">Thank you for trying Textual 7 for the past 30 days. 
@@ -2014,7 +2014,7 @@ To continue using Textual 7, you will need to purchase it.</string>
                     </textFieldCell>
                 </textField>
                 <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="u65-PZ-rca">
-                    <rect key="frame" x="200" y="101" width="121" height="32"/>
+                    <rect key="frame" x="197" y="102" width="127" height="32"/>
                     <buttonCell key="cell" type="push" title="Purchase Now" bezelStyle="rounded" alignment="center" borderStyle="border" inset="2" id="Oyn-9I-e5e">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                         <font key="font" metaFont="system"/>
@@ -2025,7 +2025,7 @@ To continue using Textual 7, you will need to purchase it.</string>
                     </connections>
                 </button>
                 <imageView translatesAutoresizingMaskIntoConstraints="NO" id="y8X-eU-D17">
-                    <rect key="frame" x="184" y="243" width="152" height="152"/>
+                    <rect key="frame" x="184" y="245" width="152" height="152"/>
                     <constraints>
                         <constraint firstAttribute="width" constant="152" id="JuG-GC-0q4"/>
                         <constraint firstAttribute="width" secondItem="y8X-eU-D17" secondAttribute="height" multiplier="1:1" id="miR-e6-Ves"/>
@@ -2033,13 +2033,13 @@ To continue using Textual 7, you will need to purchase it.</string>
                     <imageCell key="cell" refusesFirstResponder="YES" alignment="left" animates="YES" imageScaling="proportionallyDown" image="applicationIcon" id="dnb-Ek-TpJ"/>
                 </imageView>
                 <box verticalHuggingPriority="750" boxType="separator" translatesAutoresizingMaskIntoConstraints="NO" id="Rfe-Am-khK">
-                    <rect key="frame" x="50" y="87" width="420" height="5"/>
+                    <rect key="frame" x="50" y="88" width="420" height="5"/>
                     <constraints>
                         <constraint firstAttribute="width" constant="420" id="dfS-de-acv"/>
                     </constraints>
                 </box>
                 <textField verticalHuggingPriority="750" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="LK8-9t-3xT">
-                    <rect key="frame" x="159" y="55" width="203" height="16"/>
+                    <rect key="frame" x="159" y="56" width="203" height="16"/>
                     <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" sendsActionOnEndEditing="YES" title="Already own a copy of Textual 7?" id="MJr-dN-Icn">
                         <font key="font" metaFont="system"/>
                         <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
@@ -2047,7 +2047,7 @@ To continue using Textual 7, you will need to purchase it.</string>
                     </textFieldCell>
                 </textField>
                 <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="XHv-hd-4V2">
-                    <rect key="frame" x="195" y="13" width="130" height="32"/>
+                    <rect key="frame" x="192" y="13" width="136" height="32"/>
                     <buttonCell key="cell" type="push" title="Activate Textual" bezelStyle="rounded" alignment="center" borderStyle="border" inset="2" id="zy8-ma-OJS">
                         <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
                         <font key="font" metaFont="system"/>
@@ -2079,7 +2079,6 @@ To continue using Textual 7, you will need to purchase it.</string>
             <point key="canvasLocation" x="52" y="1002"/>
         </customView>
         <arrayController objectClassName="IRCChannelMember" preservesSelection="NO" selectsInsertedObjects="NO" avoidsEmptySelection="NO" id="hdH-wA-Q1P" customClass="IRCChannelMemberListController">
-            <classReference key="objectClass" className="IRCChannelMember"/>
             <connections>
                 <outlet property="tableView" destination="bgh-q2-4XX" id="hkO-aM-hXC"/>
             </connections>
@@ -2104,9 +2103,9 @@ To continue using Textual 7, you will need to purchase it.</string>
         <image name="FormattingColor_9" width="16" height="16"/>
         <image name="FormattingColor_Rainbow" width="16" height="16"/>
         <image name="MainWindowSegmentedControlUserTemplate" width="20" height="18"/>
-        <image name="NSActionTemplate" width="15" height="15"/>
-        <image name="NSAddTemplate" width="14" height="13"/>
-        <image name="NSLockUnlockedTemplate" width="17" height="15"/>
+        <image name="NSActionTemplate" width="14" height="14"/>
+        <image name="NSAddTemplate" width="11" height="11"/>
+        <image name="NSLockUnlockedTemplate" width="10" height="14"/>
         <image name="applicationIcon" width="512" height="512"/>
     </resources>
 </document>

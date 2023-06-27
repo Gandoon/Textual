@@ -38,13 +38,13 @@
 /* Script errors */
 "d3c-9b" = "The command \002%@\002 is defined by a plugin and a script. Ignoring command because of inability to determine priority.";
 
-"ax0-mt" = "Script Execution Failure: %@";
-"2mc-h0" = "Script Execution Failure (%1$@: %2$@): %3$@";
+"ax0-mt" = "Scriptkörningsfel: %@";
+"2mc-h0" = "Scriptkörningsfel (%1$@: %2$@): %3$@";
 
 /* Generic messages */
-"0r1-5l" = "Textual has prevented you from banning yourself on %@";
+"0r1-5l" = "Textual har förhindrat att du bannlyser dig själv på %@";
 
-"6rj-2r" = "Failed to send data to server. Not connected.";
+"6rj-2r" = "Kunde inte skicka data till server. Ej ansluten.";
 
 /* Default G:Line reason */
 "56r-wn" = "35d Your behavior is not conducive to the desired environment";
@@ -53,7 +53,7 @@
 "80c-i8" = "1d Shunned";
 
 /* Network not available messages */
-"3s6-e6" = "Delaying auto connect for %lu seconds";
+"3s6-e6" = "Fördröjer automatisk anslutning i %lu sekunder";
 
 /* File transfer server console messages */
 "ags-s8" = "Trying file transfer to %1$@, %2$@ (%3$qi bytes)";
@@ -331,17 +331,17 @@
 "9aj-bd" = "\002%1$@\002 kicked \002%2$@\002 from the channel (%3$@)";
 "nkr-kf" = "\002%1$@\002 (%2$@@%3$@) left the channel";
 "ozy-6i" = "%1$@ (%2$@)";
-"onk-l5" = "%1$@ is in %2$@";
-"h19-n2" = "%1$@ is connected on %2$@ (%3$@)";
-"plg-lr" = "%1$@ has userhost %2$@@%3$@ and real name “%4$@”";
-"6hn-o6" = "%1$@ signed on at %2$@ and has been idle for %3$@";
+"onk-l5" = "%1$@ är i %2$@";
+"h19-n2" = "%1$@ är ansluten till %2$@ (%3$@)";
+"plg-lr" = "%1$@ har användarvärd %2$@@%3$@ och verkligt namn “%4$@”";
+"6hn-o6" = "%1$@ loggade in den %2$@ och har varit overksam i %3$@";
 "cdu-ed" = "%1$@ was connected to %2$@ on %3$@";
-"32c-87" = "%1$@ had userhost %2$@@%3$@ and real name “%4$@”";
+"32c-87" = "%1$@ hade användarvärd %2$@@%3$@ och verkligt namn “%4$@”";
 "11i-ev" = "You cannot send private messages to %@. Anything that you send to them will be ignored until you are added to their list of recognized users.";
 "3yj-in" = "%1$@ (%2$@) tried to send you a private message, but it was ignored due to \002umode +g\002. Perform “/accept %1$@” to allow this user to communicate with you.";
 "5i4-qq" = "Reconnecting to proxy to rebuild internal state…"; // irssi proxy
-"5h5-sl" = "Server closed read stream";
+"5h5-sl" = "Servern stängde läsströmmen";
 "r5h-fj" = "Joining channels has been delayed because because you haven't identified. Perform “/autojoin” to join channels without identifying.";
-"3oa-mv" = "%1$@ is connected from %2$@ (%3$@)";
-"x69-rz" = "%1$@ was connected from %2$@ (%3$@)";
-"js3-9v" = "Cannot use nickname “%@“ — Trying another…";
+"3oa-mv" = "%1$@ är ansluten från %2$@ (%3$@)";
+"x69-rz" = "%1$@ var ansluten från %2$@ (%3$@)";
+"js3-9v" = "Kan inte använda smeknamnet “%@“ — Försöker med ett annat…";

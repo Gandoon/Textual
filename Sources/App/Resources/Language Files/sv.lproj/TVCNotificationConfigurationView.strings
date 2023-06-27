@@ -35,8 +35,8 @@
  *
  *********************************************************************** */
 
-"gyw-h4" = "Growl is running. Notifications will be forwarded to it.";
-"br6-di" = "Notifications will be shown using Notification Center.";
+"gyw-h4" = "Growl kör. Notiser kommer vidarebefordras dit.";
+"br6-di" = "Notiser kommer visas i Notiscenter.";
 
-"vje-9n" = "No Sound";
-"0rs-8l" = "Default Sound";
+"vje-9n" = "Inget ljud";
+"0rs-8l" = "Förvalt ljud";

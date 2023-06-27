@@ -35,24 +35,24 @@
  *
  *********************************************************************** */
 
-"r62-4k" = "Are you sure you want to delete everything uploaded to iCloud by Textual?";
-"t8v-w8" = "This action will not effect the configuration of this device or others.";
+"r62-4k" = "Är du säker på att du vill radera allt som Textual laddat upp till iCloud?";
+"t8v-w8" = "Denna åtgärd kommer inte påverka konfigurationen av denna enhet eller andra.";
 
-"70s-c6" = "No Log Location Selected";
-"721-ie" = "No Location Selected";
+"70s-c6" = "Ingen plats för loggar vald";
+"721-ie" = "Ingen vald";
 
-"5jv-aw" = "Are you opening this style because you are interested in modifying it?";
-"ojj-ap" = "It’s possible to modify the appearance of this style without editing its source files.\n\nClick “Edit Style” to add your own style sheet rules. This feature can also be found in the Developers section of Preferences.";
-"aib-iy" = "Edit Style";
-"dj8-1t" = "Create Copy";
-"6ws-av" = "View Files";
+"5jv-aw" = "Öppnar du denna stil för att du vill modifiera den?";
+"ojj-ap" = "Det är möjligt att ändra denna stils utseende utan att ändra dess källfiler.\n\nKlicka på “Redigera stil” för att lägga till dina egna style sheet-regler. Denna möjlighet kan också hittas i utvecklarsektionen i Inställningar.";
+"aib-iy" = "Redigera stil";
+"dj8-1t" = "Skapa kopia";
+"6ws-av" = "Visa filer";
 
-"uc0-z7" = "Preferred Selection";
-"q4o-2f" = "The style named “%1$@” has chosen to override the following preferences with ones that it prefers for the best viewing experience:\n\n%2$@";
+"uc0-z7" = "Föredragna val";
+"q4o-2f" = "Stilen “%1$@” har valt att ersätta följande inställningar med motsvarigheter den föredrar för bästa visningsupplevelse:\n\n%2$@";
 
-"77t-de" = "• Nickname Format";
-"ddh-hr" = "• Timestamp Format";
-"we8-i8" = "• Channel View Font";
+"77t-de" = "• Smeknamnsformat";
+"ddh-hr" = "• Tidsstämpelformat";
+"we8-i8" = "• Typsnitt för kanalvy";
 
-"x3n-to" = "Please choose a location other than iCloud Drive to save data to";
+"x3n-to" = "Välj en annan plats än iCloud Drive att spara data till";
 "gz8-dt" = "";
