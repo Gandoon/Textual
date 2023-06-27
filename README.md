@@ -6,6 +6,12 @@ Textual can be customized with styles written in CSS, HTML, and JavaScript; [plu
 
 Precompiled versions of Textual can be purchased in the [Mac App Store](http://www.textualapp.com/mac-app-store) or [directly from Codeux Software](https://www.textualapp.com/fastspring-store/).
 
+## This fork
+
+This fork is an independent effort to localise Textual to Swedish. Some localisation has been added for UK English as well, but it is not the prime objective. This is a work in progress and may not be complete for some weeks. A full localisation was performed for v7.1.6 but it was never published on GitHub. Due to now opting to use a localisable strings approach rather than duplicate xib-files, the translation had to be redone from scratch. The repository otherwise follows Codeaux Software for the time being. I would recommend to first pull Codeaux Softwares repository and make sure you can build it as you intend to use it. Then you can potentially only grab the translated parts from here. 
+
+Om du använder denna utgåva och hittar några svenska översättningar du känner inte är helt rätt. Hör av dig så skall jag ta dina synpunkter i beaktande.
+
 ## Screenshots
 
 [![Light Screenshot](https://www.codeux.com/textual/private/images/v600media/YosemiteLightThumbnail.png)](https://www.codeux.com/textual/private/images/v600media/YosemiteLightFullscreen.png) 
