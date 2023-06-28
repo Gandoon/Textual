@@ -673,12 +673,10 @@
 		4C06E47520EC541C0055D09A /* CocoaExtensions.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF76A391A91153A0088BF9A /* CocoaExtensions.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
 		4C06E47720EC541C0055D09A /* EncryptionKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4C8F2F5D1AAE6467007821CC /* EncryptionKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		4C06E47920EC541C0055D09A /* GRMustache.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4CC4A7371F8A1404008FF15F /* GRMustache.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		4C06E47F20EC541C0055D09A /* Sparkle.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4C24DC751A93C9CE0098D1BE /* Sparkle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		4C06E48120EC54260055D09A /* AutoHyperlinks.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF76A371A91153A0088BF9A /* AutoHyperlinks.framework */; };
 		4C06E48220EC54260055D09A /* CocoaExtensions.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF76A391A91153A0088BF9A /* CocoaExtensions.framework */; };
 		4C06E48320EC54260055D09A /* EncryptionKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C8F2F5D1AAE6467007821CC /* EncryptionKit.framework */; };
 		4C06E48420EC54260055D09A /* GRMustache.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CC4A7371F8A1404008FF15F /* GRMustache.framework */; };
-		4C06E48720EC54260055D09A /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C24DC751A93C9CE0098D1BE /* Sparkle.framework */; };
 		4C06E48820EC542C0055D09A /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CCE521A18C7BE0600D49601 /* AudioToolbox.framework */; };
 		4C06E48920EC542C0055D09A /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C46CCBC1580469E00846B64 /* Cocoa.framework */; };
 		4C06E48A20EC542C0055D09A /* CoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CA8EC621B63C2970087BF72 /* CoreServices.framework */; };
@@ -2557,7 +2555,6 @@
 				4C06E47520EC541C0055D09A /* CocoaExtensions.framework in Embed Frameworks */,
 				4C06E47720EC541C0055D09A /* EncryptionKit.framework in Embed Frameworks */,
 				4C06E47920EC541C0055D09A /* GRMustache.framework in Embed Frameworks */,
-				4C06E47F20EC541C0055D09A /* Sparkle.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -3587,7 +3584,6 @@
 				4C06E48220EC54260055D09A /* CocoaExtensions.framework in Frameworks */,
 				4C06E48320EC54260055D09A /* EncryptionKit.framework in Frameworks */,
 				4C06E48420EC54260055D09A /* GRMustache.framework in Frameworks */,
-				4C06E48720EC54260055D09A /* Sparkle.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -8604,6 +8600,7 @@
 			baseConfigurationReference = 4C3154D620EB685700448776 /* Textual App.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				TEXTUAL_BUILT_WITH_APPCENTER_SDK_ENABLED = 0;
 				TEXTUAL_BUILT_WITH_LICENSE_MANAGER = 0;
 			};
 			name = "Release (Sandboxed)";
@@ -8667,6 +8664,7 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				ONLY_ACTIVE_ARCH = YES;
+				TEXTUAL_BUILT_WITH_APPCENTER_SDK_ENABLED = 0;
 				TEXTUAL_BUILT_WITH_LICENSE_MANAGER = 0;
 				TEXTUAL_BUILT_WITH_SPARKLE_ENABLED = 0;
 			};
@@ -8689,6 +8687,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				TEXTUAL_BUILT_WITH_APPCENTER_SDK_ENABLED = 0;
 				TEXTUAL_BUILT_WITH_SPARKLE_ENABLED = 0;
 			};
 			name = Release;

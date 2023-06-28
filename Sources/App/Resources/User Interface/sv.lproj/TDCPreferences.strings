@@ -720,7 +720,7 @@
 "Zvg-8I-YWm.title" = "OtherViews";
 
 /* Class = "NSButtonCell"; title = "Correct spelling automatically"; ObjectID = "a9u-Lw-W1l"; */
-"a9u-Lw-W1l.title" = "Kontrollera stavning medan jag skriver";
+"a9u-Lw-W1l.title" = "Rätta stavning medan jag skriver";
 
 /* Class = "NSTextFieldCell"; title = "Custom Addons Location:"; ObjectID = "aKI-dl-dpt"; */
 "aKI-dl-dpt.title" = "Plats för anpassade tillägg:";
