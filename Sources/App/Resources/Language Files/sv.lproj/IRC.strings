@@ -37,10 +37,10 @@
  *********************************************************************** */
 
 /* Script errors */
-"d3c-9b" = "The command \002%@\002 is defined by a plugin and a script. Ignoring command because of inability to determine priority.";
+"d3c-9b" = "Kommandot \002%@\002 defineras av en plugin och ett skript. Ignorerar kommandot då prioriteten inte kan fastställas.";
 
-"ax0-mt" = "Scriptkörningsfel: %@";
-"2mc-h0" = "Scriptkörningsfel (%1$@: %2$@): %3$@";
+"ax0-mt" = "Skriptkörningsfel: %@";
+"2mc-h0" = "Skriptkörningsfel (%1$@: %2$@): %3$@";
 
 /* Generic messages */
 "0r1-5l" = "Textual har förhindrat att du bannlyser dig själv på %@";
@@ -57,111 +57,111 @@
 "3s6-e6" = "Fördröjer automatisk anslutning i %lu sekunder";
 
 /* File transfer server console messages */
-"ags-s8" = "Trying file transfer to %1$@, %2$@ (%3$qi bytes)";
-"snf-45" = "Received file transfer request from %1$@, %2$@ (%3$qi bytes)";
-"y3w-la" = "Textual has received a DCC request from %@ that could not be processed.";
+"ags-s8" = "Försöker överföra fil till %1$@, %2$@ (%3$qi byte)";
+"snf-45" = "Mottog filöverföringsbegäran från %1$@, %2$@ (%3$qi byte)";
+"y3w-la" = "Textual har mottagit en DCC-förfrågan från %@ som inte kunde behandlas.";
 
 /* Version info */
 "vzu-u7" = "%1$@ IRC Client: www.textualapp.com — v%2$@";
 
 /* Specific IRC related, app-specific errors */
-"iaa-0u" = "There are no servers configured to connect to.";
+"iaa-0u" = "Det finns inga servrar konfigurerade att ansluta till.";
 
 /* Raw mode messages */
-"ik6-dl" = "⍅ Server traffic will be output to this window until it is closed by control clicking (right clicking) it. ⍆";
+"ik6-dl" = "⍅ Servertrafik kommer visas i detta fönster tills det stängs med högerklick eller kontroll-klick. ⍆";
 
 /* Hidden command responses messages */
-"yem-td" = "⍅ Command responses which are normally hidden will be output to this window until it is closed by control clicking (right clicking) it. ⍆";
+"yem-td" = "⍅ Kommandosvar som normalt är gömda visas i detta fönster tills det stängs med högerklick eller kontroll-klick. ⍆";
 
 /* Log file session headers */
-"qrg-ua" = "------------- Begin Session -------------";
-"d5d-uy" = "------------- End Session -------------";
+"qrg-ua" = "------------- Påbörjar Session -------------";
+"d5d-uy" = "------------- Session avslutas -------------";
 
 /* Ban list */
-"c04-d0-1" = "Ban in %1$@: %2$@ set by %3$@ on %4$@";
-"c04-d0-2" = "Ban in %1$@: %2$@";
+"c04-d0-1" = "Bannlysning i %1$@: %2$@ satt av %3$@ på %4$@";
+"c04-d0-2" = "Bannlysning i %1$@: %2$@";
 
 /* Invite exception list */
-"py2-qh-1" = "Invite Exception in %1$@: %2$@ set by %3$@ on %4$@";
-"py2-qh-2" = "Invite Exception in %1$@: %2$@";
+"py2-qh-1" = "Inbjudansundantag till %1$@: %2$@ satt av %3$@ på %4$@";
+"py2-qh-2" = "Inbjudansundantag till %1$@: %2$@";
 
 /* Ban exception list */
-"ov2-ci-1" = "Ban exception in %1$@: %2$@ set by %3$@ on %4$@";
-"ov2-ci-2" = "Ban exception in %1$@: %2$@";
+"ov2-ci-1" = "Bann-undantag i %1$@: %2$@ satt av %3$@ på %4$@";
+"ov2-ci-2" = "Bann-undantag i %1$@: %2$@";
 
 /* Quiet list */
-"u5z-az-1" = "Quiet in %1$@: %2$@ set by %3$@ on %4$@";
-"u5z-az-2" = "Quiet in %1$@: %2$@";
+"u5z-az-1" = "Tystad i %1$@: %2$@ satt av %3$@ på %4$@";
+"u5z-az-2" = "Tystad i %1$@: %2$@";
 
 /* Cipher suite information */
-"uyz-4r" = "\002%1$@\002 with the cipher suite: \002%2$@\002";
-"xwj-xy" = "\002%1$@\002 with the cipher suite: \002%2$@\002 \0034\002(deprecated)\002\003";
+"uyz-4r" = "\002%1$@\002 med chifferpaketet: \002%2$@\002";
+"xwj-xy" = "\002%1$@\002 med chifferpaketet: \002%2$@\002 \0034\002(föråldrat)\002\003";
 
 /* XPC errors */
-"vdy-jk" = "Connection service closed unexpectedly";
+"vdy-jk" = "Anslutningstjänst avslutades oväntat";
 
 /* Large messages warning */
-"u4c-7i" = "The message that you are sending is very large which means it will be split up into multiple messages. Sending too many messages at once is often considered disruptive and may result in a ban.";
-"lql-8i" = "Are you sure you want to send this message?";
+"u4c-7i" = "Meddelandet du skickar är väldigt stort, vilket betyder att det kommer delas upp i flera konsekutiva meddelanden. Att skicka för många meddelanden på samma gång uppfattas ofta som störande och kan resultera i en bannlysning.";
+"lql-8i" = "Är du säker på att du vill skicka detta meddelande?";
 
 /* /away/ command */
-"41y-p2" = "You have exceeded the maximum away message length for %1$@ which is %2$ld characters. The end of your away message may have been cut off.";
+"41y-p2" = "Du har överskridit maxlängden %2$ld tecken för borta-meddelandet för %1$@. Slutet på ditt borta-meddelande kan ha trunkerats.";
 
 /* /defaults/ command */
-"1dz-jb" = "Invalid Syntax. Type “/defaults help” for more information.";
+"1dz-jb" = "Ogiltig syntax. Skriv “/defaults help” för mer information.";
 
-"bkk-lo" = "The \002defaults\002 command can be used to toggle very specific, rarely used features.";
+"bkk-lo" = "\002defaults\002-kommandot kan användas för att slå på och av väldigt specifika, sällan använda funktioner.";
 "znw-02" = " ";
-"xw4-rr" = "Usage:";
-"0g8-7m" = "\t“/defaults enable <token>” — Enables the feature defined by \002<token>\002";
-"wag-2j" = "\t“/defaults disable <token>” — Disables the feature defined by \002<token>\002";
-"hob-ky" = "\t“/defaults features” — View list of supported features";
+"xw4-rr" = "Användning:";
+"0g8-7m" = "\t“/defaults enable <token>” — Slår på funktionen definierad av \002<token>\002";
+"wag-2j" = "\t“/defaults disable <token>” — Stänger av funktionen definierad av \002<token>\002";
+"hob-ky" = "\t“/defaults features” — Visa en lista över stödda funktioner";
 "8mk-t8" = " ";
-"whg-ky" = "Surround \002<token>\002 with double quotes (\") if it contains a space.";
+"whg-ky" = "Omge \002<token>\002 med citationstecken (\") om det innehåller blanksteg.";
 
-"pc4-67" = "Cannot enable the feature “%@” because it is not supported";
-"d7y-pv" = "Cannot disable the feature “%@” because it is not supported";
+"pc4-67" = "Kan inte slå på funktionen “%@” då den inte stöds";
+"d7y-pv" = "Kan inte stänga av funktionen “%@” då den inte stöds";
 
-"5ke-18" = "Enabled Feature: %@";
-"0gn-cb" = "Disabled Feature: %@";
+"5ke-18" = "Påslagen funktion: %@";
+"0gn-cb" = "Avstängd funktion: %@";
 
 /* /ignore/ command */
-"ret-20" = "Added ignore that matches \002%1$@\002 with pattern: %2$@";
-"jzg-g8" = "Removed ignore that matches \002%1$@\002 with pattern: %2$@";
-"wu0-jp" = "No ignores could be found that matches \002%@\002";
-"5ix-zn" = "An ignore already exists that matches \002%@\002. To modify this ignore, open the \002Address Book\002 using the keyboard shortcut \002Control 3\002.";
-"vrx-1f" = "Cannot remove ignore for \002%@\002 because Textual isn't sure which to remove. More than one ignore exists that matches this user. To remove a specific ignore, open the \002Address Book\002 using the keyboard shortcut \002Control 3\002.";
+"ret-20" = "Lade till ignorering som matchar \002%1$@\002 med mönstret: %2$@";
+"jzg-g8" = "Tog bort ignorering som matchar \002%1$@\002 med mönstret: %2$@";
+"wu0-jp" = "Inga ignoreringar kunde hittas som matchar \002%@\002";
+"5ix-zn" = "Det finns redan en ignorering som matchar \002%@\002. För att modifiera denna ignorering, öppna \002Adressbok\002 med tangentbordsgenvägen \002Kontroll 3\002.";
+"vrx-1f" = "Kan inte ta bort ignorering för \002%@\002 då Textual inte är säker på vilken som skall tas bort. Mer än en ignorering finns som matchar denna användare. För att ta bort en specifik ignorering, öppna \002Adressbok\002 med tangentbordsgenvägen \002Kontroll 3\002.";
 
 /* /kick/ command */
-"59a-ir" = "You have exceeded the maximum kick message length for %1$@ which is %2$ld characters. The end of your kick message may have been cut off.";
+"59a-ir" = "Du har överskridit maxlängden %2$ld tecken för utsparksanledningen för %1$@. Slutet på ditt kick-meddelande kan ha trunkerats.";
 
 /* /lagcheck/ command */
-"5bf-jp" = "Received lag check reply from %1$@. Time elapsed: %2$1.0f milliseconds. (Rating: %3$@)";
-"qoh-kt" = "Waiting for response from lag check…";
+"5bf-jp" = "Mottog fördröjningskontrollsvar från %1$@. Förfluten tid: %2$1.0f millisekunder. (Betyg: %3$@)";
+"qoh-kt" = "Väntar på svar från fördröjningskontroll…";
 
 "58g-m9" = "Yeah, okay…";
-"0jp-93" = "Are you plugged into the server?";
-"yym-8y" = "Pretty good";
-"mic-qe" = "Not bad";
+"0jp-93" = "Är du inkopplad direkt i servern?";
+"yym-8y" = "Ganska bra";
+"mic-qe" = "Inte dåligt";
 "mqg-wi" = "Okay";
-"ut8-7s" = "Needs work";
-"8fo-ss" = "Slow";
-"4oc-p2" = "Very slow";
+"ut8-7s" = "Behöver förbättras";
+"8fo-ss" = "Långsam";
+"4oc-p2" = "Väldigt långsam";
 
 /* /mode/ command */
-"dwi-d1" = "The mode \002+%@\002 is not supported on this server";
+"dwi-d1" = "Läget \002+%@\002 stöds inte på denna server";
 
 /* /monitor/ command errors */
-"khw-4y" = "Please use the \002Address Book\002 to add or remove tracked users. Open the \002Address Book\002 using the keyboard shortcut \002Control 3\002.";
+"khw-4y" = "Amnvänd \002Adressbok\002 för att lägga till eller ta bort spårade användare. Öppna \002Adressbok\002 med tangentbordsgenvägen \002Kontroll 3\002.";
 
 /* /msg/ command errors */
-"54l-h7" = "Cannot send operator message because the mode \002+o\002 is not supported by this server.";
+"54l-h7" = "Kan inte skicka operatörsmeddelande då läget \002+o\002 inte stöds på denna server.";
 
 /* /mute/ command */
-"sdn-yr" = "Sound is already muted";
-"190-f2" = "Sound is no longer muted";
-"5rf-mj" = "Sound is not muted";
-"u48-aa" = "Sound has been muted";
+"sdn-yr" = "Ljud är redan tystade";
+"190-f2" = "Ljud är inte längre tystat";
+"5rf-mj" = "Ljud är inte tystat";
+"u48-aa" = "Ljud har tystats";
 
 /* /myversion/ command */
 "ccb-ur" = "%1$@ %2$@ (Build %3$@) (%4$@) as a %5$@ binary on an %6$@ Mac.";
@@ -174,173 +174,173 @@
 "g1u-os" = "Apple Silicon";
 
 /* /timer/ command */
-"jj9-94" = "Invalid Syntax. Type “/timer help” for more information.";
-"327-pv" = "Timer interval must be a whole number that is grater than zero (0). Type “/timer help” for more information.";
-"eud-kc" = "Timer repeat count must be a whole number that is grater than or equal to zero (0). Type “/timer help” for more information.";
-"p6l-o4" = "Timer identifier is not properly formatted. Type “/timer list“ for a list of timers.";
-"vzu-xh" = "Timer with identifier “%@“ does not exist. Type “/timer list“ for a list of timers.";
-"uiz-32" = "Timer with identifier “%@“ can't be stopped";
-"ax6-n9" = "Timer with identifier “%@“ is already stopped";
-"hs0-up" = "Timer with identifier “%@“ stopped";
-"dgp-d4" = "Timer with identifier “%@“ can't be restarted. Add a new timer.";
-"qb7-mi" = "Timer with identifier “%@“ restarted";
-"p7s-is" = "Timer with identifier “%@“ removed";
-"808-bs" = "All timers removed";
-"jef-tp" = "Timer with identifier “%@“ added"; // unused
-"pqk-5k" = "There are no timers";
-"q1m-1e" = "There are %ld timers:";
-"6ts-oi" = "There is %ld timer:";
+"jj9-94" = "Ogiltig syntax. Skriv “/timer help” för mer information.";
+"327-pv" = "Timerintervallet måste vara ett heltal som är större än eller lika med 0. Skriv “/timer help” för mer information.";
+"eud-kc" = "Repetitionsantalet måste vara ett heltal som är större än eller lika med 0. Skriv “/timer help” för mer information.";
+"p6l-o4" = "Timeridentifieraren är inte korrekt formaterad. Skriv “/timer list“ för att se en lista med timrar.";
+"vzu-xh" = "Timern med identifiere “%@“ finns inte. Skriv “/timer list“ för att se en lista med timrar.";
+"uiz-32" = "Timern med identifiere “%@“ kan inte stoppas";
+"ax6-n9" = "Timern med identifiere “%@“ har redan stoppats";
+"hs0-up" = "Timern med identifiere “%@“ stoppad";
+"dgp-d4" = "Timern med identifiere “%@“ kan inte startas om. Lägg till en ny timer.";
+"qb7-mi" = "Timern med identifiere “%@“ startades om";
+"p7s-is" = "Timern med identifiere “%@“ togs bort";
+"808-bs" = "Alla timrar togs bort";
+"jef-tp" = "Timer med identifierare “%@“ tillagd"; // unused
+"pqk-5k" = "Det finns ingen timer";
+"q1m-1e" = "Det finns %ld timrar:";
+"6ts-oi" = "Det finns %ld timer:";
 
-"4n6-2x" = "\002ID:\002 %1$@ • \002Status:\002 %2$@ • \002Interval:\002 %3$@ • \002Next Fire:\002 %4$@ • \002Command:\002 “%5$@“";
-"uw0-v2" = "\002ID:\002 %1$@ • \002Status:\002 %2$@ • \002Interval:\002 %3$@ • \002Next Fire:\002 %4$@ • \002Repeat:\002 Yes • \002Repeat Limit:\002 %5$@ • \002Iteration:\002 %6$ld • \002Command:\002 “%7$@“";
-"bhz-9e" = "Active";
-"ww4-sn" = "Stopped";
-"o26-ae" = "No Limit";
+"4n6-2x" = "\002ID:\002 %1$@ • \002Status:\002 %2$@ • \002Intervall:\002 %3$@ • \002Nästa aktivering:\002 %4$@ • \002Kommando:\002 “%5$@“";
+"uw0-v2" = "\002ID:\002 %1$@ • \002Status:\002 %2$@ • \002Intervall:\002 %3$@ • \002Nästa aktivering:\002 %4$@ • \002Repetera:\002 Ja • \002Repetitionsgräns:\002 %5$@ • \002Iteration:\002 %6$ld • \002Kommando:\002 “%7$@“";
+"bhz-9e" = "Aktiv";
+"ww4-sn" = "Stoppad";
+"o26-ae" = "Ingen begränsning";
 
-"xkq-rt" = "The timer command can be used to perform a command after a specific amount of time and optionally repeat it.";
+"xkq-rt" = "Timer-kommandot kan användas för att utföra ett kommando efter en vald fördröjning och kan om så önskas repeteras valfritt antal gånger.";
 "ohr-m0" = " ";
-"ham-fp" = "To learn more, type:";
+"ham-fp" = "För att ta reda på mer, skriv:";
 "lbg-dy" = " ";
 "lbh-46" = "“/timer help <topic>“";
 "9dz-b4" = " ";
-"s3r-ve" = "Available topics: ADD, REMOVE, LIST, STOP, RESTART";
+"s3r-ve" = "Tillgängliga ämnen: ADD, REMOVE, LIST, STOP, RESTART";
 
 "6r0-il" = "“/timer <seconds> <repeat> <command>“";
 "ohz-iz" = " ";
-"dxi-nz" = "\002<seconds>\002 is the interval of the timer.";
-"uah-l1" = "The interval must be a \002whole number that is greater than zero (0)\002.";
+"dxi-nz" = "\002<seconds>\002 är timerintervallet.";
+"uah-l1" = "Intervallet måste vara ett \002heltal som är större än noll (0)\002.";
 "382-83" = " ";
-"9j0-3p" = "\002<repeat>\002 is the repeat count for the timer.";
-"g55-ap" = "• To perform the timer only once, use one (1) as the repeat count.";
-"90m-qy" = "• To repeat the timer until manually stopped, use zero (0) as the repeat count.";
-"my0-q6" = "• To repeat the timer X number of times, use that number as the repeat count.";
+"9j0-3p" = "\002<repeat>\002 är repetitionsantalet för timern.";
+"g55-ap" = "• För att utföra kommandot endast en gång, använd 1 som repetitionsantal.";
+"90m-qy" = "• För att låta timern utföra kommandot tills timern stoppas manuellt, använd 0 som repetitionsantal.";
+"my0-q6" = "• För att låta timern utföra kommandot X gånger,använd det talet som repetitionsantal.";
 "goz-y6" = " ";
-"e0a-99" = "\002<command>\002 is the command to perform when the timer fires.";
-"9qu-ho" = "\002Example:\002 “msg #textual-testing Hey everyone!”";
-"yds-m4" = "\002Scope:\002 The channel or query that is selected when a timer is added is used as the target for commands that do not take a channel name as an argument.";
+"e0a-99" = "\002<command>\002 är kommandot som utförs när timern löser ut.";
+"9qu-ho" = "\002Exempel:\002 “msg #textual-testing Hey everyone!”";
+"yds-m4" = "\002Scope:\002 Den valda kanalen eller det privata meddelande som är valt när en timer läggs till används som mål för kommandon som inte tar ett kanalnamn som ett argument.";
 "jik-p7" = " ";
-"1p8-a7" = "\002Example #1:\002 “/timer 10 1 <command>” — perform command one time, after ten seconds.";
-"h1a-gx" = "\002Example #2:\002 “/timer 10 20 <command>” — perform command twenty times, once every ten seconds.";
-"vwi-10" = "\002Example #3:\002 “/timer 10 0 <command>” — perform command every ten seconds until the heat death of the universe.";
+"1p8-a7" = "\002Example #1:\002 “/timer 10 1 <command>” — utför kommandot en gång, efter tio sekunder.";
+"h1a-gx" = "\002Example #2:\002 “/timer 10 20 <command>” — utför kommandot tjugo gånger och var tionde sekund.";
+"vwi-10" = "\002Exempel #3:\002 “/timer 10 0 <command>” — utför kommandot var tionde sekund tills universum upphör existera.";
 
 "x1n-ve" = "“/timer list“";
 "3ks-34" = " ";
-"96w-fo" = "List timers";
+"96w-fo" = "Lista timers";
 
 "bx2-n1" = "“/timer stop <identifier>“";
 "t6t-x2" = " ";
-"i3c-vz" = "Stop the timer assigned to \002<identifier>\002.";
+"i3c-vz" = "Stoppa timern för \002<identifier>\002.";
 "8h4-ac" = " ";
-"a5z-ot" = "The identifier for a timer can be found using “/timer list”";
+"a5z-ot" = "Identifieraren för en timer kan hittas med “/timer list”";
 
 "r27-tv" = "“/timer restart <identifier>“";
 "zrf-v2" = " ";
-"wd8-v9" = "Restart the timer assigned to \002<identifier>\002.";
+"wd8-v9" = "Starta om timern för \002<identifier>\002.";
 "6xo-al" = " ";
-"g69-sc" = "The identifier for a timer can be found using “/timer list”";
+"g69-sc" = "Identifieraren för en timer kan hittas med “/timer list”";
 "mjg-bn" = " ";
-"xd3-g1" = "When restarting a timer, the iteration count is reset";
-"77t-x9" = "which means a timer that is setup to repeat X number";
-"6bp-ft" = "of times will start over from the beginning.";
+"xd3-g1" = "När en timer startas om återställs iterationsräknaren. ";
+"77t-x9" = "Detta betyder att en timer som är satt att repetera X";
+"6bp-ft" = "gånger kommer börja om från början.";
 
 "i2d-x5" = "“/timer remove <identifier>“";
 "ip5-lz" = " ";
-"t5d-hd" = "Remove the timer assigned to \002<identifier>\002.";
+"t5d-hd" = "Ta bort timern för \002<identifier>\002.";
 "mkz-fb" = " ";
-"7dp-ew" = "To remove all timers, pass “all” as \002<identifier>\002.";
+"7dp-ew" = "För att ta bort alla timers, använd “all” som \002<identifier>\002.";
 "0m7-9k" = " ";
-"qa0-8e" = "The identifier for a timer can be found using “/timer list”";
+"qa0-8e" = "Identifieraren för en timer kan hittas med “/timer list”";
 
 "aox-zz" = "---------------------------------------";
 
 /* /setcolor/ command */
-"026-qv" = "This command cannot be used unless the checkbox labeled “Disable nickname colors” is unchecked in the \002Style\002 section of \002Preferences\002.";
-"8dy-6f" = "Cannot set color for “%@“ because that does not appear to be a valid nickname.";
+"026-qv" = "Detta kommando kan inte användas om inte valet “Slå av smeknamnsfärger” avmarkerats i \002Style\002-fliken i \002Inställningar\002.";
+"8dy-6f" = "Kan inte sätta färg på “%@“ då det inte förefaller vara ett giltigt smeknamn.";
 
 /* /tage/ command */
-"v9x-18" = "\002Time Since First Commit:\002 %@";
+"v9x-18" = "\002Tid sedan första commit:\002 %@";
 
 /* /topic/ command errors */
-"1oo-3b" = "You have exceeded the maximum topic length for %1$@ which is %2$ld characters. The end of your topic may have been cut off.";
+"1oo-3b" = "Du har överskridit maxlängden %2$ld tecken för ämnet för %1$@. Slutet på ditt ämne kan ha trunkerats.";
 
 /* /weights/ command */
-"zud-u3" = "Nickname completion weights for %@:";
-"24r-8c" = "\002%1$@\002: Sent: %2$.2f, Receive: %3$.2f, \002Total: %4$.2f\002";
-"dje-41" = "No weights";
+"zud-u3" = "Smeknamnskompletteringsvikter för %@:";
+"24r-8c" = "\002%1$@\002: Skickat: %2$.2f, Mottaget: %3$.2f, \002Totalt: %4$.2f\002";
+"dje-41" = "Inga vikter";
 
 /* Address type migration warning */
-"w05-ph" = "\0034\002Please take notice:\002\003 The preference labeled “Prefer IPv4”, which you had enabled, no longer exists. \002IPv6 has been disabled for this connection\002 to offer you similar behavior. See the \002Network Socket\002 section of \002Server Properties\002 to change which protocols are enabled (IPv4 and/or IPv6).";
+"w05-ph" = "\0034\002Notera:\002\003 Inställningen “Föredra IPv4”, som du har slagit på finns inte längre. \002IPv6 har slagits av för denna anslutning\002 för att erbjuda ett liknande beteende. Se \002Network Socket\002-delen i \002Serverinställningar\002 för att ändra vilka protokoll som används (IPv4 och/eller IPv6).";
 
 /* Common command errors */
-"atq-93" = "Invalid syntax: “%@“";
-"pxa-ox" = "Cannot find channel named “%@“";
-"1fc-vl" = "Cannot find query named “%@“";
-"zef-q9" = "One or more arguments are not properly formatted for this command.";
-"g01-qn" = "This command can only be used with a channel.";
-"m6o-z1" = "This command can only be used with a query.";
-"sxf-qx" = "This command cannot be used within this window.";
-"z2r-sd" = "Messages cannot be sent to this window.";
+"atq-93" = "Ogiltig syntax: “%@“";
+"pxa-ox" = "Kan inte hitta kanalen “%@“";
+"1fc-vl" = "Kan inte hitta det privata samtalet “%@“";
+"zef-q9" = "Ett eller flera argument är inte korrekt formatterade för detta kommando.";
+"g01-qn" = "Detta meddelande kan bara användas i en kanal.";
+"m6o-z1" = "Detta meddelande kan bara användas i ett privat samtal.";
+"sxf-qx" = "Detta meddelande kan inte användas i detta fönster.";
+"z2r-sd" = "Meddelanden kan inte skickas till detta fönster.";
 
 /* Miscellaneous messages related to IRC events */
 "u51-nn" = "%1$@ %2$@"; // RPL_ISUPPORT configuration data
 "xog-in" = "Be back later";
-"bg3-h2" = "\002-CTCP-\002 %1$@ from %2$@ was ignored";
+"bg3-h2" = "\002-CTCP-\002 %1$@ från %2$@ ignorerades";
 "jer-ju" = "CLIENTINFO DCC FINGER PING TIME USERINFO VERSION";
 "en6-mw" = "Stop fingering me pervert!";
-"5wa-lb" = "There are no capabilities that are enabled";
-"7p9-rs" = "The following capabilities are currently enabled: %@";
-"obp-ww" = "Mode is \002%@\002";
-"7nm-7v" = "Topic is \002%@\002";
-"y7s-3e" = "Set by \002%1$@\002 on %2$@";
-"8tq-g6" = "Website is \002%@\002";
-"zzj-2h" = "Attempting to rejoin channel in three seconds";
-"qq2-66" = "\002%1$@\002 changed the topic to \002%2$@\002";
-"4vt-ow" = "Connection to host established";
-"l21-p7" = "Connection to host at [%@] established";
-"ex4-f8" = "Connection secured using %@";
-"drg-b7" = "Disconnected for Sleep Mode";
-"wcl-po" = "Disconnected for server redirect";
-"zro-bg" = "Disconnected from server because of an untrusted certificate";
-"isx-fi" = "Disconnected from server because the Internet is not reachable";
-"9b4-10" = "Disconnected";
-"bps-la" = "%.0f minutes have elapsed since last response from this connection. Disconnecting due to timeout.";
-"gzo-54" = "%.0f minutes have elapsed since last response from this connection. It's possible the connection is timing out.";
-"3yo-gw" = "Message(%1$d): %2$@";
-"o77-ls" = "Connecting to [%1$@] on port %2$hu";
-"p7h-un" = "Connecting using SOCKS4 proxy [%1$@] on port %2$hu";
-"ni5-cy" = "Connecting using SOCKS5 proxy [%1$@] on port %2$hu";
-"oby-av" = "Connecting using HTTP proxy [%1$@] on port %2$hu";
-"xxb-y2" = "Reconnecting…";
-"ky3-36" = "Retrying…";
-"v5d-ix" = "\002%1$@\002 sets mode \002%2$@\002";
-"vy7-pk" = "\002-%1$@ CTCP-\002 %2$@ (%3$1.5f sec)";
+"5wa-lb" = "Inga kapaciteter är påslagna";
+"7p9-rs" = "Följande kapaciteter är för tillfället påslagna: %@";
+"obp-ww" = "Läget är \002%@\002";
+"7nm-7v" = "Ämnet är \002%@\002";
+"y7s-3e" = "Satt av \002%1$@\002 den %2$@";
+"8tq-g6" = "Websidan är \002%@\002";
+"zzj-2h" = "Försöker gå med i kanalen igen om tre sekunder";
+"qq2-66" = "\002%1$@\002 ändrade ämnet till \002%2$@\002";
+"4vt-ow" = "Anslutning till värd etablerad";
+"l21-p7" = "Anslutning till värd på [%@] etablerad";
+"ex4-f8" = "Anslutning säkrad med %@";
+"drg-b7" = "Frånkopplad for Sleep Mode";
+"wcl-po" = "Frånkopplad for server redirect";
+"zro-bg" = "Frånkopplad from server because of an untrusted certificate";
+"isx-fi" = "Frånkopplad from server because the Internet is not reachable";
+"9b4-10" = "Frånkopplad";
+"bps-la" = "%.0f minuter har gått sedan senaste svar från denna anslutning. Kopplar från på grund av timeout.";
+"gzo-54" = "%.0f minuter har gått sedan senaste svar från denna anslutning. Det är möjligt att anslutningen kommer få en timeout.";
+"3yo-gw" = "Meddelande(%1$d): %2$@";
+"o77-ls" = "Ansluter till [%1$@] på port %2$hu";
+"p7h-un" = "Ansluter med SOCKS4-proxy [%1$@] på port %2$hu";
+"ni5-cy" = "Ansluter med SOCKS5-proxy [%1$@] på port %2$hu";
+"oby-av" = "Ansluter med HTTP-proxy [%1$@] på port %2$hu";
+"xxb-y2" = "Återansluter…";
+"ky3-36" = "Försöker…";
+"v5d-ix" = "\002%1$@\002 sätter läge \002%2$@\002";
+"vy7-pk" = "\002-%1$@ CTCP-\002 %2$@ (%3$1.5f sek)";
 "dri-l7" = "\002-%1$@ CTCP-\002 %2$@ %3$@";
-"6o8-eu" = "\002-CTCP-\002 %1$@ from %2$@";
+"6o8-eu" = "\002-CTCP-\002 %1$@ från %2$@";
 "tok-st" = "%1$@ (%2$@)";
-"8hg-7k" = "%@ IRC Network";
-"fxw-5s" = "%1$@ is now known as \002%2$@\002";
-"rr6-yo" = "You're now known as \002%@\002";
-"53b-dm" = "\002%1$@\002 (%2$@@%3$@) left IRC";
-"8bk-mx" = "\002%1$@\002 left the query by disconnecting from IRC";
-"q0q-ch" = "\002%1$@\002 joined the query by connecting to IRC";
-"ipj-34" = "%@, your user modes are \002%@\002";
-"wk4-rv" = "Inviting %1$@ to join %2$@";
-"qw4-t3" = "%1$@!%2$@@%3$@ invited you to join %4$@";
-"c1h-fq" = "%1$@ is away (%2$@)";
-"6bh-br" = "You are now an IRC Operator on %@";
-"ziu-p9" = "\002%1$@\002 (%2$@@%3$@) joined the channel";
-"9aj-bd" = "\002%1$@\002 kicked \002%2$@\002 from the channel (%3$@)";
-"nkr-kf" = "\002%1$@\002 (%2$@@%3$@) left the channel";
+"8hg-7k" = "%@ IRC-nätverk";
+"fxw-5s" = "%1$@ är nu känd som \002%2$@\002";
+"rr6-yo" = "Du är nu känd som \002%@\002";
+"53b-dm" = "\002%1$@\002 (%2$@@%3$@) lämnade IRC";
+"8bk-mx" = "\002%1$@\002 lämnade det privata samtalet genom att koppla ned från IRC";
+"q0q-ch" = "\002%1$@\002 gick med i det privata samtalet genom att ansluta till IRC";
+"ipj-34" = "%@, dina användarlägen är \002%@\002";
+"wk4-rv" = "Bjuder in %1$@ att gå med i %2$@";
+"qw4-t3" = "%1$@!%2$@@%3$@ bjöd in dig till %4$@";
+"c1h-fq" = "%1$@ är borta (%2$@)";
+"6bh-br" = "Du är nu en IRC-operatör i %@";
+"ziu-p9" = "\002%1$@\002 (%2$@@%3$@) gick med i kanalen";
+"9aj-bd" = "\002%1$@\002 sparkade ut \002%2$@\002 från kanalen (%3$@)";
+"nkr-kf" = "\002%1$@\002 (%2$@@%3$@) lämnade kanalen";
 "ozy-6i" = "%1$@ (%2$@)";
 "onk-l5" = "%1$@ är i %2$@";
 "h19-n2" = "%1$@ är ansluten till %2$@ (%3$@)";
 "plg-lr" = "%1$@ har användarvärd %2$@@%3$@ och verkligt namn “%4$@”";
 "6hn-o6" = "%1$@ loggade in den %2$@ och har varit overksam i %3$@";
-"cdu-ed" = "%1$@ was connected to %2$@ on %3$@";
+"cdu-ed" = "%1$@ var ansluten till %2$@ på %3$@";
 "32c-87" = "%1$@ hade användarvärd %2$@@%3$@ och verkligt namn “%4$@”";
-"11i-ev" = "You cannot send private messages to %@. Anything that you send to them will be ignored until you are added to their list of recognized users.";
-"3yj-in" = "%1$@ (%2$@) tried to send you a private message, but it was ignored due to \002umode +g\002. Perform “/accept %1$@” to allow this user to communicate with you.";
-"5i4-qq" = "Reconnecting to proxy to rebuild internal state…"; // irssi proxy
+"11i-ev" = "Du kan inte skicka privata meddelanden till %@. Allt du skickar till dem kommer ignoreras tills du lagts till i deras lista över kända användare.";
+"3yj-in" = "%1$@ (%2$@) försökte skicka ett privat meddelande till dig, men det ignorerades på grund av \002uläge +g\002. Utför “/accept %1$@” för att tillåta denna användare kommunicera med dig.";
+"5i4-qq" = "Återansluter till proxy för att återuppbygga det interna tillståndet…"; // irssi proxy
 "5h5-sl" = "Servern stängde läsströmmen";
 "r5h-fj" = "Joining channels has been delayed because because you haven't identified. Perform “/autojoin” to join channels without identifying.";
 "3oa-mv" = "%1$@ är ansluten från %2$@ (%3$@)";

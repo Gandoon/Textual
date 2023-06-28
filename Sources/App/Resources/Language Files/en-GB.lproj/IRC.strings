@@ -253,8 +253,8 @@
 "aox-zz" = "---------------------------------------";
 
 /* /setcolor/ command */
-"026-qv" = "This command cannot be used unless the checkbox labeled “Disable nickname colors” is unchecked in the \002Style\002 section of \002Preferences\002.";
-"8dy-6f" = "Cannot set color for “%@“ because that does not appear to be a valid nickname.";
+"026-qv" = "This command cannot be used unless the checkbox labeled “Disable nickname colours” is unchecked in the \002Style\002 section of \002Preferences\002.";
+"8dy-6f" = "Cannot set colour for “%@“ because that does not appear to be a valid nickname.";
 
 /* /tage/ command */
 "v9x-18" = "\002Time Since First Commit:\002 %@";

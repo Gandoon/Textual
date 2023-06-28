@@ -33,77 +33,78 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
+ * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"nhh-ts" = "A problem was encountered while communicating with the web server located at www.codeux.com";
-"1cv-0v" = "Try again in a few minutes then contact support if the problem persists.";
-"bqw-cv" = "Contact Support";
+"nhh-ts" = "Ett problem inträffade vid kommunikation med webservern www.codeux.com";
+"1cv-0v" = "Försök igen om några minuter och kontakta därefter supporten om problemet kvarstår.";
+"bqw-cv" = "Kontakta support";
 
-"u8h-qv" = "The license key “%@“ cannot be activated because it is blacklisted";
-"w1n-n0" = "Contact support for more information.";
-"vgp-j6" = "Contact Support";
+"u8h-qv" = "Licensnyckeln “%@“ kan inte aktiveras då den är svartlistad";
+"w1n-n0" = "Kontakta supporten för mer information.";
+"vgp-j6" = "Kontakta support";
 
-"ocm-03" = "The following error was returned while processing request:";
-"dio-y9" = "Improperly formatted e-mail address or missing";
+"ocm-03" = "Följande fel returnerades vid behandlingen av förfrågan:";
+"dio-y9" = "Felaktigt formaterat eller saknad e-postadress";
 
-"fg6-gf" = "The following error was returned while processing request:";
-"wc7-mn" = "Unknown or improperly formatted license key";
+"fg6-gf" = "Följande fel returnerades vid behandlingen av förfrågan:";
+"wc7-mn" = "Okänd eller felaktigt formaterad licensnyckel";
 
-"m4q-ul" = "Successfully queued e-mail for %@";
-"fxj-s6" = "An e-mail which contains your license key will be delivered to %@ within the next few minutes.";
+"m4q-ul" = "Lyckades köa e-post till %@";
+"fxj-s6" = "Ett e-brev innehållande din licensnyckel kommer levereras till %@ inom några minuter.";
 
-"jbs-64" = "Thank you for your purchase of Textual 7!";
-"k39-7l" = "All limitations have been lifted.";
+"jbs-64" = "Tack för att du köpt Textual 7!";
+"k39-7l" = "Alla begränsningar är nu borttagna.";
 
-"pg1-a9" = "Are you sure you want to deactivate this copy of Textual?";
-"z87-wb" = "All limitations that apply to the trial version of Textual 7 will immediately take effect once deactivated.";
+"pg1-a9" = "Är du säker på att du vill deaktivera denna kopia av Textual?";
+"z87-wb" = "Alla begränsningar som finns i provversionen av Textual 7 kommer omedelbart appliceras vid deaktivering.";
 
-"vft-qo" = "Select a copy of Textual downloaded from the Mac App Store to receive a license key.";
+"vft-qo" = "Välj en från Mac App Store nedladdad kopia av Textual för att få en licensnyckel.";
 
-"b6l-ka" = "The application “%@“ cannot be used to request a license key";
-"sdj-xd" = "This application is not Textual 5 or a newer version, or was not downloaded from the Mac App Store.";
+"b6l-ka" = "Applikationen “%@“ kan inte användas för att begära en licensnyckel";
+"sdj-xd" = "Denna applikation är inte Textual 5 eller nyare, eller så är den inte nedladdad från Mac App Store.";
 
-"vxq-oa" = "Successfully migrated Mac App Store purchase";
-"yxk-ej" = "An e-mail which contains your license key will be delivered to %@ within the next few minutes.";
+"vxq-oa" = "Lyckades migrera Mac App Store-köp";
+"yxk-ej" = "Ett e-brev innehållande din licensnyckel kommer levereras till %@ inom några minuter.";
 
-"enb-hw" = "Cannot migrate Mac App Store purchase because it has already been migrated";
-"36y-49" = "Click the “Recover Lost License” button if you have lost your license key.";
+"enb-hw" = "Kan inte migrera Mac App Store-köp då det redan har migrerats.";
+"36y-49" = "Klicka på “Återfå förlorad licens” om du har tappat bort din licensnyckel.";
 
-"ztd-5y" = "The following error was returned while processing request:";
-"bu4-zk" = "Improperly formatted e-mail address or is missing";
+"ztd-5y" = "Följande fel returnerades vid behandlingen av förfrågan:";
+"bu4-zk" = "Felaktigt formaterat eller saknad e-postadress";
 
-"r87-jw" = "The following error was returned while processing request:";
-"6zh-jr" = "Unable to locate an order that is linked to the e-mail address “%@“";
+"r87-jw" = "Följande fel returnerades vid behandlingen av förfrågan:";
+"6zh-jr" = "Kunde inte hitta en order knuten till e-postadressen “%@“";
 
-"o66-ox" = "The license key “%@“ has exceeded its daily activation limit";
-"6aa-ow" = "This license key cannot be activated more than %ld times within a twenty-four (24) hour period. Please try again at a later time.";
+"o66-ox" = "Licensnyckeln “%@“ har överskridit den dagliga gränsen för aktiveringar";
+"6aa-ow" = "Denna licensnyckel kan inte aktiveras mer än %ld gånger dygn. Försök igen senare.";
 
-"wdl-3f" = "Your trial of Textual 7 will expire in %@";
-"kn7-ju" = "Your trial of Textual 7 has expired.";
+"wdl-3f" = "Din prövoperiod för Textual 7 går ut om %@";
+"kn7-ju" = "YDin prövoperiod för Textual 7 har gått ut.";
 
-"ccj-ag" = "Please purchase Textual 7 to prevent disruption to your chat experience.";
-"b8b-sg" = "More Info";
+"ccj-ag" = "Köp Textual 7 för att undvika störningar av din chatupplevelse.";
+"b8b-sg" = "Mer information";
 
-"f49-rk" = "The following error was returned while processing request:";
-"do9-8x" = "Improperly formatted name or is missing";
+"f49-rk" = "Följande fel returnerades vid behandlingen av förfrågan:";
+"do9-8x" = "Felaktigt formaterat eller saknat namn";
 
-"p9s-ak" = "The following error was returned while processing request:";
-"ujo-cd" = "Receipt did not pass validation because of the following error:\n\n“%@“";
+"p9s-ak" = "Följande fel returnerades vid behandlingen av förfrågan:";
+"ujo-cd" = "Kvittot kunde inte valideras på grund av följande fel:\n\n“%@“";
 
-"0uc-io" = "The license key “%@“ cannot be activated because another operation is already in progress";
+"0uc-io" = "Licensnyckeln “%@“ kan inte aktiveras då en annan operation redan pågår";
 "vnu-5e" = "";
 
-"bw3-sc" = "The license key “%@“ cannot be activated because it is already in use";
+"bw3-sc" = "Licensnyckeln “%@“ kan inte aktiveras då den redan används";
 "fxu-su" = "";
 
-"pmv-qp" = "The license key “%@“ cannot be activated because it requires an upgrade";
+"pmv-qp" = "Licensnyckeln “%@“ kan inte aktiveras då den kräver en uppgradering";
 "5bu-ov" = "";
-"53u-lt" = "Learn More";
+"53u-lt" = "Ta reda på mer";
 
-"t28-j9" = "Cannot migrate Mac App Store purchase because the appropriate in-app purchase is missing";
-"4n2-ps" = "The Standard Edition in-app purchase is required to perform migration.";
+"t28-j9" = "Kan inte migrera Mac App Store-köp då det tillämpliga in-app-köpet saknas";
+"4n2-ps" = "Ett in-app-köp av Standard Edition krävs för att migrera.";
 
-"12h-3w" = "Are you sure you want to purchase a new license key?";
-"dpo-ln" = "You already own the license key “%@.”";
-"qrx-aq" = "Upgrade Existing License Key";
-"zp8-8q" = "Purchase New License Key";
+"12h-3w" = "Är du säker på att du vill köpa en ny licensnyckel?";
+"dpo-ln" = "Du äger redan licensnyckeln “%@.”";
+"qrx-aq" = "Uppgradera befintlig licensnyckel";
+"zp8-8q" = "Köp ny licensnyckel";

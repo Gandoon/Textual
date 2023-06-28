@@ -36,45 +36,45 @@
  * This translation by Erik Hedlund (Gandoon/EGH). Copyright (c) 2020-2023
  *********************************************************************** */
 
-"l49-9y" = "Off-the-Record Messaging: Private conversation started with an UNRECOGNIZED user. <a href='#' onclick='appPrivate.encryptionAuthenticateUser(); return false;'>Perform authentication</a>.";
-"r3w-fj" = "Off-the-Record Messaging: Private conversation started with a recognized user.";
+"l49-9y" = "Off-the-Record-meddelanden: Privat samtal har inletts med en OKÄND användare. <a href='#' onclick='appPrivate.encryptionAuthenticateUser(); return false;'>Autentisera</a>.";
+"r3w-fj" = "Off-the-Record-meddelanden: Privat samtal har inletts med en känd användare.";
 
-"rj0-ys" = "Off-the-Record Messaging: %@ was successful in confirming their identity.";
-"ufr-mh" = "Off-the-Record Messaging: %@ FAILED to confirm their identity.";
+"rj0-ys" = "Off-the-Record-meddelanden: %@ lyckades bekräfta deras identitet.";
+"ufr-mh" = "Off-the-Record-meddelanden: %@ MISSLYCKADES bekräfta deras identitet.";
 
-"m1z-eb" = "Off-the-Record Messaging: Private conversation has ended.";
+"m1z-eb" = "Off-the-Record-meddelanden: Privat samtal har avslutats.";
 
-"f59-3b" = "Off-the-Record Messaging: Refreshing the private conversation…";
-"aii-2q" = "Off-the-Record Messaging: Starting a private conversation…";
+"f59-3b" = "Off-the-Record-meddelanden: Läser om det privata samtalet…";
+"aii-2q" = "Off-the-Record-meddelanden: Startar ett privat samtal…";
 
-"jww-e0" = "Off-the-Record Messaging: Our policy requires encryption but we are trying to send an unencrypted message. The message visible on your screen will be sent once a private conversation has started.";
-"jvt-fi" = "Off-the-Record Messaging: An error occurred while encrypting a message. The message was not sent.";
-"c5o-2l" = "Off-the-Record Messaging: Message has not been sent because the other user has closed the conversation.";
-"uhy-85" = "Off-the-Record Messaging: A private conversation could not be started.";
-"bl0-5i" = "Off-the-Record Messaging: Our original message has been sent back to us.";
-"c49-q0" = "Off-the-Record Messaging: The previous message was resent.";
-"6v9-w3" = "Off-the-Record Messaging: Received an encrypted message but cannot read it because a private conversation has not been started.";
-"9if-xp" = "Off-the-Record Messaging: Cannot read the message received.";
-"auo-n0" = "Off-the-Record Messaging: The message received contains malformed data.";
-"nl1-nf" = "Off-the-Record Messaging: Received a heartbeat";
-"iwt-9f" = "Off-the-Record Messaging: Sent a heartbeat";
-"2zx-p6" = "Off-the-Record Messaging: Received a generic error from the Off-the-Record Messaging library.";
-"1lf-f0" = "Off-the-Record Messaging: Received an unencrypted message.";
-"4by-8j" = "Off-the-Record Messaging: The message received was sent in a format that is not recognized.";
-"c7t-vi" = "Off-the-Record Messaging: Received and discarded a message intended for another instance.";
+"jww-e0" = "Off-the-Record-meddelanden: Vår policy kräver kryptering men vi försöker skicka ett okrypterat meddelande. Meddelandet på skärmen kommer skickas när ett privat samtal har inletts.";
+"jvt-fi" = "Off-the-Record-meddelanden: Ett fel inträffade vid krypteringen av meddelandet. Meddelandet skickades inte.";
+"c5o-2l" = "Off-the-Record-meddelanden: Meddelandet skickades inte då mottagaren har avslutat samtalet.";
+"uhy-85" = "Off-the-Record-meddelanden: Kunde inte påbörja ett privat samtal.";
+"bl0-5i" = "Off-the-Record-meddelanden: Vårt ursprungliga meddelande har skickats tillbaka till oss.";
+"c49-q0" = "Off-the-Record-meddelanden: Föregående meddelande skickades om.";
+"6v9-w3" = "Off-the-Record-meddelanden: Mottog ett krypterat meddelande men kan inte läsa det då ett privat samtal inte påbörjats.";
+"9if-xp" = "Off-the-Record-meddelanden: Kan inte läsa det mottagna meddelandet.";
+"auo-n0" = "Off-the-Record-meddelanden: Det mottagna meddelandet innehåller felformaterad data.";
+"nl1-nf" = "Off-the-Record-meddelanden: Mottog ett hjärtslag";
+"iwt-9f" = "Off-the-Record-meddelanden: Skickade ett hjärtslag";
+"2zx-p6" = "Off-the-Record-meddelanden: Mottog ett generellt felmeddelande från Off-the-Record Messaging-biblioteket.";
+"1lf-f0" = "Off-the-Record-meddelanden: Mottog ett okrypterat meddelande.";
+"4by-8j" = "Off-the-Record-meddelanden: Meddelandet skickades i ett format som inte käns igen.";
+"c7t-vi" = "Off-the-Record-meddelanden: Mottog och avfärdade ett meddelande avsett för en annan mottagare.";
 
-"jrv-gq" = "Off-the-Record Messaging: Cannot authenticate user because a private conversation is not active.";
-"g9p-8r" = "Off-the-Record Messaging: Cannot end private conversation because there is not one that's active.";
+"jrv-gq" = "Off-the-Record-meddelanden: Kan inte autentisera användare då det inte finns något aktivt samtal.";
+"g9p-8r" = "Off-the-Record-meddelanden: Kan inte avsluta privat samtal då det inte finns något aktivt samtal.";
 
-"8hr-8l" = "Requesting an off-the-record private conversation. However, you do not have a plugin to support that. See http://otr.cypherpunks.ca/ for more information.";
+"8hr-8l" = "Begär ett privat off-the-record-samtal. Dock har du ingen plugin som stödjer det. Se http://otr.cypherpunks.ca/ för mer information.";
 
-"anu-ky" = "Not Encrypted";
-"w34-mg" = "Encrypted & Unverified";
-"l9n-p9" = "Encrypted & Verified";
+"anu-ky" = "Ej krypterat";
+"w34-mg" = "Krypterat men inte verifierat";
+"l9n-p9" = "Krypterat och verifierat";
 
-"67n-6j" = "Off-the-Record Messaging: The fingerprint for %1$@ is “%2$@” — <a href='#' onclick='appPrivate.encryptionAuthenticateUser(); return false;'>Perform authentication</a>";
+"67n-6j" = "Off-the-Record-meddelanden: Fingeravtrycket för %1$@ är “%2$@” — <a href='#' onclick='appPrivate.encryptionAuthenticateUser(); return false;'>Autentisera</a>";
 
-"mnw-qt" = "Are you sure you want to transfer the file named “%@“?";
+"mnw-qt" = "Är du säker på att du vill överföra filen “%@“?";
 "nuo-8s" = "Denna fil kommer överföras okrypterat.";
 "ng0-5q" = "Överför fil";
 
