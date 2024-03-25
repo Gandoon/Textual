@@ -272,6 +272,7 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-BragSpam";
 				PRODUCT_NAME = BragSpam;
 			};
@@ -282,6 +283,7 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-BragSpam";
 				PRODUCT_NAME = BragSpam;
 			};
@@ -313,6 +315,7 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-BragSpam";
 				PRODUCT_NAME = BragSpam;
 			};

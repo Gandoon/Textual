@@ -652,6 +652,7 @@
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/ICPCoreMediaPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.InlineContentLoader-CoreMedia";
 				PRODUCT_NAME = "Core Media";
 				WRAPPER_EXTENSION = mediaPlugin;
@@ -664,6 +665,7 @@
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/ICPCoreMediaPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.InlineContentLoader-CoreMedia";
 				PRODUCT_NAME = "Core Media";
 				WRAPPER_EXTENSION = mediaPlugin;

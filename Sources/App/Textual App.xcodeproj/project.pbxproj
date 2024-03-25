@@ -649,7 +649,6 @@
 		4C06E43A20EC539E0055D09A /* EncryptionKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4C8F2F5D1AAE6467007821CC /* EncryptionKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		4C06E43B20EC539E0055D09A /* GRMustache.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CC4A7371F8A1404008FF15F /* GRMustache.framework */; };
 		4C06E43C20EC539E0055D09A /* GRMustache.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4CC4A7371F8A1404008FF15F /* GRMustache.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		4C06E44120EC539E0055D09A /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4C24DC751A93C9CE0098D1BE /* Sparkle.framework */; };
 		4C06E44220EC539E0055D09A /* Sparkle.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4C24DC751A93C9CE0098D1BE /* Sparkle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		4C06E44420EC53D70055D09A /* AutoHyperlinks.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF76A371A91153A0088BF9A /* AutoHyperlinks.framework */; };
 		4C06E44520EC53D70055D09A /* AutoHyperlinks.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF76A371A91153A0088BF9A /* AutoHyperlinks.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
@@ -3622,7 +3621,6 @@
 				4C06E42B20EC53620055D09A /* CoreServices.framework in Frameworks */,
 				4C06E43520EC539E0055D09A /* AutoHyperlinks.framework in Frameworks */,
 				4C06E42D20EC53620055D09A /* IOKit.framework in Frameworks */,
-				4C06E44120EC539E0055D09A /* Sparkle.framework in Frameworks */,
 				4C06E43920EC539E0055D09A /* EncryptionKit.framework in Frameworks */,
 				4C06E42F20EC53620055D09A /* QuartzCore.framework in Frameworks */,
 				4C06E43020EC53620055D09A /* Security.framework in Frameworks */,
@@ -8600,6 +8598,7 @@
 			baseConfigurationReference = 4C3154D620EB685700448776 /* Textual App.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				TEXTUAL_BUILT_WITH_APPCENTER_SDK_ENABLED = 0;
 				TEXTUAL_BUILT_WITH_LICENSE_MANAGER = 0;
 			};
@@ -8627,6 +8626,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = "Release (Sandboxed)";
@@ -8645,6 +8645,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = "Release (Sandboxed)";
@@ -8654,6 +8655,7 @@
 			baseConfigurationReference = 4C3154DF20EB685700448776 /* Textual App.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				TEXTUAL_BUILT_WITH_LICENSE_MANAGER = 0;
 			};
 			name = Debug;
@@ -8663,6 +8665,7 @@
 			baseConfigurationReference = 4C3154B720EB685700448776 /* Textual App.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				ONLY_ACTIVE_ARCH = YES;
 				TEXTUAL_BUILT_WITH_APPCENTER_SDK_ENABLED = 0;
 				TEXTUAL_BUILT_WITH_LICENSE_MANAGER = 0;
@@ -8676,6 +8679,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
@@ -8686,6 +8690,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TEXTUAL_BUILT_WITH_APPCENTER_SDK_ENABLED = 0;
 				TEXTUAL_BUILT_WITH_SPARKLE_ENABLED = 0;
@@ -8718,6 +8723,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				ENABLE_HARDENED_RUNTIME = YES;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
@@ -8736,6 +8742,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -8744,6 +8751,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

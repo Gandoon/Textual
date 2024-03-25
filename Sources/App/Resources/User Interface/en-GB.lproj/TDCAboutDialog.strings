@@ -3,7 +3,7 @@
 "3.ibExternalAccessibilityDescription" = "Logo Image";
 
 /* Class = "NSTextFieldCell"; title = "Textual 7"; ObjectID = "6"; */
-"6.title" = "Textual 7";
+"6.title" = "Textual 7 – GND fork";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Version Information"; ObjectID = "7"; */
 "7.ibExternalAccessibilityDescription" = "Version Information";

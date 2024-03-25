@@ -276,6 +276,7 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-SpammerParadise";
 				PRODUCT_NAME = SpammerParadise;
 			};
@@ -286,6 +287,7 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-SpammerParadise";
 				PRODUCT_NAME = SpammerParadise;
 			};
@@ -317,6 +319,7 @@
 			buildSettings = {
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-extensions.textual-SpammerParadise";
 				PRODUCT_NAME = SpammerParadise;
 			};

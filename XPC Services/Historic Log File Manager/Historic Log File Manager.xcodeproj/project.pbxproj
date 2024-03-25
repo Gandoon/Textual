@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		032385402BAC505C00DCBAC3 /* Textual-debug.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0323853F2BAC505C00DCBAC3 /* Textual-debug.txt */; };
 		4C469E4F20EC5E5300094EA4 /* HSLHistoricLogProcessDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C469E4220EC5E5300094EA4 /* HSLHistoricLogProcessDelegate.m */; };
 		4C469E5020EC5E5300094EA4 /* HLSHistoricLogViewContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C469E4320EC5E5300094EA4 /* HLSHistoricLogViewContext.m */; };
 		4C469E5120EC5E5300094EA4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C469E4420EC5E5300094EA4 /* main.m */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0323853F2BAC505C00DCBAC3 /* Textual-debug.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = "Textual-debug.txt"; path = "../../../Textual-debug.txt"; sourceTree = "<group>"; };
 		4C442C881E13B3D200B187F4 /* Scrollback History Manager.xpc */ = {isa = PBXFileReference; explicitFileType = "wrapper.xpc-service"; includeInIndex = 0; path = "Scrollback History Manager.xpc"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C469E4220EC5E5300094EA4 /* HSLHistoricLogProcessDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSLHistoricLogProcessDelegate.m; sourceTree = "<group>"; };
 		4C469E4320EC5E5300094EA4 /* HLSHistoricLogViewContext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HLSHistoricLogViewContext.m; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 		4C442C7F1E13B3D200B187F4 = {
 			isa = PBXGroup;
 			children = (
+				0323853F2BAC505C00DCBAC3 /* Textual-debug.txt */,
 				4C469E4120EC5E5300094EA4 /* Classes */,
 				4C442CA81E13B42900B187F4 /* Resources */,
 				4C442CBE1E13B77200B187F4 /* Frameworks */,
@@ -380,6 +383,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				032385402BAC505C00DCBAC3 /* Textual-debug.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -425,6 +429,7 @@
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${SRCROOT}/Classes/Headers/Private/HSLHistoricLogPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-ScrollbackHistoryManager";
 				PRODUCT_NAME = "Scrollback History Manager";
 			};
@@ -437,6 +442,7 @@
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${SRCROOT}/Classes/Headers/Private/HSLHistoricLogPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-ScrollbackHistoryManager";
 				PRODUCT_NAME = "Scrollback History Manager";
 			};
@@ -456,6 +462,7 @@
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${SRCROOT}/Classes/Headers/Private/HSLHistoricLogPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-ScrollbackHistoryManager";
 				PRODUCT_NAME = "Scrollback History Manager";
 			};

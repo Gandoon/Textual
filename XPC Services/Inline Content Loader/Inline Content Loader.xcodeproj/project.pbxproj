@@ -699,6 +699,7 @@
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/ICLProcessPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-InlineContentLoader";
 				PRODUCT_NAME = "Inline Content Loader";
 			};
@@ -711,6 +712,7 @@
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/ICLProcessPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-InlineContentLoader";
 				PRODUCT_NAME = "Inline Content Loader";
 			};
@@ -730,6 +732,7 @@
 				DEVELOPMENT_TEAM = A27DU4WWME;
 				GCC_PREFIX_HEADER = "${PROJECT_DIR}/Classes/Headers/Private/ICLProcessPCHPrivate.h";
 				INFOPLIST_FILE = "Resources/Property Lists/Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codeux.app-utilities.Textual-InlineContentLoader";
 				PRODUCT_NAME = "Inline Content Loader";
 			};
